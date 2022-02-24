@@ -14,9 +14,9 @@ São atividades necessárias do grupo:
 
 **2.3 Analisar os resultados produzidos** pelas rodadas garantindo que as mesmas estejam dentro de limites aceitáveis conforme o documento de aceitação dos resultados de rodadas.
 
-**2.4 Criar pacotes de teste** de validação de modelos contendo alguns experimentos padrão. Esses pacotes devem conter experimentos significativos de reconhecida importância passada (furacões, chuvas intensas, etc) e  ficarem disponível em áreas acessíveis bem como ter dados de comparação (PCDs, satélites, etc) prontos para a validação.
+**2.4 Criar pacotes de teste** de validação de modelos contendo alguns experimentos padrão. Esses pacotes devem conter experimentos significativos de reconhecida importância passada (furacões, chuvas intensas, etc) e ficarem disponíveis em áreas acessíveis bem como ter dados de comparação (PCDs, satélites, etc) prontos para a validação.
 
-**2.5 Desenvolver uma regra de aceitação** dos resultados conforme limites mínimos e máximos aceitáveis de cada variável nas comparações com dados observados ou medidadas de referência bem como na comparação com resultados obtidos anteriormente com versões anteriores do código.  
+**2.5 Desenvolver uma regra de aceitação** dos resultados conforme limites mínimos e máximos aceitáveis de cada variável nas comparações com dados observados ou medidas de referência bem como na comparação com resultados obtidos anteriormente com versões anteriores do código.  
 
 **2.6 Registrar todo os experimentos e seus resultados** em área organizada e com referência conhecida para efeito de consulta e comparações futuras
 
@@ -30,5 +30,5 @@ São atividades necessárias do grupo:
 
 ## 3. Estrutura de Pessoal
 
-O subgrupo de Teste será composto por um gerente e 2 analistas. Todos os membros, incluindo o gerente, podem atuar em todas as atividades necessárias e atribuidas ao subgrupo. Ao gerente cabe ainda distribuir e acompanhar as atividades, registrar o andamento no Kanban do projeto, fazer os relatórios e preencher documentos quando solicitado, preencher o documento de resultados de teste e cobrar da equipe as atividades e ações necessárias para os fins do subgrupo. 
+O subgrupo de Teste será composto por um gerente e 2 analistas. Todos os membros, incluindo o gerente, podem atuar em todas as atividades necessárias e atribuídas ao subgrupo. Ao gerente cabe ainda distribuir e acompanhar as atividades, registrar o andamento no Kanban do projeto, fazer os relatórios e preencher documentos quando solicitado, preencher o documento de resultados de teste e manter a equipe comprometida com as atividades e ações necessárias para os fins do subgrupo, agendar reuniões regulares, se necessário, para melhor gerenciamento das atividades.  
 
