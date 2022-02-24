@@ -16,15 +16,13 @@ São atividades necessárias do grupo:
 
 **2.4 Desenvolver scripts, programas, ferramentas  ou aplicativos** que auxiliem na tarefa de avaliação tornando-as automáticas ou semi-automáticas.
 
-**2.5 Desenvolver ou usar ferramentas automáticas de correção** de inconsitências na conformidade de forma a evitar a inaptidão dos códigos e evitar a devolução do código aos desenvolvedores
+**2.5 Desenvolver ou usar ferramentas automáticas de correção** de inconsitências na conformidade de forma a evitar a inaptidão dos códigos e evitar a devolução do código aos desenvolvedores.
 
-**2.6 Documentar todo o processo de avaliação** registrando as ferramentas, modelos, sub-processos e regras utilizadas na avaliação
+**2.6 Documentar todo o processo de avaliação** registrando as ferramentas, modelos, sub-processos e regras utilizadas na avaliação.
 
 **2.7 Criar documentos eletrônicos de conformidade,** simples e acessíveis que permitam registrar as avaliações e seus resultados e informar aos desenvolvedores e subgrupo de teste se o código está apto, inapto, onde requer retrabalho e demais informações.
 
 
 ## 3. Estrutura de Pessoal
 
-O subgrupo de Revisão será composto por um gerente e 3 analistas. Todos os membros, incluindo o gerente, podem atuar em todas as atividades necessárias e atribuidas ao subgrupo. Ao gerente cabe ainda distribuir e acompanhar as atividades, registrar o andamento no Kanban do projeto, fazer os relatórios e preencher documentos quando solicitado, fazer a declaração de conformidade u não conformidade e cobrar da equipe as atividades e ações necessárias para os fins do subgrupo. 
-
-2. 
+O subgrupo de Revisão será composto por um gerente e 3 analistas. Todos os membros, incluindo o gerente, podem atuar em todas as atividades necessárias e atribuídas ao subgrupo. Ao gerente cabe ainda distribuir e acompanhar as atividades, registrar o andamento no Kanban do projeto, fazer os relatórios e preencher documentos quando solicitado, fazer a declaração de conformidade ou não conformidade e manter a equipe comprometida com as atividades e ações necessárias para os fins do subgrupo, agendar reuniões regulares, se necessário, para melhor gerenciamento das atividades.
