@@ -111,9 +111,9 @@ Na Figura 1, estão diagramadas as etapas de desenvolvimento a serem adotadas pa
 
 ##### 4.3.1 Clone e Fork de desenvolvimento
 
-Para iniciar uma etapa de desenvolvimento torna-se necessário fazer uma cópia do diretório do Monan que pode ser obtida de duas maneiras: fazendo um  _clone_ do projeto para seu repositório local ou fazendo um _Fork_ do Monan para a sua conta no GitHub e em seguida faz um clone para seu repositório local. A colaboração através do o _clone_ é feito por usuário na condição de colaborador regular do Monan(Figura 2) enquanto que o _Fork_ permite a colaboração de qualquer usuário do GitHub(Figura 3). 
+Para iniciar uma etapa de desenvolvimento torna-se necessário fazer uma cópia do diretório do MONAN que pode ser obtida de duas maneiras: fazendo um  _clone_ do projeto para seu repositório local ou fazendo um _fork_ do MONAN para a sua conta no GitHub e em seguida faz um _clone_ para seu repositório local. A colaboração através do _clone_ é feito por usuário na condição de colaborador regular do MONAN(Figura 2) enquanto que o _Fork_ permite a colaboração de qualquer usuário do GitHub(Figura 3). 
 
-Para realizar o **_clone_** utiliza-se o comando de `clone` do Git:
+Para realizar o **_clone_** utiliza-se o comando `clone` do Git:
 
 ```bash
 git clone https://github.com/monanadmin/monan.git
@@ -121,47 +121,47 @@ git clone https://github.com/monanadmin/monan.git
 
 ##### ![Clone de desenvolvimento](https://www.toolsqa.com/gallery/Git/3.Git-Clone.webp)
 
-<figcaption>Figura 2 -  Clone from  the directory upstream (Monan).</figcaption>
+<figcaption>Figura 2 -  Clone from  the directory upstream (MONAN).</figcaption>
 
 
-Para realizar um **_fork_**  (https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)  do repositório siga os passos: 
+Para realizar um **_fork_**  (https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)  do repositório: 
 
 1. Em GitHub.com, acesse o repositório _monanadmin/monan.git_ ;
 2. No canto  superior direito, click em **Fork** .
 
 Após realizar o _fork_ para sua área, o  _Clone_ do diretório para o repositório local em seu computador pode ser feito da seguinte maneira:
 
-1. Em GitHub.com vá até seu diretório _Fork_ do Monan;
+1. Em GitHub.com vá até seu diretório _fork_ do MONAN;
 2. Acima da lista de arquivos clicl em Code;
-3. Escolha a maneira que o clone será feito: HTTPS, GiHub Desktop ou Download e copie o endereço.
+3. Escolha a maneira que o clone será feito: HTTPS, GiHub Desktop ou Download e copie o endereço;
 4. Abra um Terminal; 
 5. Entre no diretório de trabalho do projeto;
-6. Para clonar o Monan Digite e cole o endereço copiado:
+6. Para clonar o MONAN Digite e cole o endereço copiado:
 
 ```bash
      $ git clone https://github.com/YOUR-USERNAME/monanadmin/monan.git 
 ```
-7. Digite **Enter** e seu clone local será criado.
+7. Tecle **Enter** e seu clone local será criado.
 
-Para manter sincronizado seu clone local com o repositório original é preciso configurar o Git fazer um _pull_ das mudanças do diretório do original do Monan (https://docs.github.com/en/get-started/quickstart/fork-a-repo#configuring-git-to-sync-your-fork-with-the-original-repository):
+Para manter sincronizado seu clone local com o repositório original é preciso configurar o Git fazer um _pull_ das mudanças do diretório do original do MONAN (https://docs.github.com/en/get-started/quickstart/fork-a-repo#configuring-git-to-sync-your-fork-with-the-original-repository):
 
-1. Em GitHub.com vá até seu diretório _Fork_ do Monan
-2. Acima da lista de arquivos clicl em Code.
-3. Escolha a maneira que o clone será feito: HTTPS, GiHub Desktop ou Download e copie o endereço.
-4. Abra um Terminal 
-5. Entre no diretório de trabalho do projeto
-6. Para clonar o Monan Digite e cole o endereço copiado:
+1. Em GitHub.com vá até seu diretório _fork_ do MONAN;
+2. Acima da lista de arquivos click em Code;
+3. Escolha a maneira que o clone será feito: HTTPS, GiHub Desktop ou Download e copie o endereço;
+4. Abra um Terminal;
+5. Entre no diretório de trabalho do projeto;
+6. Para clonar o MONAN cole o endereço (copiado em 3.):
 
 ```bash
      $ git remote add upstream https://github.com/monanadmin/monan.git
 ```
-7. Digite #Enter e seu diretório local está pronto para ser sincronizado com o diretório do Monan.
+7. Tecle **Enter** e seu diretório local está pronto para ser sincronizado com o diretório do MONAN.
 
-Para sincronizar (https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-from-the-command-line):
+Para sincronizar o diretório do MONAN com seu diretório local.$ git merge upstream/main(https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-from-the-command-line):
 
 1. Abra um Terminal; 
 2. Entre no diretório de trabalho do projeto;
-3. Busque os ramos e os respectivos commits no diretório (original) Monan:
+3. Busque os ramos e os respectivos commits no diretório (original) MONAN:
 
 ```bash
         $ git fetch upstream 
@@ -171,15 +171,15 @@ Para sincronizar (https://docs.github.com/en/pull-requests/collaborating-with-pu
 ```bash
         $ git checkout main
 ```
-5. Faça um _merge_ das mudanças ramo padrão do Monan no ramo padrão do diretório local:
+5. Faça um _merge_ das mudanças ramo padrão do MONAN no ramo padrão do diretório local:
 
 ```bash
-       $ git checkout main 
+       $ git merge upstream/main
 ```
 
 ##### ![Fork de desenvolvimento com clone local](https://www.toolsqa.com/gallery/Git/4.1_Pull-Request.png)
 
-<figcaption>Figura 3 -  Forked directory from the upstream (Monan).</figcaption>
+<figcaption>Figura 3 -  Forked directory from the upstream (MONAN).</figcaption>
 
 
 ##### 4.3.2 Criando uma requisição para um desenvolvimento
