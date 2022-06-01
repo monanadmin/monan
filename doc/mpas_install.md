@@ -4,17 +4,24 @@
 
 ##### Autores: Roberto Pinto Souto, ...
 
+
+
+## Cluster Minerva (Dell)
+
 Baixando o código-fonte do repositório Git do MPAS, utilizando *branch* relativo a versão 6.3 do MPAS:
 
 ```bash
+$ ssh minerva
 $ wd
 $ mkdir -p mpas/github
+$ cd mpas/github
 $ git clone --depth 1 --branch v6.3 https://github.com/MPAS-Dev/MPAS-Model.git MPAS-Model_v6.3_minerva_mlogin
 $ cd MPAS-Model_v6.3_minerva_mlogin
 $ git switch -c branch_v6.3
 ```
 
 Mostrando informações do *commit* desta versão:
+
 ```bash
 $ git log
 commit 3a7b219bcc2e8fef61c629bb784e027ccdf693df (grafted, HEAD -> branch_v6.3, tag: v6.3)
@@ -45,7 +52,17 @@ Date:   Sat May 11 14:23:21 2019 -0600
 
 
 
+Carregar no ambiente o gerenciador de pacotes Spack:
+
+```bash
+$ source /work/rpsouto.incc/.spack/v0.17.1_minerva_mlogin/env_minerva.sh
+$ source /work/rpsouto.incc/.spack/v0.17.1_minerva_mlogin/env_spack.sh
+```
+
+
+
 Carregar as bibliotecas utilizadas pelo MPAS. Neste exemplo, são carregadas as bibliotecas compiladas pelo Spack para a instalação do pacote `mpas-model`. 
+
 ```bash
 $ spack load --only dependencies mpas-model
 $ spack load --list
@@ -56,13 +73,8 @@ hwloc@2.6.0           libiconv@1.16      ncurses@6.2     numactl@2.0.14        o
 libedit@3.1-20210216  libpciaccess@0.16  netcdf-c@4.8.1  openmpi@4.1.1         parallel-netcdf@1.12.2  xz@5.2.5
 ```
 
-Instala o curl
-```bash
-$ spack install curl%gcc@8.4.0
-$ spack load curl
-```
+Verifica os caminhos das bibliotecas `netcdf-c`, `parallel-netcdf` e `parallelio`, necessárias para a instalação do MPAS.
 
-Verifica caminhos
 ```bash
 $ spack find -p netcdf-c parallel-netcdf parallelio
 ==> 3 installed packages
@@ -72,7 +84,18 @@ parallel-netcdf@1.12.2  /work/rpsouto.incc/spack/v0.17.1_minerva_mlogin/opt/spac
 parallelio@2_5_4        /work/rpsouto.incc/spack/v0.17.1_minerva_mlogin/opt/spack/linux-rhel8-zen/gcc-8.4.0/parallelio-2_5_4-xbzx6sbupydf35wfo2fkfqs5rxrums4y
 ```
 
-Lista script de instalação
+
+
+Criar script para instalação do MPAS
+
+```bash
+$ vi ../make_gfortran.sh
+```
+
+
+
+Contendo o conteúdo a seguir, definindo as variáveis de ambiente `NETCDF`, `PNETCF` e `PIO`, e executando comando make com alguns parâmetros a serem seguidos na durante a compilação do código-fonte. O cabeçalho do script explica o significado de cada parâmetro. Neste exemplo o MPAS será compilado em precisão simples (single).
+
 ```bash
 #!/bin/bash
 
@@ -117,10 +140,12 @@ make -j 8 gfortran CORE=atmosphere USE_PIO2=true PRECISION=single 2>&1 | tee mak
 #make -j 8 gfortran CORE=atmosphere OPENMP=true USE_PIO2=true PRECISION=single 2>&1 | tee make.output
 ```
 
-Mostra execução do script
+
+
+Executa o script
+
 ```bash
-$ chmod +x ../make_gfortran.sh
-$ ../make_gfortran.sh
+$ source ../make_gfortran.sh
 
 ....
 
@@ -134,65 +159,31 @@ MPAS was built without OpenMP support.
 MPAS was built with .F files.
 The native timer interface is being used
 Using the PIO 2 library.
-*******************************************************************************
+*******************************************************************************o
 ```
 
+A mensagem final acima informa que a compilação foi bem-sucedida, além dos parâmetros de instalação empregados. É recomendável copiar os executáveis gerados em um diretório a parte, preferencialmente com nome que remeta a alguma propriedade da compilação efetuada. 
 
-copia os executaveis 
 ```bash
 $ mkdir bin_single
 $ cp build_tables atmosphere_model make.output bin_single/
 ```
 
-Lista novamente o script agora com OpenMP
+
+
+Tentar repetir a instalação, mas agora com ativando a opção com OpenMP 
+(`OPENMP=true`). Antes, deve-se limpar a instalação atual:
+
 ```bash
-#!/bin/bash
-
-#Usage: make target CORE=[core] [options]
-
-#Example targets:
-#    ifort
-#    gfortran
-#    xlf
-#    pgi
-
-#Availabe Cores:
-#    atmosphere
-#    init_atmosphere
-#    landice
-#    ocean
-#    seaice
-#    sw
-#    test
-
-#Available Options:
-#    DEBUG=true    - builds debug version. Default is optimized version.
-#    USE_PAPI=true - builds version using PAPI for timers. Default is off.
-#    TAU=true      - builds version using TAU hooks for profiling. Default is off.
-#    AUTOCLEAN=true    - forces a clean of infrastructure prior to build new core.
-#    GEN_F90=true  - Generates intermediate .f90 files through CPP, and builds with them.
-#    TIMER_LIB=opt - Selects the timer library interface to be used for profiling the model. Options are:
-#                    TIMER_LIB=native - Uses native built-in timers in MPAS
-#                    TIMER_LIB=gptl - Uses gptl for the timer interface instead of the native interface
-#                    TIMER_LIB=tau - Uses TAU for the timer interface instead of the native interface
-#    OPENMP=true   - builds and links with OpenMP flags. Default is to not use OpenMP.
-#    OPENACC=true  - builds and links with OpenACC flags. Default is to not use OpenACC.
-#    USE_PIO2=true - links with the PIO 2 library. Default is to use the PIO 1.x library.
-#    PRECISION=single - builds with default single-precision real kind. Default is to use double-precision.
-#    SHAREDLIB=true - generate position-independent code suitable for use in a shared library. Default is false.
-
-export NETCDF=/work/rpsouto.incc/spack/v0.17.1_minerva_mlogin/opt/spack/linux-rhel8-zen/gcc-8.4.0/netcdf-c-4.8.1-cgxru3taqkwr2eguhpzi6ld5pk3fdhbk
-export PNETCDF=/work/rpsouto.incc/spack/v0.17.1_minerva_mlogin/opt/spack/linux-rhel8-zen/gcc-8.4.0/parallel-netcdf-1.12.2-jnzqzicokmvmogm5zthffgvo27ozoq3c
-export PIO=/work/rpsouto.incc/spack/v0.17.1_minerva_mlogin/opt/spack/linux-rhel8-zen/gcc-8.4.0/parallel-netcdf-1.12.2-jnzqzicokmvmogm5zthffgvo27ozoq3c
-
-#make -j 8 gfortran CORE=atmosphere USE_PIO2=true PRECISION=single 2>&1 | tee make.output
-make -j 8 gfortran CORE=atmosphere OPENMP=true USE_PIO2=true PRECISION=single 2>&1 | tee make.output
+$ make clean CORE=atmosphere
+$ make -j 8 gfortran CORE=atmosphere OPENMP=true USE_PIO2=true PRECISION=single 2>&1 | tee make.output
 ```
 
-Executa o script
-```bash
-$ ../make_gfortran.sh
 
+
+Se tudo correr bem, ao final irá aparecer a mensagem abaixo, semelhante a anteriormente vista
+
+```bash
 ....
 
 *******************************************************************************
@@ -208,7 +199,8 @@ Using the PIO 2 library.
 *******************************************************************************
 ```
 
-Copia
+Copiar para um novo diretório os executáveis recém criados:
+
 ```bash
 $ mkdir bin_single_openmp
 $ cp build_tables atmosphere_model make.output bin_single_openmp/
