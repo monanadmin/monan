@@ -4,7 +4,8 @@
 
 ##### Autores: Roberto Pinto Souto, ...
 
-Baixando o código-fonte do repositório Git do MPAS:
+Baixando o código-fonte do repositório Git do MPAS, utilizando *branch* relativo a versão 6.3 do MPAS:
+
 ```bash
 $ wd
 $ mkdir -p mpas/github
@@ -13,6 +14,7 @@ $ cd MPAS-Model_v6.3_minerva_mlogin
 $ git switch -c branch_v6.3
 ```
 
+Mostrando informações do *commit* desta versão:
 ```bash
 $ git log
 commit 3a7b219bcc2e8fef61c629bb784e027ccdf693df (grafted, HEAD -> branch_v6.3, tag: v6.3)
@@ -41,6 +43,9 @@ Date:   Sat May 11 14:23:21 2019 -0600
       Increment version number to 6.3
 ```
 
+
+
+Carregar as bibliotecas utilizadas pelo MPAS. Neste exemplo, são carregadas as bibliotecas compiladas pelo Spack para a instalação do pacote `mpas-model`. 
 ```bash
 $ spack load --only dependencies mpas-model
 $ spack load --list
@@ -51,11 +56,13 @@ hwloc@2.6.0           libiconv@1.16      ncurses@6.2     numactl@2.0.14        o
 libedit@3.1-20210216  libpciaccess@0.16  netcdf-c@4.8.1  openmpi@4.1.1         parallel-netcdf@1.12.2  xz@5.2.5
 ```
 
+Instala o curl
 ```bash
 $ spack install curl%gcc@8.4.0
 $ spack load curl
 ```
 
+Verifica caminhos
 ```bash
 $ spack find -p netcdf-c parallel-netcdf parallelio
 ==> 3 installed packages
@@ -65,6 +72,7 @@ parallel-netcdf@1.12.2  /work/rpsouto.incc/spack/v0.17.1_minerva_mlogin/opt/spac
 parallelio@2_5_4        /work/rpsouto.incc/spack/v0.17.1_minerva_mlogin/opt/spack/linux-rhel8-zen/gcc-8.4.0/parallelio-2_5_4-xbzx6sbupydf35wfo2fkfqs5rxrums4y
 ```
 
+Lista script de instalação
 ```bash
 #!/bin/bash
 
@@ -109,6 +117,7 @@ make -j 8 gfortran CORE=atmosphere USE_PIO2=true PRECISION=single 2>&1 | tee mak
 #make -j 8 gfortran CORE=atmosphere OPENMP=true USE_PIO2=true PRECISION=single 2>&1 | tee make.output
 ```
 
+Mostra execução do script
 ```bash
 $ chmod +x ../make_gfortran.sh
 $ ../make_gfortran.sh
@@ -128,11 +137,14 @@ Using the PIO 2 library.
 *******************************************************************************
 ```
 
+
+copia os executaveis 
 ```bash
 $ mkdir bin_single
 $ cp build_tables atmosphere_model make.output bin_single/
 ```
 
+Lista novamente o script agora com OpenMP
 ```bash
 #!/bin/bash
 
@@ -177,6 +189,7 @@ export PIO=/work/rpsouto.incc/spack/v0.17.1_minerva_mlogin/opt/spack/linux-rhel8
 make -j 8 gfortran CORE=atmosphere OPENMP=true USE_PIO2=true PRECISION=single 2>&1 | tee make.output
 ```
 
+Executa o script
 ```bash
 $ ../make_gfortran.sh
 
@@ -195,6 +208,7 @@ Using the PIO 2 library.
 *******************************************************************************
 ```
 
+Copia
 ```bash
 $ mkdir bin_single_openmp
 $ cp build_tables atmosphere_model make.output bin_single_openmp/
