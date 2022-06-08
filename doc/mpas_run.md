@@ -217,6 +217,9 @@ Arquivo `namelist.atmosphere`, que configura os parâmetros de execução. O par
     config_bucket_update = 'none'
     config_physics_suite = 'mesoscale_reference'
 /
+&soundings
+    config_sounding_interval = 'none'
+/
 ```
 
 
