@@ -150,7 +150,7 @@ $ ln -s /work/rpsouto.incc/mpas/github/MPAS-Model_v6.3_minerva/bin_single_mpich/
 
 
 
-Arquivo `namelist.atmosphere`, que configura os parâmetros de execução. O parâmetro que define o tempo de integração é dado por `config_run_duration = '3_00:00:00'`, ou seja, 3 dias. Este valor pode ser alterado para, por exempo, 6 horas `config_run_duration = '0_00:06:00'`, para fins de testes iniciais de execução.
+Arquivo `namelist.atmosphere`, que configura os parâmetros de execução. O parâmetro que define o tempo de integração é dado por `config_run_duration = '3_00:00:00'`, ou seja, 3 dias. Este valor pode ser alterado para, por exempo, 6 horas `config_run_duration = '0_06:00:00'`, para fins de testes iniciais de execução.
 
 #### namelist.atmosphere.sh
 
