@@ -1,0 +1,7 @@
+<map id="seaice_ridging_diagnostics::seaice_restart_ridging_diagnostics" name="seaice_ridging_diagnostics::seaice_restart_ridging_diagnostics">
+<area shape="rect" id="node1" title="Save restart for MPAS&#45;Seaice analysis member." alt="" coords="905,5,1103,60"/>
+<area shape="rect" id="node2" href="$namespaceseaice__analysis__driver.html#a662b6a8d2c1a354304582ba3a9441db2" title="Finalize MPAS&#45;Ocean analysis driver." alt="" coords="669,13,857,53"/>
+<area shape="rect" id="node3" href="$namespaceseaice__core.html#a23c5af2d2d75558b40ff00898b7f683a" title=" " alt="" coords="472,13,621,53"/>
+<area shape="rect" id="node4" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="260,13,424,53"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,13,212,53"/>
+</map>

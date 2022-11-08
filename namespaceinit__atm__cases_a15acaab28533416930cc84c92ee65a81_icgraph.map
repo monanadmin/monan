@@ -1,0 +1,8 @@
+<map id="init_atm_cases::blend_bdy_terrain" name="init_atm_cases::blend_bdy_terrain">
+<area shape="rect" id="node1" title="Combines first&#45;guess terrain with static terrain along regional domain boundaries." alt="" coords="1067,35,1231,75"/>
+<area shape="rect" id="node2" href="$namespaceinit__atm__cases.html#abb5aeeea5b2ab07034df49b4387bc168" title=" " alt="" coords="869,5,1019,45"/>
+<area shape="rect" id="node3" href="$namespaceinit__atm__cases.html#ac583db85e2a56097621b29c4b0ba2111" title=" " alt="" coords="672,35,821,75"/>
+<area shape="rect" id="node4" href="$namespaceinit__atm__core.html#a6bf6152fa2f635dc9e02dd38d3b08371" title=" " alt="" coords="484,35,624,75"/>
+<area shape="rect" id="node5" href="$namespaceinit__atm__core__interface.html#a6e3e2b14ef27bc9bb6b4f82cbd1b9f7f" title="Init atmosphere core setup routine." alt="" coords="260,35,436,75"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,35,212,75"/>
+</map>

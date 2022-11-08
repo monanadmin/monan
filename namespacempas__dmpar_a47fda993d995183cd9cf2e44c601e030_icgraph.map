@@ -1,0 +1,11 @@
+<map id="mpas_dmpar::mpas_dmpar_sum_int_array" name="mpas_dmpar::mpas_dmpar_sum_int_array">
+<area shape="rect" id="node1" title="MPAS dmpar integer array sum routine." alt="" coords="1356,69,1556,109"/>
+<area shape="rect" id="node2" href="$mpas__ocn__pointwise__stats_8F.html#afa610fb2e3114c330039d6a6369c3054" title="MPAS ocean analysis mode member: pointwise_stats." alt="" coords="1114,5,1286,45"/>
+<area shape="rect" id="node3" href="$mpas__seaice__pointwise__stats_8F.html#ab9bbac24db4d3e6ba9010c21a2cafd8f" title="MPAS&#45;seaice analysis mode member: pointwise_stats." alt="" coords="1105,69,1295,109"/>
+<area shape="rect" id="node4" href="$namespaceocn__regional__stats.html#aad30b199b2272a60be33487452a5e2c7" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1092,133,1308,173"/>
+<area shape="rect" id="node5" href="$namespaceocn__analysis__driver.html#a9ce8345bef198355e4e3cee4e1e40dbc" title="Finalize MPAS&#45;Ocean analysis driver." alt="" coords="875,133,1044,173"/>
+<area shape="rect" id="node6" href="$namespaceocn__forward__mode.html#a3d844494119d300f797b13a519884088" title="Finalize MPAS&#45;Ocean Forward Mode." alt="" coords="648,133,827,173"/>
+<area shape="rect" id="node7" href="$namespaceocn__core.html#a5865b6e236ce7a2803449fe9b87aba9f" title="MPAS&#45;Ocean Finalize Driver." alt="" coords="453,133,600,173"/>
+<area shape="rect" id="node8" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="260,133,405,173"/>
+<area shape="rect" id="node9" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,133,212,173"/>
+</map>

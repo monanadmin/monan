@@ -1,0 +1,4 @@
+<map id="mpas_tensor_operations::mpas_strain_rate_r3cell" name="mpas_tensor_operations::mpas_strain_rate_r3cell">
+<area shape="rect" id="node1" title="Computes strain rate at cell centers, in R3." alt="" coords="5,5,192,45"/>
+<area shape="rect" id="node2" href="$namespacempas__matrix__operations.html#ad0178fe85a1a2d665c2488b2f390c3e0" title="Convert a 3x3 format matrix to a symetric 6&#45;index matrix." alt="" coords="240,5,487,45"/>
+</map>

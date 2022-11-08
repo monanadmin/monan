@@ -1,0 +1,9 @@
+<map id="mpas_geometry_utils::mpas_wachspress_coordinates" name="mpas_geometry_utils::mpas_wachspress_coordinates">
+<area shape="rect" id="node1" title="Compute the barycentric Wachspress coordinates for a polygon." alt="" coords="5,137,237,177"/>
+<area shape="rect" id="node2" href="$namespacempas__geometry__utils.html#a6a5881f9aba0e2d8dc9f93a07fd60787" title="Calculates area of a triangle, whether on a sphere or a plane." alt="" coords="285,137,495,177"/>
+<area shape="rect" id="node3" href="$namespacempas__geometry__utils.html#adf8bbd5135ceadb22d7a769084a70439" title="Calculates signed area of a triangle in a plane." alt="" coords="543,78,716,133"/>
+<area shape="rect" id="node6" href="$namespacempas__geometry__utils.html#aa4e8c76f75f4b92c51c344be5ff234a1" title="Calculates area of a triangle on a sphere." alt="" coords="543,181,716,235"/>
+<area shape="rect" id="node4" href="$namespacempas__vector__operations.html#a75e2d3598dc45c9c1ff1c2f5e28376ee" title="MPAS 3D cross product routine." alt="" coords="764,5,967,45"/>
+<area shape="rect" id="node5" href="$namespacempas__vector__operations.html#ad2436a9d85af400bf9a9622ba208b6cc" title="MPAS 3D vector magnitude routine." alt="" coords="774,93,957,133"/>
+<area shape="rect" id="node7" href="$namespacempas__geometry__utils.html#a1fe128cfa38b4eb94fc5b725f26d0b53" title=" " alt="" coords="784,188,947,228"/>
+</map>

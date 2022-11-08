@@ -1,0 +1,7 @@
+<map id="mpas_atm_boundaries::mpas_atm_bdy_checks" name="mpas_atm_boundaries::mpas_atm_bdy_checks">
+<area shape="rect" id="node1" title="Checks compatibility of limited&#45;area settings." alt="" coords="892,5,1075,45"/>
+<area shape="rect" id="node2" href="$namespaceatm__core.html#a2a7f30f4d8e1483b64a96f84b58f8211" title="Checks input fields and options for compatibility." alt="" coords="684,5,844,45"/>
+<area shape="rect" id="node3" href="$namespaceatm__core.html#a0659d498c0831e5af045c2b189fcd21d" title=" " alt="" coords="456,13,636,38"/>
+<area shape="rect" id="node4" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,5,408,45"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

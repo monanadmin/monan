@@ -1,0 +1,9 @@
+<map id="sw_advection::sw_arc_bisect" name="sw_advection::sw_arc_bisect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,69,169,109"/>
+<area shape="rect" id="node2" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="217,69,373,109"/>
+<area shape="rect" id="node3" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="421,23,616,49"/>
+<area shape="rect" id="node6" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="904,69,1108,109"/>
+<area shape="rect" id="node7" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="433,127,604,167"/>
+<area shape="rect" id="node4" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="664,12,856,52"/>
+<area shape="rect" id="node5" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="926,5,1086,45"/>
+</map>

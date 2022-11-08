@@ -1,0 +1,10 @@
+<map id="mpas_timekeeping::mpas_alarm_get_next_ring_time" name="mpas_timekeeping::mpas_alarm_get_next_ring_time">
+<area shape="rect" id="node1" title="This function returns the next ring time of an alarm." alt="" coords="1459,29,1659,69"/>
+<area shape="rect" id="node2" href="$namespaceli__time__integration__fe.html#a0229bb260b1415177f64221456f0bd07" title="Adjusts the time step based on the CFL condition." alt="" coords="1265,29,1411,69"/>
+<area shape="rect" id="node3" href="$namespaceli__time__integration__fe.html#ad6645de9e373658d9335afe4a421b074" title="Preparation for advection, including CFL diagnostics." alt="" coords="1047,29,1217,69"/>
+<area shape="rect" id="node4" href="$namespaceli__time__integration__fe.html#ad06e7e427e0638a849d374ea0fd3453c" title="Forward Euler time integration scheme." alt="" coords="832,22,999,77"/>
+<area shape="rect" id="node5" href="$namespaceli__time__integration.html#a7e1e2095c8bd4a84b257fc566ecf0012" title="Advance model state forward in time by the specified time step." alt="" coords="639,29,784,69"/>
+<area shape="rect" id="node6" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="447,37,591,62"/>
+<area shape="rect" id="node7" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="260,29,399,69"/>
+<area shape="rect" id="node8" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,29,212,69"/>
+</map>

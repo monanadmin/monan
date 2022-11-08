@@ -1,0 +1,52 @@
+<map id="mpas_log::mpas_log_open" name="mpas_log::mpas_log_open">
+<area shape="rect" id="node1" title="Connects to a log file for the log module to use." alt="" coords="1163,1311,1357,1337"/>
+<area shape="rect" id="node2" href="$namespaceatm__core__interface.html#af1d21fbc1aa35aec95affe8bbf5f00cb" title="Log setup routine." alt="" coords="704,5,852,45"/>
+<area shape="rect" id="node4" href="$namespaceinit__atm__core__interface.html#a574888643486ba4af5c5c6b77add8569" title="Log setup routine." alt="" coords="690,69,866,109"/>
+<area shape="rect" id="node6" href="$namespaceli__core__interface.html#a1564bcdae325144610e9b85cd0327e3d" title="Log setup routine." alt="" coords="963,1272,1102,1312"/>
+<area shape="rect" id="node8" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="955,1208,1111,1248"/>
+<area shape="rect" id="node47" href="$namespaceocn__core__interface.html#a0d5417549aa3ffdfdfbc427209316606" title="Log setup routine." alt="" coords="960,1336,1105,1376"/>
+<area shape="rect" id="node48" href="$namespaceseaice__core__interface.html#a07d35c24ed4c315d9d6e7959fa6e9f91" title="Log setup routine." alt="" coords="951,1400,1115,1440"/>
+<area shape="rect" id="node49" href="$namespacesw__core__interface.html#a2ced7a5a128f046148ecd52f105046cd" title="Log setup routine." alt="" coords="959,1464,1107,1504"/>
+<area shape="rect" id="node50" href="$namespacetest__core__interface.html#a468ce8ed26183e744d895dac2228d171" title="Log setup routine." alt="" coords="959,1528,1106,1568"/>
+<area shape="rect" id="node3" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="5,789,153,829"/>
+<area shape="rect" id="node5" href="$namespaceinit__atm__core__interface.html#a6e3e2b14ef27bc9bb6b4f82cbd1b9f7f" title="Init atmosphere core setup routine." alt="" coords="429,69,605,109"/>
+<area shape="rect" id="node7" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="709,2552,847,2592"/>
+<area shape="rect" id="node9" href="$mpas__atmphys__rrtmg__lwinit_8F.html#a069914443712227b9698354b0039ee9c" title=" " alt="" coords="689,1016,867,1056"/>
+<area shape="rect" id="node10" href="$mpas__atmphys__rrtmg__swinit_8F.html#a5875a19013a0eb8322eba74f173a40a1" title=" " alt="" coords="689,1080,867,1120"/>
+<area shape="rect" id="node11" href="$namespacempas__forcing.html#a3018b224805a688795d80bf941c791db" title="add a new forcing field to the forcing stream" alt="" coords="681,1144,875,1184"/>
+<area shape="rect" id="node12" href="$namespaceli__advection.html#a3dceef83cbd441d7456fa4b651a96340" title="Advect thickness and tracers using a first&#45;order upwind scheme." alt="" coords="679,1208,877,1248"/>
+<area shape="rect" id="node13" href="$namespaceli__time__integration__fe.html#a55cc16587ac35ff1ac6e176b5d4bef23" title="Advect thickness and tracers." alt="" coords="697,1272,859,1312"/>
+<area shape="rect" id="node14" href="$namespaceseaice__velocity__solver.html#a871088e50c7fc537aa49b274a0f9626b" title=" " alt="" coords="432,1365,603,1405"/>
+<area shape="rect" id="node15" href="$namespaceatm__advection.html#afea08d4eb3944075b1d16b8f8408fcbd" title=" " alt="" coords="705,1451,851,1491"/>
+<area shape="rect" id="node16" href="$namespaceatm__core.html#a8e8d0eec03f991ae91cfd4f2c46598e7" title=" " alt="" coords="687,736,869,776"/>
+<area shape="rect" id="node17" href="$namespaceatm__core.html#ab56c4d2a9d892ccc84cd102698988747" title=" " alt="" coords="437,757,597,797"/>
+<area shape="rect" id="node18" href="$namespaceatm__core.html#a0659d498c0831e5af045c2b189fcd21d" title=" " alt="" coords="201,765,381,790"/>
+<area shape="rect" id="node19" href="$namespaceatm__core.html#a9a217bedfc2045be61882ededb24c41b" title=" " alt="" coords="215,820,367,860"/>
+<area shape="rect" id="node20" href="$namespaceatm__core.html#a7a2a9ad754bbe9947ddc39c1bd47a429" title=" " alt="" coords="201,895,381,921"/>
+<area shape="rect" id="node21" href="$namespacempas__atm__iau.html#af893ee8c22a3f09fbd817e8251ec03a1" title=" " alt="" coords="671,1515,885,1541"/>
+<area shape="rect" id="node22" href="$namespaceatm__core.html#adf65df27c10acc004d45e93defe007ae" title=" " alt="" coords="681,1565,875,1605"/>
+<area shape="rect" id="node23" href="$namespacempas__atmphys__packages.html#acc72842bbffed8b75e34ac23db1ea1ef" title=" " alt="" coords="679,1629,877,1669"/>
+<area shape="rect" id="node24" href="$namespaceseaice__velocity__solver__unit__tests.html#a5de3f9de32ed9006c88db22fbee94d35" title=" " alt="" coords="663,1694,893,1749"/>
+<area shape="rect" id="node25" href="$namespaceinit__atm__bitarray.html#a01b6edda2b7ebbb8a0a35142b42acc41" title=" " alt="" coords="707,1773,849,1813"/>
+<area shape="rect" id="node26" href="$namespaceinit__atm__bitarray.html#a53ff6a4a681ddf5aa033039a0b798a65" title=" " alt="" coords="707,1837,849,1877"/>
+<area shape="rect" id="node27" href="$namespaceinit__atm__cases.html#a15acaab28533416930cc84c92ee65a81" title="Combines first&#45;guess terrain with static terrain along regional domain boundaries." alt="" coords="696,1901,860,1941"/>
+<area shape="rect" id="node28" href="$namespaceseaice__velocity__solver.html#a3e9f8c65b6fd21cc071552590f9c059e" title=" " alt="" coords="693,1965,863,2005"/>
+<area shape="rect" id="node29" href="$namespaceseaice__advection__incremental__remap.html#aa05cf9fe43fd2b4d78858f0c17d1d13f" title="Checks the number of halo layers against vertex degree." alt="" coords="653,2029,903,2069"/>
+<area shape="rect" id="node30" href="$interfacecheck__regex__match.html#acc484dfd5d8bb3c0d04e1623c65c812b" title=" " alt="" coords="698,2093,858,2133"/>
+<area shape="rect" id="node31" href="$namespaceli__subglacial__hydro.html#aab6e67aa7116eff32238998718ca9ccd" title="Calculate SGH timesteps and check current timestep." alt="" coords="705,2157,851,2197"/>
+<area shape="rect" id="node32" href="$namespaceseaice__column.html#ab677ea07911a5fb6d7425f9153277ee5" title=" " alt="" coords="691,2221,865,2261"/>
+<area shape="rect" id="node33" href="$namespaceconvective__diagnostics.html#a19bbf4115809f7c8c8708e10256cbd68" title=" " alt="" coords="691,2309,865,2349"/>
+<area shape="rect" id="node34" href="$namespaceseaice__column.html#a4568e1e4104e0f228a40ba11394bc2dc" title=" " alt="" coords="430,2401,605,2441"/>
+<area shape="rect" id="node35" href="$namespaceseaice__column.html#a35b916003dbaae9980c736ca5a934578" title=" " alt="" coords="691,2488,865,2528"/>
+<area shape="rect" id="node36" href="$namespacempas__init__atm__gwd.html#aa835164bdfe3b71199be3a32306f28a6" title="Main routine for computing GWDO fields on an MPAS mesh." alt="" coords="697,133,859,173"/>
+<area shape="rect" id="node37" href="$namespaceseaice__column.html#a26c22acfa44d3e6511e78996499feee5" title=" " alt="" coords="695,197,861,237"/>
+<area shape="rect" id="node38" href="$namespaceseaice__velocity__solver.html#a41e06f2f9bbcc5f3d5207036290fcdb4" title=" " alt="" coords="693,1336,863,1376"/>
+<area shape="rect" id="node39" href="$namespaceinit__atm__cases.html#a653ff7fb29146586c3836e70b79f0383" title="Converts an RH field given w.r.t. liquid water to RH w.r.t. ice below freezing." alt="" coords="689,261,867,301"/>
+<area shape="rect" id="node40" href="$namespacempas__forcing.html#ad35d537ff0a27971bc5666dee0365ceb" title="create a new forcing stream" alt="" coords="697,325,859,365"/>
+<area shape="rect" id="node41" href="$namespacempas__atmphys__functions.html#a71ffc8407e2cc79ff046ff3a3572d0f0" title=" " alt="" coords="683,413,873,453"/>
+<area shape="rect" id="node42" href="$namespaceseaice__column.html#aa7660d56432843b63333407c4b91550b" title=" " alt="" coords="704,2373,852,2413"/>
+<area shape="rect" id="node43" href="$namespaceseaice__velocity__solver__wachspress.html#a5d210e4db75378cefac1027570599a6d" title=" " alt="" coords="672,478,884,533"/>
+<area shape="rect" id="node44" href="$namespaceseaice__velocity__solver.html#a3d76f0983aa2cdf2e5d4a0719c75418f" title=" " alt="" coords="693,557,863,597"/>
+<area shape="rect" id="node45" href="$namespaceinit__atm__llxy.html#a481a398e88ff5dfd960f4f5d76a5542e" title=" " alt="" coords="707,621,849,661"/>
+<area shape="rect" id="node46" href="$namespaceseaice__advection__incremental__remap.html#a47fe43b3513f6a8877e8d457028d6339" title="MPAS&#45;Seaice incremental remapping driver." alt="" coords="654,952,902,992"/>
+</map>

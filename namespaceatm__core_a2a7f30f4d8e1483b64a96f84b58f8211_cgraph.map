@@ -1,0 +1,18 @@
+<map id="atm_core::mpas_atm_run_compatibility" name="atm_core::mpas_atm_run_compatibility">
+<area shape="rect" id="node1" title="Checks input fields and options for compatibility." alt="" coords="5,156,165,196"/>
+<area shape="rect" id="node2" href="$namespacempas__atm__boundaries.html#a27b5eb766cda41c4091c5b8b35f6770d" title="Checks compatibility of limited&#45;area settings." alt="" coords="231,188,413,228"/>
+<area shape="rect" id="node15" href="$namespacempas__atmphys__control.html#a8f09bdcfa4ddcab8ef62b7bdba8a59c0" title="Checks physics input fields and options for compatibility." alt="" coords="213,124,431,164"/>
+<area shape="rect" id="node3" href="$namespacempas__dmpar.html#ae7d723317a16b4bd939b4addeacba45f" title="MPAS dmpar maximum integer routine." alt="" coords="1375,184,1575,224"/>
+<area shape="rect" id="node5" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="928,245,1084,285"/>
+<area shape="rect" id="node10" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="485,127,672,167"/>
+<area shape="rect" id="node4" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1623,184,1827,224"/>
+<area shape="rect" id="node6" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1132,363,1327,389"/>
+<area shape="rect" id="node9" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1144,299,1315,339"/>
+<area shape="rect" id="node7" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1379,327,1571,367"/>
+<area shape="rect" id="node8" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1645,327,1805,367"/>
+<area shape="rect" id="node11" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="727,67,880,107"/>
+<area shape="rect" id="node14" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="727,131,880,171"/>
+<area shape="rect" id="node12" href="$namespacempas__pool__routines.html#ae16592c11b643bee126eef0d41049cd0" title=" " alt="" coords="929,67,1083,107"/>
+<area shape="rect" id="node13" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="1151,67,1307,107"/>
+<area shape="rect" id="node16" href="$namespacempas__dmpar.html#aba8aaa5dde69dac102c2022807034d69" title="MPAS dmpar maximum real routine." alt="" coords="479,25,679,65"/>
+</map>

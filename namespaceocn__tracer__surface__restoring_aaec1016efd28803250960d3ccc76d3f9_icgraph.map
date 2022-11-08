@@ -1,0 +1,7 @@
+<map id="ocn_tracer_surface_restoring::ocn_get_surfacesalinitydata" name="ocn_tracer_surface_restoring::ocn_get_surfacesalinitydata">
+<area shape="rect" id="node1" title="retrieve data needed to compute surface salinity restoring using monthly climatology" alt="" coords="901,5,1056,60"/>
+<area shape="rect" id="node2" href="$namespaceocn__forward__mode.html#af6c9ef48c94cc91319bccfa95ce3170b" title="Main driver for MPAS&#45;Ocean time&#45;stepping." alt="" coords="676,13,853,53"/>
+<area shape="rect" id="node3" href="$namespaceocn__core.html#a232280a77ef9ba42b6208040852f360e" title="MPAS&#45;Ocean Run Driver." alt="" coords="453,20,628,45"/>
+<area shape="rect" id="node4" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="260,13,405,53"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,13,212,53"/>
+</map>

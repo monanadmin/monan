@@ -1,0 +1,21 @@
+<map id="seaice_maximum_ice_presence::seaice_compute_maximum_ice_presence" name="seaice_maximum_ice_presence::seaice_compute_maximum_ice_presence">
+<area shape="rect" id="node1" title="Compute MPAS&#45;Seaice analysis member." alt="" coords="5,118,208,173"/>
+<area shape="rect" id="node2" href="$namespacempas__timekeeping.html#a8d5d19985f6b27f205d5c3ef823eb629" title=" " alt="" coords="256,29,447,69"/>
+<area shape="rect" id="node3" href="$namespacempas__timekeeping.html#a76064be40df3c8e9887996c6763fb419" title=" " alt="" coords="256,93,447,133"/>
+<area shape="rect" id="node4" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="258,157,445,197"/>
+<area shape="rect" id="node15" href="$namespacempas__timekeeping.html#acf3cee7d823439c61906257e9ba2878a" title=" " alt="" coords="256,292,447,332"/>
+<area shape="rect" id="node5" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="531,76,685,116"/>
+<area shape="rect" id="node8" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="531,157,685,197"/>
+<area shape="rect" id="node6" href="$namespacempas__pool__routines.html#ae16592c11b643bee126eef0d41049cd0" title=" " alt="" coords="804,41,957,81"/>
+<area shape="rect" id="node7" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="1059,24,1215,64"/>
+<area shape="rect" id="node9" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="803,144,959,184"/>
+<area shape="rect" id="node13" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1523,136,1727,176"/>
+<area shape="rect" id="node10" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1040,89,1235,114"/>
+<area shape="rect" id="node14" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1052,189,1223,229"/>
+<area shape="rect" id="node11" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1283,75,1475,115"/>
+<area shape="rect" id="node12" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1545,72,1705,112"/>
+<area shape="rect" id="node16" href="$namespacempas__timekeeping.html#a9af954039075caf27df380401b9878ce" title=" " alt="" coords="495,271,721,297"/>
+<area shape="rect" id="node18" href="$namespacempas__timekeeping.html#af5b0ca0235091ba173f7b06bc48a7404" title=" " alt="" coords="513,321,703,361"/>
+<area shape="rect" id="node19" href="$namespacempas__timekeeping.html#a9e22707655fafd3209ba81e2ae069609" title=" " alt="" coords="513,385,703,425"/>
+<area shape="rect" id="node17" href="$namespacempas__timekeeping.html#a50c925a0b19783684c22f096d17f5419" title=" " alt="" coords="769,329,992,354"/>
+</map>

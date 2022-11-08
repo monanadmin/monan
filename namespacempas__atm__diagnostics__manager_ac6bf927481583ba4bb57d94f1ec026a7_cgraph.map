@@ -1,0 +1,5 @@
+<map id="mpas_atm_diagnostics_manager::mpas_atm_diag_update" name="mpas_atm_diagnostics_manager::mpas_atm_diag_update">
+<area shape="rect" id="node1" title="Handle diagnostics accumulation at the end of each timestep." alt="" coords="5,45,204,100"/>
+<area shape="rect" id="node2" href="$namespaceconvective__diagnostics.html#a1542833929596aef81e23b29c4f7b4ae" title="Updates the maximum pointwise values for convective diagnostics." alt="" coords="252,5,435,60"/>
+<area shape="rect" id="node3" href="$namespacediagnostic__template.html#aeb5ff65891e288a413ec5c47d2ab55da" title="Handle diagnostic calculation needed after each timestep." alt="" coords="262,84,425,139"/>
+</map>

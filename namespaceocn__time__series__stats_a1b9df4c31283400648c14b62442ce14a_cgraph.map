@@ -1,0 +1,38 @@
+<map id="ocn_time_series_stats::ocn_finalize_time_series_stats" name="ocn_time_series_stats::ocn_finalize_time_series_stats">
+<area shape="rect" id="node1" title="Finalize MPAS&#45;Ocean analysis member." alt="" coords="5,404,236,444"/>
+<area shape="rect" id="node2" href="$namespacempas__timekeeping.html#ac37646f197c9b8974dc5e317d6073917" title=" " alt="" coords="311,5,502,45"/>
+<area shape="rect" id="node3" href="$namespacempas__timekeeping.html#a8d5d19985f6b27f205d5c3ef823eb629" title=" " alt="" coords="595,144,786,184"/>
+<area shape="rect" id="node4" href="$namespacempas__timekeeping.html#ac6fa9b11da76e093be878a79d933a24a" title="This routine computes the number intervals that fit into another interval." alt="" coords="595,208,786,248"/>
+<area shape="rect" id="node5" href="$namespacempas__timekeeping.html#a69acc0b38ab3bd27dee976bed346b06d" title=" " alt="" coords="868,208,1059,248"/>
+<area shape="rect" id="node7" href="$namespacempas__timekeeping.html#ab899b7d38b0f90466f4a7523274728be" title=" " alt="" coords="311,289,502,329"/>
+<area shape="rect" id="node8" href="$namespacempas__pool__routines.html#a89d67ff42796b7a095f64063a225432e" title="MPAS Pool Field Information Query subroutine." alt="" coords="592,765,789,805"/>
+<area shape="rect" id="node18" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="597,829,784,869"/>
+<area shape="rect" id="node20" href="$namespacempas__timekeeping.html#a277dbd9eccabe934a4e19400ab8dcb36" title=" " alt="" coords="311,201,502,241"/>
+<area shape="rect" id="node21" href="$namespacempas__timekeeping.html#acf3cee7d823439c61906257e9ba2878a" title=" " alt="" coords="311,404,502,444"/>
+<area shape="rect" id="node25" href="$namespacempas__stream__manager.html#aa49856f63526c8f2e6f15efd76e25abe" title="Add a field to the specified stream in an MPAS stream manager." alt="" coords="297,563,516,603"/>
+<area shape="rect" id="node30" href="$namespacempas__stream__manager.html#a6307ff02d90b841fdb99918f51b29b32" title="Reset iterator within stream manager." alt="" coords="309,1114,504,1169"/>
+<area shape="rect" id="node32" href="$namespacempas__stream__manager.html#a6b78c439f4012ba5f43c61a5dd29e804" title="Retrieve the name of the next field in a stream." alt="" coords="317,643,497,698"/>
+<area shape="rect" id="node34" href="$namespacempas__stream__manager.html#a016684e0a387b6bb92a65ca07eff7dde" title="Remove a field from the specified stream in an MPAS stream manager." alt="" coords="284,925,529,965"/>
+<area shape="rect" id="node6" href="$namespacempas__timekeeping.html#a9e22707655fafd3209ba81e2ae069609" title=" " alt="" coords="1123,237,1313,277"/>
+<area shape="rect" id="node9" href="$namespacempas__pool__routines.html#ae16592c11b643bee126eef0d41049cd0" title=" " alt="" coords="1141,928,1295,968"/>
+<area shape="rect" id="node11" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="887,765,1040,805"/>
+<area shape="rect" id="node10" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="1381,911,1537,951"/>
+<area shape="rect" id="node12" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="1140,549,1296,589"/>
+<area shape="rect" id="node16" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1859,779,2063,819"/>
+<area shape="rect" id="node13" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1361,499,1556,525"/>
+<area shape="rect" id="node17" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1373,549,1544,589"/>
+<area shape="rect" id="node14" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1611,384,1803,424"/>
+<area shape="rect" id="node15" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1881,384,2041,424"/>
+<area shape="rect" id="node19" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="887,955,1040,995"/>
+<area shape="rect" id="node22" href="$namespacempas__timekeeping.html#a9af954039075caf27df380401b9878ce" title=" " alt="" coords="577,347,804,373"/>
+<area shape="rect" id="node24" href="$namespacempas__timekeeping.html#af5b0ca0235091ba173f7b06bc48a7404" title=" " alt="" coords="595,397,786,437"/>
+<area shape="rect" id="node23" href="$namespacempas__timekeeping.html#a50c925a0b19783684c22f096d17f5419" title=" " alt="" coords="852,375,1075,401"/>
+<area shape="rect" id="node26" href="$namespacempas__pool__routines.html#a1a288dc7b5b795757b78bde482c219fb" title="MPAS Pool Error level get function." alt="" coords="587,651,794,691"/>
+<area shape="rect" id="node27" href="$namespacempas__pool__routines.html#a55b9bcb00fef12529561c9e80914628f" title="MPAS Pool Error level set routine." alt="" coords="588,563,793,603"/>
+<area shape="rect" id="node28" href="$namespacempas__stream__list.html#ade1de0f55cc94aa313fb4cd0a4755749" title="Get streams from a stream list." alt="" coords="599,893,782,933"/>
+<area shape="rect" id="node29" href="$namespacempas__c__interfacing.html#a9ceab63b852cb9c4d8b4a29d7d7f4079" title="Converts a C null&#45;terminated string to a Fortran string." alt="" coords="885,1019,1041,1059"/>
+<area shape="rect" id="node31" href="$namespacempas__pool__routines.html#a3523a20ac4e1140ccf78363179759f12" title="MPAS Pool Begin Iteration Routine." alt="" coords="1604,1272,1811,1312"/>
+<area shape="rect" id="node33" href="$namespacempas__pool__routines.html#ab6924e8731a9fbfb620e9a332f55c624" title="MPAS Pool Iterate To Next Member subroutine." alt="" coords="1625,739,1790,794"/>
+<area shape="rect" id="node35" href="$namespacempas__pool__routines.html#a80da9da2b24f0a7e96ef9130e54dfd98" title="MPAS Pool Config Removal Routine." alt="" coords="588,957,793,997"/>
+<area shape="rect" id="node36" href="$namespacempas__pool__routines.html#a0df47a93243fe8c1a3b1dc705712b206" title=" " alt="" coords="875,1107,1052,1147"/>
+</map>

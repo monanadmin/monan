@@ -1,0 +1,11 @@
+<map id="mpas_log::mpas_log_escape_dollars" name="mpas_log::mpas_log_escape_dollars">
+<area shape="rect" id="node1" title="Changes occurrences of &#39;$&#39; character to &#39;$$&#39; in a string." alt="" coords="5,69,161,109"/>
+<area shape="rect" id="node2" href="$namespacempas__c__interfacing.html#a9ceab63b852cb9c4d8b4a29d7d7f4079" title="Converts a C null&#45;terminated string to a Fortran string." alt="" coords="209,5,365,45"/>
+<area shape="rect" id="node3" href="$namespacempas__log.html#a1942a7287d19eccab7d8c967510ec992" title="Finalizes the log manager." alt="" coords="209,69,365,109"/>
+<area shape="rect" id="node4" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="413,99,569,139"/>
+<area shape="rect" id="node5" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="617,51,812,77"/>
+<area shape="rect" id="node8" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1100,99,1304,139"/>
+<area shape="rect" id="node9" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="629,156,800,196"/>
+<area shape="rect" id="node6" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="860,41,1052,81"/>
+<area shape="rect" id="node7" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1122,35,1282,75"/>
+</map>

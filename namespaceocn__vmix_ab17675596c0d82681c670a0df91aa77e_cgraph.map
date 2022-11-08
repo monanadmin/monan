@@ -1,0 +1,14 @@
+<map id="ocn_vmix::ocn_vmix_init" name="ocn_vmix::ocn_vmix_init">
+<area shape="rect" id="node1" title="Initializes ocean vertical mixing quantities." alt="" coords="5,141,189,166"/>
+<area shape="rect" id="node2" href="$namespaceocn__vmix__coefs__const.html#a1e97619beac6a9426dcbd77390c81a67" title="Initializes ocean momentum vertical mixing quantities." alt="" coords="237,5,443,45"/>
+<area shape="rect" id="node3" href="$namespaceocn__vmix__coefs__redi.html#a2c49cc475560d0dcc2f09681d4f134da" title="Initializes ocean momentum vertical mixing quantities." alt="" coords="243,69,437,109"/>
+<area shape="rect" id="node4" href="$namespaceocn__vmix__coefs__rich.html#a6688ff239c94c18ba301c856eb95b6cd" title="Initializes ocean momentum vertical mixing quantities." alt="" coords="243,133,437,173"/>
+<area shape="rect" id="node5" href="$namespaceocn__vmix__coefs__tanh.html#ae41469f29013c5d5e69906e7657f215d" title="Initializes ocean vertical mixing quantities." alt="" coords="241,197,439,237"/>
+<area shape="rect" id="node6" href="$namespaceocn__vmix__cvmix.html#ae01c75f529b7cc4d0ba54b8152c932ba" title="Initializes ocean vertical mixing quantities by using \ get and puts into CVMix." alt="" coords="259,261,421,301"/>
+<area shape="rect" id="node7" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="491,261,647,301"/>
+<area shape="rect" id="node8" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="695,215,889,241"/>
+<area shape="rect" id="node11" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1177,261,1381,301"/>
+<area shape="rect" id="node12" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="707,319,877,359"/>
+<area shape="rect" id="node9" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="937,204,1129,244"/>
+<area shape="rect" id="node10" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1199,197,1359,237"/>
+</map>

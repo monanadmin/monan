@@ -1,0 +1,17 @@
+<map id="mpas_stream_manager::mpas_stream_mgr_destroy_stream" name="mpas_stream_manager::mpas_stream_mgr_destroy_stream">
+<area shape="rect" id="node1" title="Free all memory associated with a stream in an MPAS stream manager." alt="" coords="5,237,213,291"/>
+<area shape="rect" id="node2" href="$namespacempas__io__streams.html#ac5f7fecb65150ef58e4ac74782dcc1a8" title=" " alt="" coords="267,84,448,124"/>
+<area shape="rect" id="node6" href="$namespacempas__pool__routines.html#aa9cc0d33d5856ee6d01b6e5954a34f40" title="MPAS Pool deallocation routine." alt="" coords="261,244,453,284"/>
+<area shape="rect" id="node7" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1444,264,1648,304"/>
+<area shape="rect" id="node14" href="$namespacempas__stream__list.html#a02a8985443829fcbb74a93a22cdb2564" title="Free all memory associated with an MPAS stream list." alt="" coords="266,308,449,348"/>
+<area shape="rect" id="node15" href="$namespacempas__stream__list.html#a92f654aedaab5e89b6a4ef29a038081b" title="Remove a stream from a stream list." alt="" coords="266,372,449,412"/>
+<area shape="rect" id="node3" href="$namespacempas__attlist.html#af75766f7b16ee68cbfc77db85acd6604" title="MPAS attribute list deallocation routine." alt="" coords="532,5,679,45"/>
+<area shape="rect" id="node4" href="$namespacempas__io.html#a7c30165e0b6e678d5928b81cd1114a7b" title=" " alt="" coords="515,70,696,95"/>
+<area shape="rect" id="node5" href="$namespacempas__io.html#a968d7ba401dc7ddf2d01cde5036356b4" title=" " alt="" coords="501,119,709,145"/>
+<area shape="rect" id="node8" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="529,271,682,311"/>
+<area shape="rect" id="node9" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="757,347,913,387"/>
+<area shape="rect" id="node10" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="961,437,1156,462"/>
+<area shape="rect" id="node13" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="973,372,1144,412"/>
+<area shape="rect" id="node11" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1204,400,1396,440"/>
+<area shape="rect" id="node12" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1466,400,1626,440"/>
+</map>

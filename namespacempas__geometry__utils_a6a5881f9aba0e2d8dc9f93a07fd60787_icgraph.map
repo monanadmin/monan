@@ -1,0 +1,24 @@
+<map id="mpas_geometry_utils::mpas_triangle_signed_area" name="mpas_geometry_utils::mpas_triangle_signed_area">
+<area shape="rect" id="node1" title="Calculates area of a triangle, whether on a sphere or a plane." alt="" coords="2127,141,2336,181"/>
+<area shape="rect" id="node2" href="$namespacempas__geometry__utils.html#a3e2966643b596dfba447663a39d5fca5" title="Calculates barycentric weights for a point relative to a triangle." alt="" coords="1867,89,2079,144"/>
+<area shape="rect" id="node11" href="$namespacempas__geometry__utils.html#acd931fc61ad66a6d863984877546f239" title="Compute the barycentric Wachspress coordinates for a polygon." alt="" coords="1327,215,1559,255"/>
+<area shape="rect" id="node3" href="$namespacempas__geometry__utils.html#acebb123b9d5d988bb1c2f070ac713b14" title="Calculates barycentric weights for a set of points." alt="" coords="1607,5,1819,60"/>
+<area shape="rect" id="node10" href="$namespacempas__geometry__utils.html#aa119aeb6f002d48dd311d5d15666e528" title="Simple unit test for testing the mpas_calculate_barycentric_weights routine." alt="" coords="1629,89,1796,144"/>
+<area shape="rect" id="node4" href="$namespaceli__sia.html#ad916b8351cf697282a1c789714e169c7" title="Initializes blocks for SIA velocity solver." alt="" coords="1359,17,1527,43"/>
+<area shape="rect" id="node5" href="$namespaceli__velocity.html#a5151f1232f14642bd4858009940e01ed" title="Initializes velocity solver." alt="" coords="1073,7,1236,47"/>
+<area shape="rect" id="node6" href="$namespaceli__core.html#a947db250ca82cfeb1e82e1a7a50b22c7" title="Initializes blocks for the land ice core." alt="" coords="786,79,934,119"/>
+<area shape="rect" id="node7" href="$namespaceli__core.html#a7ae277b566443d2c7e2ecf070616c801" title="Initializes land ice core." alt="" coords="516,88,660,113"/>
+<area shape="rect" id="node8" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="280,85,419,125"/>
+<area shape="rect" id="node9" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,121,212,161"/>
+<area shape="rect" id="node12" href="$namespaceli__setup.html#a435ed4e9ac4b35bcb24e6807684556ed" title="Calculates weights to interpolate from vertices to cell centers." alt="" coords="1067,72,1242,127"/>
+<area shape="rect" id="node13" href="$namespacempas__geometry__utils.html#aafd86dab5820698644278a64f6129cd4" title="Simple unit test for testing wachspress interpolation on a hexagon." alt="" coords="1048,151,1261,205"/>
+<area shape="rect" id="node16" href="$namespacempas__geometry__utils.html#ac2a03e51541d1b2eba2d326539da1446" title="Simple unit test for testing wachspress interpolation on a triangle." alt="" coords="1048,229,1261,284"/>
+<area shape="rect" id="node17" href="$namespaceocn__lagrangian__particle__tracking__interpolations.html#a619669108d6a7291d5057a2981b7e7b2" title="Interpolate cell center values to vertex values." alt="" coords="1065,309,1244,378"/>
+<area shape="rect" id="node22" href="$namespaceocn__lagrangian__particle__tracking__interpolations.html#aa0b981daf494ef903b088c76db48c932" title="Interpolate vertex values to cell center." alt="" coords="1031,403,1279,457"/>
+<area shape="rect" id="node14" href="$namespacetest__core.html#a368898ee33b1d245ef437ce9a533e3c1" title="MPAS Core Run Function." alt="" coords="771,165,949,191"/>
+<area shape="rect" id="node15" href="$namespacetest__core__interface.html#a12096f17bb769e30742bcf075f3663cb" title="Test core setup routine." alt="" coords="276,155,423,195"/>
+<area shape="rect" id="node18" href="$namespaceocn__lagrangian__particle__tracking__interpolations.html#a97334e1d0b2655cc147bde77a1bb3fe7" title="Reconstruct vertex velocity using linear interpolation of RBFs reconstruction at cell centers." alt="" coords="771,316,949,371"/>
+<area shape="rect" id="node21" href="$namespaceocn__lagrangian__particle__tracking__interpolations.html#a7ff94c12533e7f48876a7390fb272e9b" title="Do 1 pass of simple shapiro filter." alt="" coords="737,399,983,453"/>
+<area shape="rect" id="node19" href="$namespaceocn__lagrangian__particle__tracking__interpolations.html#ade7d218c591e0c78b723b10d595d8bd1" title="Reconstruct vertex velocity driver / interface." alt="" coords="487,316,689,371"/>
+<area shape="rect" id="node20" href="$mpas__ocn__lagrangian__particle__tracking_8F.html#ae76737697b37ce3bc6c154452db14879" title="MPAS ocean analysis mode member: lagrangian_particle_tracking." alt="" coords="260,323,439,363"/>
+</map>

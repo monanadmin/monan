@@ -1,0 +1,9 @@
+<map id="li_diagnostic_vars::li_calculate_diagnostic_vars" name="li_diagnostic_vars::li_calculate_diagnostic_vars">
+<area shape="rect" id="node1" title="Calculates diagnostic variables." alt="" coords="1061,37,1275,77"/>
+<area shape="rect" id="node2" href="$namespaceli__core.html#aeeec4424e39396b4f39a0d8b97053255" title="Performs the initial diagnostic solve for the LI core." alt="" coords="639,5,799,45"/>
+<area shape="rect" id="node6" href="$namespaceli__time__integration__fe.html#ad06e7e427e0638a849d374ea0fd3453c" title="Forward Euler time integration scheme." alt="" coords="847,62,1013,117"/>
+<area shape="rect" id="node3" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="447,45,591,70"/>
+<area shape="rect" id="node4" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="260,37,399,77"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,37,212,77"/>
+<area shape="rect" id="node7" href="$namespaceli__time__integration.html#a7e1e2095c8bd4a84b257fc566ecf0012" title="Advance model state forward in time by the specified time step." alt="" coords="646,69,791,109"/>
+</map>

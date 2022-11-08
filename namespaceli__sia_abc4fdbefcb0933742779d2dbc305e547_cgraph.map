@@ -1,0 +1,13 @@
+<map id="li_sia::li_sia_solve" name="li_sia::li_sia_solve">
+<area shape="rect" id="node1" title="Computes velocity using Shallow Ice Appoximation." alt="" coords="5,163,145,189"/>
+<area shape="rect" id="node2" href="$namespaceli__diagnostic__vars.html#afd8c08e40173ed71e0ffe41e564ce551" title="Calculates the flow law parameter A based on temperature." alt="" coords="204,5,393,45"/>
+<area shape="rect" id="node3" href="$namespaceli__setup.html#aa8cb4ffe73a8f609e270367e2f241e50" title="Converts a 1d scalar field from cells to vertices." alt="" coords="222,70,375,125"/>
+<area shape="rect" id="node4" href="$namespacempas__geometry__utils.html#ae29382ab972be926dd2bc7a7f4add908" title="Converts a single layer scalar field from cells to specified points using barycentric weights." alt="" coords="213,149,384,203"/>
+<area shape="rect" id="node5" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="452,189,608,229"/>
+<area shape="rect" id="node11" href="$namespacempas__vector__operations.html#ab9418c0c0496161ca1c18c2b18f8d405" title="compute tangential vector magnitude at an edge from the normal vector magnitudes" alt="" coords="193,279,404,319"/>
+<area shape="rect" id="node6" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="656,142,851,167"/>
+<area shape="rect" id="node9" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1139,189,1343,229"/>
+<area shape="rect" id="node10" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="668,247,839,287"/>
+<area shape="rect" id="node7" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="899,132,1091,172"/>
+<area shape="rect" id="node8" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1161,125,1321,165"/>
+</map>

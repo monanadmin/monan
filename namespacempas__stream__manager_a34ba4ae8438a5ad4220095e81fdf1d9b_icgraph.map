@@ -1,0 +1,5 @@
+<map id="mpas_stream_manager::mpas_stream_mgr_get_clock" name="mpas_stream_manager::mpas_stream_mgr_get_clock">
+<area shape="rect" id="node1" title="Retrieves the clock used by the stream manager." alt="" coords="244,35,465,75"/>
+<area shape="rect" id="node2" href="$namespacempas__forcing.html#ad35d537ff0a27971bc5666dee0365ceb" title="create a new forcing stream" alt="" coords="20,5,181,45"/>
+<area shape="rect" id="node3" href="$mpas__stream__manager_8F.html#a2b6489757ce6115f8b5a8ae5d5c71a7f" title=" " alt="" coords="5,70,196,95"/>
+</map>

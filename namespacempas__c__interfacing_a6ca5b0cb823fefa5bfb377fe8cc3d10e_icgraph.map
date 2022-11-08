@@ -1,0 +1,5 @@
+<map id="mpas_c_interfacing::mpas_sanitize_string" name="mpas_c_interfacing::mpas_sanitize_string">
+<area shape="rect" id="node1" title="Converts C null characters in a Fortran string to spaces." alt="" coords="223,53,391,93"/>
+<area shape="rect" id="node2" href="$interfacempas__io_1_1mpas__io__get__var.html#af74216b06bc3208a92a78dbf1064e451" title=" " alt="" coords="5,5,175,60"/>
+<area shape="rect" id="node3" href="$interfacempas__io_1_1mpas__io__get__var.html#a683a0b1579c736013b3e603c931e6ebc" title=" " alt="" coords="5,84,175,139"/>
+</map>

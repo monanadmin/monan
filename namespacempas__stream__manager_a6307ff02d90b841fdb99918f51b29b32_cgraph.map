@@ -1,0 +1,8 @@
+<map id="mpas_stream_manager::mpas_stream_mgr_begin_iteration" name="mpas_stream_manager::mpas_stream_mgr_begin_iteration">
+<area shape="rect" id="node1" title="Reset iterator within stream manager." alt="" coords="5,55,200,110"/>
+<area shape="rect" id="node2" href="$namespacempas__pool__routines.html#a3523a20ac4e1140ccf78363179759f12" title="MPAS Pool Begin Iteration Routine." alt="" coords="248,5,455,45"/>
+<area shape="rect" id="node3" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="503,31,707,71"/>
+<area shape="rect" id="node4" href="$namespacempas__stream__list.html#ade1de0f55cc94aa313fb4cd0a4755749" title="Get streams from a stream list." alt="" coords="260,120,443,160"/>
+<area shape="rect" id="node5" href="$namespacempas__c__interfacing.html#a9ceab63b852cb9c4d8b4a29d7d7f4079" title="Converts a C null&#45;terminated string to a Fortran string." alt="" coords="527,107,683,147"/>
+<area shape="rect" id="node6" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="527,171,683,211"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mpas_timekeeping::mpas_is_alarm_defined" name="mpas_timekeeping::mpas_is_alarm_defined">
+<area shape="rect" id="node1" title="Check whether an alarm has been defined on a clock." alt="" coords="520,29,711,69"/>
+<area shape="rect" id="node2" href="$namespacempas__stream__manager.html#a611b459ca9c33e6eb1cb5e81ecfaa46c" title="Add an I/O alarm to a stream in an MPAS stream manager." alt="" coords="244,29,472,69"/>
+<area shape="rect" id="node3" href="$mpas__stream__manager_8F.html#a2b6489757ce6115f8b5a8ae5d5c71a7f" title=" " alt="" coords="5,37,196,62"/>
+</map>

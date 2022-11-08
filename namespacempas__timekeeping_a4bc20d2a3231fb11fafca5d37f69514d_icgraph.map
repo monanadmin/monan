@@ -1,0 +1,15 @@
+<map id="mpas_timekeeping::mpas_is_clock_stop_time" name="mpas_timekeeping::mpas_is_clock_stop_time">
+<area shape="rect" id="node1" title=" " alt="" coords="907,127,1097,167"/>
+<area shape="rect" id="node2" href="$namespaceatm__core.html#a7a2a9ad754bbe9947ddc39c1bd47a429" title=" " alt="" coords="679,23,859,49"/>
+<area shape="rect" id="node5" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="697,77,841,102"/>
+<area shape="rect" id="node7" href="$namespaceocn__forward__mode.html#af6c9ef48c94cc91319bccfa95ce3170b" title="Main driver for MPAS&#45;Ocean time&#45;stepping." alt="" coords="680,127,857,167"/>
+<area shape="rect" id="node10" href="$namespaceseaice__core.html#ab47cec2148db1e3e102c7bee5eccbce4" title=" " alt="" coords="694,191,843,231"/>
+<area shape="rect" id="node12" href="$namespacesw__core.html#a4bc33d556db2f0f892101eda2c3834a5" title=" " alt="" coords="687,255,851,281"/>
+<area shape="rect" id="node3" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,5,408,45"/>
+<area shape="rect" id="node4" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,133,212,173"/>
+<area shape="rect" id="node6" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="265,69,403,109"/>
+<area shape="rect" id="node8" href="$namespaceocn__core.html#a232280a77ef9ba42b6208040852f360e" title="MPAS&#45;Ocean Run Driver." alt="" coords="456,135,631,161"/>
+<area shape="rect" id="node9" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="261,133,407,173"/>
+<area shape="rect" id="node11" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="461,188,625,228"/>
+<area shape="rect" id="node13" href="$namespacesw__core__interface.html#ae580e0525022db6a50736ac32c4d5ea3" title="Shallow water core setup routine." alt="" coords="469,252,617,292"/>
+</map>

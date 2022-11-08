@@ -1,0 +1,18 @@
+<map id="seaice_column::get_day_of_year" name="seaice_column::get_day_of_year">
+<area shape="rect" id="node1" title=" " alt="" coords="1857,86,2005,126"/>
+<area shape="rect" id="node2" href="$namespaceseaice__column.html#a4568e1e4104e0f228a40ba11394bc2dc" title=" " alt="" coords="1635,18,1809,58"/>
+<area shape="rect" id="node9" href="$namespaceseaice__column.html#a0db09060acc92f93166a6769d1ef2787" title=" " alt="" coords="1635,143,1809,183"/>
+<area shape="rect" id="node10" href="$namespaceseaice__column.html#aca9a383b0a6e8c9d6141f6350b3e4e7f" title=" " alt="" coords="1397,84,1571,139"/>
+<area shape="rect" id="node3" href="$namespaceseaice__column.html#a15354d2b2167de7ed6d3b1fa066f2778" title=" " alt="" coords="1381,5,1587,60"/>
+<area shape="rect" id="node4" href="$namespaceseaice__time__integration.html#af929b034aaa7a48613d88b9502007ccc" title=" " alt="" coords="1155,58,1333,98"/>
+<area shape="rect" id="node5" href="$namespaceseaice__core.html#a8212ac13cf9247f332977b0fada4a381" title=" " alt="" coords="899,65,1107,91"/>
+<area shape="rect" id="node6" href="$namespaceseaice__core.html#ab47cec2148db1e3e102c7bee5eccbce4" title=" " alt="" coords="693,122,842,162"/>
+<area shape="rect" id="node7" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="260,159,424,199"/>
+<area shape="rect" id="node8" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,159,212,199"/>
+<area shape="rect" id="node11" href="$namespaceseaice__column.html#aabb49bf8040235676201178cededc0d9" title=" " alt="" coords="1394,163,1574,203"/>
+<area shape="rect" id="node12" href="$namespaceseaice__column.html#a0944070fcabfd034c0b808510c44a5fa" title=" " alt="" coords="1159,184,1329,239"/>
+<area shape="rect" id="node16" href="$namespaceseaice__initialize.html#a7c0c2a2688586c0d26341efe259e219e" title=" " alt="" coords="919,115,1087,169"/>
+<area shape="rect" id="node13" href="$namespaceseaice__initialize.html#ad610a793a28e6a6f96660081d39da6b2" title=" " alt="" coords="935,194,1070,234"/>
+<area shape="rect" id="node14" href="$namespaceseaice__core.html#aa83451923b0ec949e155f4453ee98c87" title=" " alt="" coords="684,190,851,230"/>
+<area shape="rect" id="node15" href="$namespaceseaice__core__interface.html#a818e2db77b4d0ab926e1210a954e2ee9" title="Pacakge setup routine." alt="" coords="472,187,636,227"/>
+</map>

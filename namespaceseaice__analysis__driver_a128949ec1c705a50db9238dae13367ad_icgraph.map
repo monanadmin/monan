@@ -1,0 +1,6 @@
+<map id="seaice_analysis_driver::seaice_analysis_compute_startup" name="seaice_analysis_driver::seaice_analysis_compute_startup">
+<area shape="rect" id="node1" title="Driver for MPAS&#45;Ocean analysis computations." alt="" coords="669,5,867,60"/>
+<area shape="rect" id="node2" href="$namespaceseaice__core.html#ab47cec2148db1e3e102c7bee5eccbce4" title=" " alt="" coords="472,13,621,53"/>
+<area shape="rect" id="node3" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="260,13,424,53"/>
+<area shape="rect" id="node4" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,13,212,53"/>
+</map>

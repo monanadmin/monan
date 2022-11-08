@@ -1,0 +1,32 @@
+<map id="__mpas_seaice_pointwise_stats_f__" name="__mpas_seaice_pointwise_stats_f__">
+<area shape="rect" id="node1" title="MPAS&#45;seaice analysis mode member: pointwise_stats." alt="" coords="5,435,196,475"/>
+<area shape="rect" id="node2" href="$namespacempas__dmpar.html#a47fda993d995183cd9cf2e44c601e030" title="MPAS dmpar integer array sum routine." alt="" coords="1536,5,1736,45"/>
+<area shape="rect" id="node4" href="$namespacempas__dmpar.html#a890bd17165796a2c3bad944af157e737" title="MPAS dmpar real array sum routine." alt="" coords="1045,63,1245,103"/>
+<area shape="rect" id="node5" href="$namespacempas__pool__routines.html#a9c708a656ea2c974b4d7ca822dab0f96" title="MPAS Pool Subpool insertion routine." alt="" coords="271,252,462,292"/>
+<area shape="rect" id="node16" href="$namespacempas__pool__routines.html#a3523a20ac4e1140ccf78363179759f12" title="MPAS Pool Begin Iteration Routine." alt="" coords="537,1068,744,1108"/>
+<area shape="rect" id="node17" href="$namespacempas__pool__routines.html#ac2e5667faecc6e67c32ee43e96750e5b" title="MPAS Pool creation routine." alt="" coords="1544,120,1728,160"/>
+<area shape="rect" id="node18" href="$namespacempas__pool__routines.html#a89d67ff42796b7a095f64063a225432e" title="MPAS Pool Field Information Query subroutine." alt="" coords="542,316,739,356"/>
+<area shape="rect" id="node19" href="$namespacempas__pool__routines.html#ab6924e8731a9fbfb620e9a332f55c624" title="MPAS Pool Iterate To Next Member subroutine." alt="" coords="558,938,723,993"/>
+<area shape="rect" id="node20" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="547,380,734,420"/>
+<area shape="rect" id="node22" href="$namespacempas__stream__manager.html#aa49856f63526c8f2e6f15efd76e25abe" title="Add a field to the specified stream in an MPAS stream manager." alt="" coords="257,488,476,528"/>
+<area shape="rect" id="node26" href="$namespacempas__stream__manager.html#a6307ff02d90b841fdb99918f51b29b32" title="Reset iterator within stream manager." alt="" coords="269,921,464,975"/>
+<area shape="rect" id="node27" href="$namespacempas__stream__manager.html#a6b78c439f4012ba5f43c61a5dd29e804" title="Retrieve the name of the next field in a stream." alt="" coords="277,670,457,725"/>
+<area shape="rect" id="node28" href="$namespacempas__stream__manager.html#a016684e0a387b6bb92a65ca07eff7dde" title="Remove a field from the specified stream in an MPAS stream manager." alt="" coords="244,757,489,797"/>
+<area shape="rect" id="node3" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1784,437,1988,477"/>
+<area shape="rect" id="node6" href="$namespacempas__pool__routines.html#a1064ec3940e1a9332d94327f00a47428" title=" " alt="" coords="564,252,717,292"/>
+<area shape="rect" id="node7" href="$namespacempas__pool__routines.html#a55b9bcb00fef12529561c9e80914628f" title="MPAS Pool Error level set routine." alt="" coords="792,457,997,497"/>
+<area shape="rect" id="node8" href="$namespacempas__pool__routines.html#ae16592c11b643bee126eef0d41049cd0" title=" " alt="" coords="1069,545,1222,585"/>
+<area shape="rect" id="node10" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="818,292,971,332"/>
+<area shape="rect" id="node9" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="1313,545,1469,585"/>
+<area shape="rect" id="node11" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="1067,373,1223,413"/>
+<area shape="rect" id="node12" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1293,330,1488,355"/>
+<area shape="rect" id="node15" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1305,431,1476,471"/>
+<area shape="rect" id="node13" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1540,323,1732,363"/>
+<area shape="rect" id="node14" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1806,323,1966,363"/>
+<area shape="rect" id="node21" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="818,545,971,585"/>
+<area shape="rect" id="node23" href="$namespacempas__pool__routines.html#a1a288dc7b5b795757b78bde482c219fb" title="MPAS Pool Error level get function." alt="" coords="537,620,744,660"/>
+<area shape="rect" id="node24" href="$namespacempas__stream__list.html#ade1de0f55cc94aa313fb4cd0a4755749" title="Get streams from a stream list." alt="" coords="549,799,732,839"/>
+<area shape="rect" id="node25" href="$namespacempas__c__interfacing.html#a9ceab63b852cb9c4d8b4a29d7d7f4079" title="Converts a C null&#45;terminated string to a Fortran string." alt="" coords="817,748,973,788"/>
+<area shape="rect" id="node29" href="$namespacempas__pool__routines.html#a80da9da2b24f0a7e96ef9130e54dfd98" title="MPAS Pool Config Removal Routine." alt="" coords="538,735,743,775"/>
+<area shape="rect" id="node30" href="$namespacempas__pool__routines.html#a0df47a93243fe8c1a3b1dc705712b206" title=" " alt="" coords="806,684,983,724"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="li_mask::li_calculate_mask" name="li_mask::li_calculate_mask">
+<area shape="rect" id="node1" title="Calculates masks for land ice." alt="" coords="1499,262,1697,288"/>
+<area shape="rect" id="node2" href="$namespaceli__time__integration__fe.html#a55cc16587ac35ff1ac6e176b5d4bef23" title="Advect thickness and tracers." alt="" coords="1050,170,1211,210"/>
+<area shape="rect" id="node8" href="$namespaceli__advection.html#a1a21075d0932a00958e6200797ab1b67" title="Advection for ice thickness and tracers." alt="" coords="1263,172,1451,212"/>
+<area shape="rect" id="node9" href="$namespaceli__thermal.html#ada453b4d792ad77ef0e0e5786c472e73" title="MPAS land ice solver for basal melt of floating ice." alt="" coords="1057,234,1204,274"/>
+<area shape="rect" id="node10" href="$namespaceli__calving.html#ae1565e1604c104b8bd5a68181c1b80bf" title="MPAS land ice calving scheme." alt="" coords="1047,298,1215,324"/>
+<area shape="rect" id="node11" href="$namespaceli__core.html#aeeec4424e39396b4f39a0d8b97053255" title="Performs the initial diagnostic solve for the LI core." alt="" coords="835,80,995,120"/>
+<area shape="rect" id="node12" href="$namespaceli__calving.html#a3303fc4ba37c91bba4ad2f0e393bf58e" title="MPAS land ice restore the calving front." alt="" coords="1054,420,1207,460"/>
+<area shape="rect" id="node13" href="$namespaceli__subglacial__hydro.html#a0c02645dfbd1b83b5c711d45b6045679" title="Initialize SGH." alt="" coords="1283,516,1430,556"/>
+<area shape="rect" id="node15" href="$namespaceli__thermal.html#a8c88fa10fed58e68743aabb2dd8d1a02" title="MPAS land ice solver for vertical temperature/enthalpy." alt="" coords="1275,58,1438,98"/>
+<area shape="rect" id="node16" href="$namespaceli__velocity.html#a453cee076ad0820c4e6441132ef8e42c" title="Solver for calculating ice velocity." alt="" coords="1275,402,1438,442"/>
+<area shape="rect" id="node17" href="$namespaceli__calving.html#ac4d5c6f3e80f92b1859525b7f8891bf3" title="Calve ice based on thickness threshold." alt="" coords="1279,338,1434,378"/>
+<area shape="rect" id="node3" href="$namespaceli__time__integration__fe.html#ad06e7e427e0638a849d374ea0fd3453c" title="Forward Euler time integration scheme." alt="" coords="832,256,999,310"/>
+<area shape="rect" id="node4" href="$namespaceli__time__integration.html#a7e1e2095c8bd4a84b257fc566ecf0012" title="Advance model state forward in time by the specified time step." alt="" coords="639,263,784,303"/>
+<area shape="rect" id="node5" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="447,270,591,296"/>
+<area shape="rect" id="node6" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="260,291,399,331"/>
+<area shape="rect" id="node7" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,291,212,331"/>
+<area shape="rect" id="node14" href="$namespaceli__core.html#a7ae277b566443d2c7e2ecf070616c801" title="Initializes land ice core." alt="" coords="639,381,783,406"/>
+</map>

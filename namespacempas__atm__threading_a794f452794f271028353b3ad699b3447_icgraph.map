@@ -1,0 +1,6 @@
+<map id="mpas_atm_threading::mpas_atm_threading_finalize" name="mpas_atm_threading::mpas_atm_threading_finalize">
+<area shape="rect" id="node1" title="Deallocates memory associated with threading in MPAS." alt="" coords="656,5,824,60"/>
+<area shape="rect" id="node2" href="$namespaceatm__core.html#a9a217bedfc2045be61882ededb24c41b" title=" " alt="" coords="456,13,608,53"/>
+<area shape="rect" id="node3" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,13,408,53"/>
+<area shape="rect" id="node4" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,13,212,53"/>
+</map>

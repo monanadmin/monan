@@ -1,0 +1,5 @@
+<map id="ocn_init_mode::ocn_init_mode_validate_configuration" name="ocn_init_mode::ocn_init_mode_validate_configuration">
+<area shape="rect" id="node1" title="Configuration validation routine." alt="" coords="460,5,615,60"/>
+<area shape="rect" id="node2" href="$namespaceocn__core__interface.html#a23110632f1a4501d09eb4687a3fe9a49" title="Ocean domain setup routine." alt="" coords="260,13,412,53"/>
+<area shape="rect" id="node3" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,13,212,53"/>
+</map>

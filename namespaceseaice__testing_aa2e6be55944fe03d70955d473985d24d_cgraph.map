@@ -1,0 +1,15 @@
+<map id="seaice_testing::seaice_init_square_test_case_hex" name="seaice_testing::seaice_init_square_test_case_hex">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,207,89"/>
+<area shape="rect" id="node2" href="$namespaceseaice__testing.html#acc71070a604aabc8009fac189b0a8248" title=" " alt="" coords="257,17,439,57"/>
+<area shape="rect" id="node3" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="255,81,441,121"/>
+<area shape="rect" id="node4" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="489,39,643,79"/>
+<area shape="rect" id="node7" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="489,113,643,153"/>
+<area shape="rect" id="node5" href="$namespacempas__pool__routines.html#ae16592c11b643bee126eef0d41049cd0" title=" " alt="" coords="692,17,845,57"/>
+<area shape="rect" id="node6" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="914,5,1070,45"/>
+<area shape="rect" id="node8" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="691,113,847,153"/>
+<area shape="rect" id="node12" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1377,117,1581,157"/>
+<area shape="rect" id="node9" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="895,70,1089,95"/>
+<area shape="rect" id="node13" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="907,171,1077,211"/>
+<area shape="rect" id="node10" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1137,56,1329,96"/>
+<area shape="rect" id="node11" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1399,53,1559,93"/>
+</map>

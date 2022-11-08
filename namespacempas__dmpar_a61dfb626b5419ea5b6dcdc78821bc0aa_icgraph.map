@@ -1,0 +1,7 @@
+<map id="mpas_dmpar::mpas_dmpar_destroy_mulithalo_exchange_list" name="mpas_dmpar::mpas_dmpar_destroy_mulithalo_exchange_list">
+<area shape="rect" id="node1" title="MPAS dmpar destroy muiltihalo exchange list routine." alt="" coords="628,27,872,67"/>
+<area shape="rect" id="node2" href="$namespacempas__bootstrapping.html#a5dc259fa96df7194adc6d9aa5d37102d" title="Obtains mesh partition, builds halos, and allocates blocks." alt="" coords="367,20,580,75"/>
+<area shape="rect" id="node3" href="$namespacempas__subdriver.html#a603c2e00593a818dd03388d65a7d5932" title=" " alt="" coords="116,5,315,31"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="112,55,319,95"/>
+<area shape="rect" id="node4" href="$mpas_8F.html#a554ab5092fe5cd669557e865f6018565" title=" " alt="" coords="5,5,64,31"/>
+</map>

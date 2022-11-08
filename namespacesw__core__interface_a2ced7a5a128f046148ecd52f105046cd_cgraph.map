@@ -1,0 +1,8 @@
+<map id="sw_core_interface::sw_setup_log" name="sw_core_interface::sw_setup_log">
+<area shape="rect" id="node1" title="Log setup routine." alt="" coords="5,37,153,77"/>
+<area shape="rect" id="node2" href="$namespacempas__log.html#aa864409b1f9ad48e7d79858c1af53288" title="Initializes log manager." alt="" coords="207,69,391,94"/>
+<area shape="rect" id="node6" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="201,19,396,45"/>
+<area shape="rect" id="node3" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="444,12,636,52"/>
+<area shape="rect" id="node4" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="706,69,866,109"/>
+<area shape="rect" id="node5" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="684,5,888,45"/>
+</map>

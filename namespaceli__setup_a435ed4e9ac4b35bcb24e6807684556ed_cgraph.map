@@ -1,0 +1,10 @@
+<map id="li_setup::li_setup_wachspress_vertex_to_cell_weights" name="li_setup::li_setup_wachspress_vertex_to_cell_weights">
+<area shape="rect" id="node1" title="Calculates weights to interpolate from vertices to cell centers." alt="" coords="5,130,180,185"/>
+<area shape="rect" id="node2" href="$namespacempas__geometry__utils.html#acd931fc61ad66a6d863984877546f239" title="Compute the barycentric Wachspress coordinates for a polygon." alt="" coords="228,137,460,177"/>
+<area shape="rect" id="node3" href="$namespacempas__geometry__utils.html#a6a5881f9aba0e2d8dc9f93a07fd60787" title="Calculates area of a triangle, whether on a sphere or a plane." alt="" coords="508,137,717,177"/>
+<area shape="rect" id="node4" href="$namespacempas__geometry__utils.html#adf8bbd5135ceadb22d7a769084a70439" title="Calculates signed area of a triangle in a plane." alt="" coords="765,78,939,133"/>
+<area shape="rect" id="node7" href="$namespacempas__geometry__utils.html#aa4e8c76f75f4b92c51c344be5ff234a1" title="Calculates area of a triangle on a sphere." alt="" coords="765,181,939,235"/>
+<area shape="rect" id="node5" href="$namespacempas__vector__operations.html#a75e2d3598dc45c9c1ff1c2f5e28376ee" title="MPAS 3D cross product routine." alt="" coords="987,5,1189,45"/>
+<area shape="rect" id="node6" href="$namespacempas__vector__operations.html#ad2436a9d85af400bf9a9622ba208b6cc" title="MPAS 3D vector magnitude routine." alt="" coords="997,93,1179,133"/>
+<area shape="rect" id="node8" href="$namespacempas__geometry__utils.html#a1fe128cfa38b4eb94fc5b725f26d0b53" title=" " alt="" coords="1007,188,1169,228"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="mpas_init_atm_static::sphere_distance" name="mpas_init_atm_static::sphere_distance">
+<area shape="rect" id="node1" title=" " alt="" coords="1344,81,1507,121"/>
+<area shape="rect" id="node2" href="$namespaceinit__atm__cases.html#a5a4c8db233d7b7c02e1f84fdb792cdc7" title=" " alt="" coords="876,5,1025,45"/>
+<area shape="rect" id="node7" href="$namespacempas__init__atm__static.html#af1f015f2da9d6c0fb52bbe66eea17c5e" title=" " alt="" coords="1107,81,1269,121"/>
+<area shape="rect" id="node9" href="$namespaceinit__atm__cases.html#ab7e1d55b909340d616a79d14709c7fee" title=" " alt="" coords="1080,170,1296,195"/>
+<area shape="rect" id="node3" href="$namespaceinit__atm__cases.html#ac583db85e2a56097621b29c4b0ba2111" title=" " alt="" coords="672,41,821,81"/>
+<area shape="rect" id="node4" href="$namespaceinit__atm__core.html#a6bf6152fa2f635dc9e02dd38d3b08371" title=" " alt="" coords="484,41,624,81"/>
+<area shape="rect" id="node5" href="$namespaceinit__atm__core__interface.html#a6e3e2b14ef27bc9bb6b4f82cbd1b9f7f" title="Init atmosphere core setup routine." alt="" coords="260,41,436,81"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,41,212,81"/>
+<area shape="rect" id="node8" href="$namespacempas__init__atm__static.html#ab7d0ec9495576e0ff84cb55cc03821e9" title=" " alt="" coords="869,73,1032,113"/>
+</map>

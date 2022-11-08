@@ -1,0 +1,11 @@
+<map id="mpas_geometry_utils::mpas_distance_plane" name="mpas_geometry_utils::mpas_distance_plane">
+<area shape="rect" id="node1" title="Calculates distance between two points on a plane." alt="" coords="1732,29,1903,69"/>
+<area shape="rect" id="node2" href="$namespacempas__geometry__utils.html#a2d7b99115d4e28ea01f63109a7f5b7f1" title="Calculates distance between two points on a plane or sphere." alt="" coords="1521,29,1684,69"/>
+<area shape="rect" id="node3" href="$namespacempas__geometry__utils.html#acebb123b9d5d988bb1c2f070ac713b14" title="Calculates barycentric weights for a set of points." alt="" coords="1261,22,1473,77"/>
+<area shape="rect" id="node4" href="$namespaceli__sia.html#ad916b8351cf697282a1c789714e169c7" title="Initializes blocks for SIA velocity solver." alt="" coords="1045,37,1213,62"/>
+<area shape="rect" id="node5" href="$namespaceli__velocity.html#a5151f1232f14642bd4858009940e01ed" title="Initializes velocity solver." alt="" coords="835,29,997,69"/>
+<area shape="rect" id="node6" href="$namespaceli__core.html#a947db250ca82cfeb1e82e1a7a50b22c7" title="Initializes blocks for the land ice core." alt="" coords="639,29,787,69"/>
+<area shape="rect" id="node7" href="$namespaceli__core.html#a7ae277b566443d2c7e2ecf070616c801" title="Initializes land ice core." alt="" coords="447,37,591,62"/>
+<area shape="rect" id="node8" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="260,29,399,69"/>
+<area shape="rect" id="node9" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,29,212,69"/>
+</map>

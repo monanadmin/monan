@@ -1,0 +1,18 @@
+<map id="li_core_interface::li_setup_packages" name="li_core_interface::li_setup_packages">
+<area shape="rect" id="node1" title="Pacakge setup function." alt="" coords="5,220,148,260"/>
+<area shape="rect" id="node2" href="$namespaceli__analysis__driver.html#a5b8d3aa39c73033b1238bb01ab620037" title="Setup packages for MPAS&#45;Land Ice analysis driver." alt="" coords="196,141,339,195"/>
+<area shape="rect" id="node7" href="$namespacempas__pool__routines.html#a3ec7bf1b6bca531b51725dd62a6f188d" title="MPAS Pool Package access subroutine." alt="" coords="387,220,577,260"/>
+<area shape="rect" id="node12" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="857,321,1013,361"/>
+<area shape="rect" id="node3" href="$namespacempas__pool__routines.html#a3523a20ac4e1140ccf78363179759f12" title="MPAS Pool Begin Iteration Routine." alt="" coords="1304,5,1511,45"/>
+<area shape="rect" id="node5" href="$namespacempas__pool__routines.html#ac2e5667faecc6e67c32ee43e96750e5b" title="MPAS Pool creation routine." alt="" coords="625,61,809,101"/>
+<area shape="rect" id="node6" href="$namespacempas__pool__routines.html#ab6924e8731a9fbfb620e9a332f55c624" title="MPAS Pool Iterate To Next Member subroutine." alt="" coords="399,141,565,195"/>
+<area shape="rect" id="node4" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1559,176,1763,216"/>
+<area shape="rect" id="node8" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="641,200,794,240"/>
+<area shape="rect" id="node11" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="641,264,794,304"/>
+<area shape="rect" id="node9" href="$namespacempas__pool__routines.html#ae16592c11b643bee126eef0d41049cd0" title=" " alt="" coords="859,176,1012,216"/>
+<area shape="rect" id="node10" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="1081,176,1237,216"/>
+<area shape="rect" id="node13" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1061,342,1256,367"/>
+<area shape="rect" id="node16" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1073,392,1244,432"/>
+<area shape="rect" id="node14" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1311,341,1503,381"/>
+<area shape="rect" id="node15" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1581,341,1741,381"/>
+</map>

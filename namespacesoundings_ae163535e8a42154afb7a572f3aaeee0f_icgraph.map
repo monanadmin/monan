@@ -1,0 +1,7 @@
+<map id="soundings::soundings_compute" name="soundings::soundings_compute">
+<area shape="rect" id="node1" title="If soundings alarm is ringing, writes soundings text files." alt="" coords="931,13,1093,53"/>
+<area shape="rect" id="node2" href="$namespacempas__atm__diagnostics__manager.html#aabf5b4764b90899b7be01deab9a2a68b" title="Compute diagnostics before they are written to output streams." alt="" coords="684,5,883,60"/>
+<area shape="rect" id="node3" href="$namespaceatm__core.html#a7a2a9ad754bbe9947ddc39c1bd47a429" title=" " alt="" coords="456,20,636,45"/>
+<area shape="rect" id="node4" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,13,408,53"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,13,212,53"/>
+</map>

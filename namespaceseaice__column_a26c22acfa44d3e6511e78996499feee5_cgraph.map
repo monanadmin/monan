@@ -1,0 +1,15 @@
+<map id="seaice_column::config_error" name="seaice_column::config_error">
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,172,205"/>
+<area shape="rect" id="node2" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="660,108,816,148"/>
+<area shape="rect" id="node8" href="$namespacempas__pool__routines.html#a3ec7bf1b6bca531b51725dd62a6f188d" title="MPAS Pool Package access subroutine." alt="" coords="220,165,411,205"/>
+<area shape="rect" id="node13" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="222,229,409,269"/>
+<area shape="rect" id="node3" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="864,18,1059,43"/>
+<area shape="rect" id="node6" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1347,69,1551,109"/>
+<area shape="rect" id="node7" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="876,123,1047,163"/>
+<area shape="rect" id="node4" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1107,8,1299,48"/>
+<area shape="rect" id="node5" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1369,5,1529,45"/>
+<area shape="rect" id="node9" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="459,253,612,293"/>
+<area shape="rect" id="node12" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="459,165,612,205"/>
+<area shape="rect" id="node10" href="$namespacempas__pool__routines.html#ae16592c11b643bee126eef0d41049cd0" title=" " alt="" coords="661,253,815,293"/>
+<area shape="rect" id="node11" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="883,253,1039,293"/>
+</map>

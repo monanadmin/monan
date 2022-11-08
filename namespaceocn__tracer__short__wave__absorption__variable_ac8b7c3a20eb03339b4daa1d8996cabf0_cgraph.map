@@ -1,0 +1,7 @@
+<map id="ocn_tracer_short_wave_absorption_variable::ocn_get_shortwavedata" name="ocn_tracer_short_wave_absorption_variable::ocn_get_shortwavedata">
+<area shape="rect" id="node1" title="retrieve data needed to compute penetration of shortwave radiation" alt="" coords="5,62,191,117"/>
+<area shape="rect" id="node2" href="$namespacempas__forcing.html#a86834b7f10f2d2819d00d816cbd2ed65" title="Get the forcing data and do interpolation for a forcing group." alt="" coords="257,5,411,45"/>
+<area shape="rect" id="node3" href="$namespacempas__timekeeping.html#aa12932350721b123e41498fa4cde3723" title=" " alt="" coords="239,69,429,109"/>
+<area shape="rect" id="node4" href="$namespacempas__timekeeping.html#a69acc0b38ab3bd27dee976bed346b06d" title=" " alt="" coords="239,133,429,173"/>
+<area shape="rect" id="node5" href="$namespacempas__timekeeping.html#a9e22707655fafd3209ba81e2ae069609" title=" " alt="" coords="477,133,668,173"/>
+</map>

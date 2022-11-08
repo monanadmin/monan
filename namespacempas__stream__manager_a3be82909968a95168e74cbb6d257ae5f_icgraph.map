@@ -1,0 +1,10 @@
+<map id="mpas_stream_manager::mpas_stream_mgr_destroy_stream" name="mpas_stream_manager::mpas_stream_mgr_destroy_stream">
+<area shape="rect" id="node1" title="Free all memory associated with a stream in an MPAS stream manager." alt="" coords="936,30,1144,85"/>
+<area shape="rect" id="node2" href="$namespacempas__stream__manager.html#a78cb568ebbd39645253463d3bb27a324" title="Free all memory associated with an MPAS stream manager." alt="" coords="681,5,888,45"/>
+<area shape="rect" id="node5" href="$namespacetest__core__streams.html#a64c02ec1a184dedf7bd992a8e5a3fcad" title="tests reading/writing single&#45; and double&#45;precision streams" alt="" coords="697,69,872,109"/>
+<area shape="rect" id="node3" href="$namespacempas__subdriver.html#aae00bd2cfffeb018c01ed6f07d713ab7" title=" " alt="" coords="459,5,629,45"/>
+<area shape="rect" id="node4" href="$mpas_8F.html#a554ab5092fe5cd669557e865f6018565" title=" " alt="" coords="304,13,363,38"/>
+<area shape="rect" id="node6" href="$namespacetest__core.html#a368898ee33b1d245ef437ce9a533e3c1" title="MPAS Core Run Function." alt="" coords="455,77,633,102"/>
+<area shape="rect" id="node7" href="$namespacetest__core__interface.html#a12096f17bb769e30742bcf075f3663cb" title="Test core setup routine." alt="" coords="260,69,407,109"/>
+<area shape="rect" id="node8" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,69,212,109"/>
+</map>

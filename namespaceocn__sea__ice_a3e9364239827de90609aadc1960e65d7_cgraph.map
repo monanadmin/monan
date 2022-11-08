@@ -1,0 +1,4 @@
+<map id="ocn_sea_ice::ocn_sea_ice_formation" name="ocn_sea_ice::ocn_sea_ice_formation">
+<area shape="rect" id="node1" title="Performs the formation of Sea Ice within the ocean." alt="" coords="5,29,168,69"/>
+<area shape="rect" id="node2" href="$namespaceocn__equation__of__state.html#a577cb21af1c67d1308d2b6013224a791" title="Computes the freezing temperature of the ocean." alt="" coords="216,29,417,69"/>
+</map>

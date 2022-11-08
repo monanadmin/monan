@@ -1,0 +1,5 @@
+<map id="mpas_geometry_utils::mpas_distance" name="mpas_geometry_utils::mpas_distance">
+<area shape="rect" id="node1" title="Calculates distance between two points on a plane or sphere." alt="" coords="5,73,168,113"/>
+<area shape="rect" id="node2" href="$namespacempas__geometry__utils.html#a1fe128cfa38b4eb94fc5b725f26d0b53" title=" " alt="" coords="220,29,383,69"/>
+<area shape="rect" id="node3" href="$namespacempas__geometry__utils.html#a61425b6cd1b4adeb3ced2f79d94aca9b" title="Calculates distance between two points on a plane." alt="" coords="216,117,387,157"/>
+</map>

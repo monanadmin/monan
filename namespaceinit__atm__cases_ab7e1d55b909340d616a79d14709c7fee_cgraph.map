@@ -1,0 +1,7 @@
+<map id="init_atm_cases::nearest_edge" name="init_atm_cases::nearest_edge">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,221,106"/>
+<area shape="rect" id="node2" href="$namespacempas__init__atm__static.html#aca86c39824d1dec5e8b256ebbcb09071" title=" " alt="" coords="269,73,432,113"/>
+<area shape="rect" id="node3" href="$namespacempas__geometry__utils.html#a1fe128cfa38b4eb94fc5b725f26d0b53" title=" " alt="" coords="484,29,647,69"/>
+<area shape="rect" id="node4" href="$namespaceatm__advection.html#a01589bb221614c0c64eb26c4a7f5d5aa" title=" " alt="" coords="480,117,651,157"/>
+<area shape="rect" id="node5" href="$namespaceatm__advection.html#a4ab796b3b15949e6e7fdaad2314f9447" title=" " alt="" coords="699,117,845,157"/>
+</map>

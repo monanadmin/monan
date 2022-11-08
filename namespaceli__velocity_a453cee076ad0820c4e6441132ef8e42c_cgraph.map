@@ -1,0 +1,36 @@
+<map id="li_velocity::li_velocity_solve" name="li_velocity::li_velocity_solve">
+<area shape="rect" id="node1" title="Solver for calculating ice velocity." alt="" coords="5,301,168,341"/>
+<area shape="rect" id="node2" href="$namespaceli__velocity.html#ac21f713947c026b6d199c574e40175aa" title="Calulates strain rates on cell centers." alt="" coords="239,5,393,45"/>
+<area shape="rect" id="node4" href="$namespaceli__mask.html#a719ac9ed6a6e01580a6b91f09f4dc162" title="Extrapolates floating edges forward as needed by external FEM dycores." alt="" coords="235,70,397,125"/>
+<area shape="rect" id="node5" href="$namespaceli__mask.html#ac78389139702b2b489494b9c3df558e8" title="Calculates masks for land ice." alt="" coords="217,201,415,226"/>
+<area shape="rect" id="node6" href="$namespacempas__timer.html#ad9fdd184cf4b69c61c3b9ec6c365e731" title="MPAS Timer start routine." alt="" coords="481,136,668,176"/>
+<area shape="rect" id="node11" href="$namespacempas__timer.html#a4b62e1a0f4a967bd10da58a8f43dc615" title="MPAS Timer stop routine." alt="" coords="464,201,685,226"/>
+<area shape="rect" id="node15" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="761,435,917,475"/>
+<area shape="rect" id="node20" href="$namespaceli__sia.html#abc4fdbefcb0933742779d2dbc305e547" title="Computes velocity using Shallow Ice Appoximation." alt="" coords="246,518,386,543"/>
+<area shape="rect" id="node25" href="$namespaceli__advection.html#aa7ac0bc1cf791027ea120bfffac2b2f5" title="Calculates the lower and upper surface." alt="" coords="231,725,401,765"/>
+<area shape="rect" id="node27" href="$namespaceli__velocity__external.html#ae47bd980a719be075a0ea94e6c5e182e" title="Interface to call external velocity solvers." alt="" coords="216,301,416,341"/>
+<area shape="rect" id="node29" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="223,661,409,701"/>
+<area shape="rect" id="node34" href="$namespaceli__velocity.html#a65ccbdbac9c0b04d93e5eb701743514e" title="Removes floating ice with a fast surface speed, presumably an iceberg." alt="" coords="243,789,389,829"/>
+<area shape="rect" id="node3" href="$namespaceli__setup.html#a225ff29d2927b2472e33ec7a641c17b2" title="compute the gradient of a 2D scalar field" alt="" coords="498,5,651,45"/>
+<area shape="rect" id="node7" href="$namespacempas__dmpar.html#a33c44f0a83a9f64efc96946057a81fdf" title="MPAS dmpar get time routine." alt="" coords="739,104,939,144"/>
+<area shape="rect" id="node8" href="$namespacempas__threading.html#a09a2112c6bc6a42801778e5737100766" title="MPAS Threading barrier routine." alt="" coords="753,168,924,208"/>
+<area shape="rect" id="node9" href="$namespacempas__threading.html#a10c0d87d53999ca96f4875d85fb40d4e" title="MPAS Threading maximum number of threads function." alt="" coords="733,40,944,80"/>
+<area shape="rect" id="node10" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1488,365,1692,405"/>
+<area shape="rect" id="node12" href="$namespacempas__dmpar.html#aba8aaa5dde69dac102c2022807034d69" title="MPAS dmpar maximum real routine." alt="" coords="1240,333,1440,373"/>
+<area shape="rect" id="node13" href="$namespacempas__dmpar.html#a345684f0281cd9e0c71497078d0b5229" title="MPAS dmpar minimum real routine." alt="" coords="1240,397,1440,437"/>
+<area shape="rect" id="node14" href="$namespacempas__dmpar.html#af79c18d51f0cfcdece45cbfad143488a" title="MPAS dmpar sum real routine." alt="" coords="992,219,1192,259"/>
+<area shape="rect" id="node16" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="995,554,1189,579"/>
+<area shape="rect" id="node19" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1007,435,1177,475"/>
+<area shape="rect" id="node17" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1244,549,1436,589"/>
+<area shape="rect" id="node18" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1510,549,1670,589"/>
+<area shape="rect" id="node21" href="$namespaceli__diagnostic__vars.html#afd8c08e40173ed71e0ffe41e564ce551" title="Calculates the flow law parameter A based on temperature." alt="" coords="480,547,669,587"/>
+<area shape="rect" id="node22" href="$namespaceli__setup.html#aa8cb4ffe73a8f609e270367e2f241e50" title="Converts a 1d scalar field from cells to vertices." alt="" coords="498,611,651,666"/>
+<area shape="rect" id="node23" href="$namespacempas__geometry__utils.html#ae29382ab972be926dd2bc7a7f4add908" title="Converts a single layer scalar field from cells to specified points using barycentric weights." alt="" coords="489,467,660,522"/>
+<area shape="rect" id="node24" href="$namespacempas__vector__operations.html#ab9418c0c0496161ca1c18c2b18f8d405" title="compute tangential vector magnitude at an edge from the normal vector magnitudes" alt="" coords="469,691,680,731"/>
+<area shape="rect" id="node26" href="$namespaceli__thermal.html#a1ce4755a951019e2fe78634e668fde4f" title="MPAS convert temperature to enthalpy." alt="" coords="479,907,671,947"/>
+<area shape="rect" id="node28" href="$namespaceli__setup.html#ac944f5f9103668b681a5ef2c6029a45e" title="Interpolates from vertices to cell centers using Wachspress functions." alt="" coords="491,251,658,291"/>
+<area shape="rect" id="node30" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="498,843,651,883"/>
+<area shape="rect" id="node33" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="498,755,651,795"/>
+<area shape="rect" id="node31" href="$namespacempas__pool__routines.html#ae16592c11b643bee126eef0d41049cd0" title=" " alt="" coords="762,843,915,883"/>
+<area shape="rect" id="node32" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="1014,843,1170,883"/>
+</map>

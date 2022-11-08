@@ -1,0 +1,39 @@
+<map id="mpas_dmpar::mpas_dmpar_sum_real_array" name="mpas_dmpar::mpas_dmpar_sum_real_array">
+<area shape="rect" id="node1" title="MPAS dmpar real array sum routine." alt="" coords="1481,645,1681,685"/>
+<area shape="rect" id="node2" href="$mpas__ocn__pointwise__stats_8F.html#afa610fb2e3114c330039d6a6369c3054" title="MPAS ocean analysis mode member: pointwise_stats." alt="" coords="1218,5,1390,45"/>
+<area shape="rect" id="node3" href="$mpas__seaice__pointwise__stats_8F.html#ab9bbac24db4d3e6ba9010c21a2cafd8f" title="MPAS&#45;seaice analysis mode member: pointwise_stats." alt="" coords="1209,69,1399,109"/>
+<area shape="rect" id="node4" href="$namespaceli__global__stats.html#a9c7fb72441e65521a41ce4dffefebcf3" title="Compute MPAS&#45;Land Ice analysis member." alt="" coords="1218,261,1390,301"/>
+<area shape="rect" id="node9" href="$namespaceli__regional__stats.html#a29fb0dca79594dd338b54445875aa323" title="Compute MPAS&#45;Land Ice analysis member." alt="" coords="1207,197,1401,237"/>
+<area shape="rect" id="node10" href="$namespaceli__statistics.html#a8a7cf1dc9f232a341b0e28dd53161927" title="Computes global and local statistics." alt="" coords="1216,133,1392,173"/>
+<area shape="rect" id="node13" href="$namespaceseaice__conservation__check.html#a77e166c20da286e86647d8bed16d451a" title="Compute MPAS&#45;Seaice analysis member." alt="" coords="1203,1272,1405,1312"/>
+<area shape="rect" id="node14" href="$namespaceseaice__conservation__check.html#aac084d9f98e27a97e4df55517538b431" title="Compute MPAS&#45;Seaice analysis member." alt="" coords="938,1171,1119,1226"/>
+<area shape="rect" id="node18" href="$namespacempas__tensor__operations.html#a62c887c84b358b539d8873c949486d73" title="Tests strain rate and tensor divergence operators." alt="" coords="1213,325,1395,365"/>
+<area shape="rect" id="node23" href="$namespaceocn__global__stats.html#a8df3df67bf0e0aef4064b76246158c6e" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1218,533,1390,573"/>
+<area shape="rect" id="node27" href="$namespaceocn__layer__volume__weighted__averages.html#aff8fc86c1b480a190a2220fb2aa964b3" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1178,598,1430,653"/>
+<area shape="rect" id="node28" href="$namespaceocn__meridional__heat__transport.html#ad6c0537cea475dfffa72e77a6a02ea1c" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1203,677,1405,731"/>
+<area shape="rect" id="node29" href="$namespaceocn__moc__streamfunction.html#a37a31cb29ddaf3cc48ca34c52bccc5b1" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1175,756,1433,796"/>
+<area shape="rect" id="node30" href="$namespaceocn__regional__stats.html#aad30b199b2272a60be33487452a5e2c7" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1196,820,1412,860"/>
+<area shape="rect" id="node31" href="$namespaceocn__surface__area__weighted__averages.html#aa1e5cd9fa17013915ebc5e00a1a0e0f9" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1181,885,1427,939"/>
+<area shape="rect" id="node32" href="$namespaceocn__transect__transport.html#a3998caec8106da87885e34782fd94e77" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1215,963,1393,1018"/>
+<area shape="rect" id="node33" href="$namespaceocn__water__mass__census.html#a5441539a37a0063e9b06a03d4eb403e4" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1203,390,1405,445"/>
+<area shape="rect" id="node34" href="$namespaceocn__zonal__mean.html#a7613f37c4e17002d6fc1a723d9105813" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1218,469,1390,509"/>
+<area shape="rect" id="node35" href="$namespaceseaice__regional__statistics.html#a0e389c80edc9976ec33854a08d624a95" title="Calculate the runtime configurable regional statistics." alt="" coords="1201,1043,1407,1083"/>
+<area shape="rect" id="node36" href="$namespaceseaice__regional__statistics.html#afd2a53ac8854bd34b5438fdb249cae03" title="Compute MPAS&#45;Seaice analysis member." alt="" coords="931,1050,1127,1105"/>
+<area shape="rect" id="node37" href="$namespaceseaice__conservation__check.html#a82a3d7f49e278979759e905f0d434fc6" title="Compute MPAS&#45;Seaice analysis member." alt="" coords="1209,1208,1399,1248"/>
+<area shape="rect" id="node5" href="$namespaceli__analysis__driver.html#ad7be76a5602d216819eb135f25bfb778" title="Finalize MPAS&#45;Land Ice analysis driver." alt="" coords="951,255,1106,295"/>
+<area shape="rect" id="node6" href="$namespaceli__core.html#ae5e0f774eef393d0119a4fe4d131618f" title="Finalizes the land ice core." alt="" coords="703,262,874,287"/>
+<area shape="rect" id="node7" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="490,255,629,295"/>
+<area shape="rect" id="node8" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,617,212,657"/>
+<area shape="rect" id="node11" href="$namespaceli__core.html#aeeec4424e39396b4f39a0d8b97053255" title="Performs the initial diagnostic solve for the LI core." alt="" coords="949,133,1109,173"/>
+<area shape="rect" id="node12" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="717,198,861,223"/>
+<area shape="rect" id="node15" href="$namespaceseaice__analysis__driver.html#a662b6a8d2c1a354304582ba3a9441db2" title="Finalize MPAS&#45;Ocean analysis driver." alt="" coords="695,1057,883,1097"/>
+<area shape="rect" id="node16" href="$namespaceseaice__core.html#a23c5af2d2d75558b40ff00898b7f683a" title=" " alt="" coords="485,740,634,780"/>
+<area shape="rect" id="node17" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="260,712,424,752"/>
+<area shape="rect" id="node19" href="$namespaceocn__test.html#a1103957b9a72a8549180bb49abf3f171" title="Call all internal start&#45;up tests." alt="" coords="959,399,1099,439"/>
+<area shape="rect" id="node20" href="$namespaceocn__forward__mode.html#a9b043f2348d45741ff56fe9c01a8d26d" title="Initialize MPAS&#45;Ocean core." alt="" coords="700,545,877,585"/>
+<area shape="rect" id="node21" href="$namespaceocn__core.html#a222c57b5e554986e5c7a5ffd9d1acfb7" title="MPAS&#45;Ocean Initialize Driver." alt="" coords="472,593,647,618"/>
+<area shape="rect" id="node22" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="269,617,415,657"/>
+<area shape="rect" id="node24" href="$namespaceocn__analysis__driver.html#a9ce8345bef198355e4e3cee4e1e40dbc" title="Finalize MPAS&#45;Ocean analysis driver." alt="" coords="944,679,1113,719"/>
+<area shape="rect" id="node25" href="$namespaceocn__forward__mode.html#a3d844494119d300f797b13a519884088" title="Finalize MPAS&#45;Ocean Forward Mode." alt="" coords="699,668,878,708"/>
+<area shape="rect" id="node26" href="$namespaceocn__core.html#a5865b6e236ce7a2803449fe9b87aba9f" title="MPAS&#45;Ocean Finalize Driver." alt="" coords="486,663,633,703"/>
+</map>

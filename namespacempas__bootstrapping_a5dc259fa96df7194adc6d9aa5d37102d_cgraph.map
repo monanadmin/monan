@@ -1,0 +1,43 @@
+<map id="mpas_bootstrapping::mpas_bootstrap_framework_phase1" name="mpas_bootstrapping::mpas_bootstrap_framework_phase1">
+<area shape="rect" id="node1" title="Obtains mesh partition, builds halos, and allocates blocks." alt="" coords="5,628,219,682"/>
+<area shape="rect" id="node2" href="$namespacempas__block__creator.html#aad1d6f9cd899f9fc0a57d82cd79f83ac" title="Initializes 0 and 1 halo edge based fields requried to work out halos." alt="" coords="285,280,474,350"/>
+<area shape="rect" id="node9" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="859,500,1015,540"/>
+<area shape="rect" id="node20" href="$namespacempas__block__creator.html#abff3fdf59cadf118ddf87e12df346faf" title="Initializes 0 halo cell based fields requried to work out halos." alt="" coords="291,453,468,508"/>
+<area shape="rect" id="node21" href="$namespacempas__block__creator.html#af00026a041105785c7fd97b0e3ca3279" title="Builds cell halos." alt="" coords="299,374,460,429"/>
+<area shape="rect" id="node23" href="$namespacempas__block__creator.html#a11cdd50ddff55d3c1b40d0ae56d46d13" title="Builds edge halos." alt="" coords="299,174,460,229"/>
+<area shape="rect" id="node24" href="$namespacempas__block__creator.html#af3ee5dc658c244ca3692fc6b165dd962" title="Phase 1 of block creation finalization." alt="" coords="575,584,749,638"/>
+<area shape="rect" id="node29" href="$namespacempas__block__creator.html#ab09086690f305f2b0775a0a7355b4776" title="Initializes the list of blocks, and determines 0 halo cell indices." alt="" coords="267,901,492,956"/>
+<area shape="rect" id="node30" href="$namespacempas__block__decomp.html#ab53ca3d7d4f22aceacb32aa766aaa840" title="Determines list of cells for a specific processor." alt="" coords="564,886,760,941"/>
+<area shape="rect" id="node37" href="$namespacempas__dmpar.html#a61dfb626b5419ea5b6dcdc78821bc0aa" title="MPAS dmpar destroy muiltihalo exchange list routine." alt="" coords="540,663,784,703"/>
+<area shape="rect" id="node38" href="$namespacempas__dmpar.html#a0628e7de8578013174b78146deefa2b7" title="MPAS dmpar processor specific range of indices." alt="" coords="279,1059,479,1099"/>
+<area shape="rect" id="node39" href="$namespacempas__bootstrapping.html#a2937b069ae6cb5d7cc82bfabb1ff450e" title=" " alt="" coords="300,980,459,1034"/>
+<area shape="rect" id="node40" href="$namespacempas__bootstrapping.html#ac34e57698583d123c4802f499a47693f" title=" " alt="" coords="296,744,463,798"/>
+<area shape="rect" id="node41" href="$namespacempas__bootstrapping.html#a92a2ff9ffd41b5b443260c6d231dbc15" title=" " alt="" coords="291,822,468,877"/>
+<area shape="rect" id="node3" href="$namespacempas__block__decomp.html#aaf8f732623b88515d9808b53e09e249e" title="Determines all edges in a block." alt="" coords="571,240,753,294"/>
+<area shape="rect" id="node15" href="$namespacempas__block__decomp.html#a49c1bd8c2a1fc808c7c79ecef9381268" title="Partitions list of edges for a processor." alt="" coords="543,109,781,164"/>
+<area shape="rect" id="node16" href="$namespacempas__dmpar.html#a556823602a8c54a2440ddc78fa85f98f" title="MPAS dmpar exchange list builder." alt="" coords="562,383,762,423"/>
+<area shape="rect" id="node19" href="$namespacempas__dmpar.html#abb8813df26f77c10a01c1c740fd88e81" title="MPAS dmpar initialize muiltihalo exchange list routine." alt="" coords="554,966,770,1006"/>
+<area shape="rect" id="node4" href="$namespacempas__hash.html#a0ae4ce94edcb016873deb80126671b92" title=" " alt="" coords="848,159,1027,199"/>
+<area shape="rect" id="node5" href="$namespacempas__hash.html#ae53fb2bfcf4c441e3939df880743be82" title="MPAS Hash table init routine." alt="" coords="834,21,1041,46"/>
+<area shape="rect" id="node6" href="$namespacempas__hash.html#a7b944fa4361ca7c35c7459dc941b01a9" title="MPAS Hash table insert routine." alt="" coords="848,223,1027,263"/>
+<area shape="rect" id="node7" href="$namespacempas__hash.html#a5955a2ff89b2b1c7a9f18902321cb5b0" title="MPAS Hash table search routine." alt="" coords="848,95,1027,135"/>
+<area shape="rect" id="node8" href="$namespacempas__hash.html#a15afb797e29fd30062aa9a5df923e9e5" title=" " alt="" coords="832,312,1043,337"/>
+<area shape="rect" id="node10" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1093,494,1288,520"/>
+<area shape="rect" id="node13" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1592,742,1796,782"/>
+<area shape="rect" id="node14" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1105,544,1276,584"/>
+<area shape="rect" id="node11" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1345,519,1537,559"/>
+<area shape="rect" id="node12" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1614,519,1774,559"/>
+<area shape="rect" id="node17" href="$namespacempas__sort.html#a7574dda23d8e26b209e83bfbf7cf6c51" title="MPAS Binary search routine." alt="" coords="846,386,1029,426"/>
+<area shape="rect" id="node18" href="$namespacempas__dmpar.html#a78a57482b5688efa7cfc22693179fab8" title="MPAS dmpar destroy exchange list routine." alt="" coords="837,652,1037,692"/>
+<area shape="rect" id="node22" href="$namespacempas__block__decomp.html#a98611efc5163d5e32e8e82346fac3544" title="Add halo to block." alt="" coords="549,319,775,359"/>
+<area shape="rect" id="node25" href="$namespacempas__domain__routines.html#a388d3bb21c995055c9c9bcc925478e8b" title="MPAS Block allocation routine." alt="" coords="850,767,1025,807"/>
+<area shape="rect" id="node27" href="$namespacempas__pool__routines.html#a1a288dc7b5b795757b78bde482c219fb" title="MPAS Pool Error level get function." alt="" coords="834,588,1041,628"/>
+<area shape="rect" id="node28" href="$namespacempas__pool__routines.html#a55b9bcb00fef12529561c9e80914628f" title="MPAS Pool Error level set routine." alt="" coords="1339,710,1544,750"/>
+<area shape="rect" id="node26" href="$namespacempas__pool__routines.html#ac2e5667faecc6e67c32ee43e96750e5b" title="MPAS Pool creation routine." alt="" coords="1349,774,1533,814"/>
+<area shape="rect" id="node31" href="$namespacempas__block__decomp.html#a181b9ac87c8e26057212ea7afaeaf6f9" title="Build list of blocks per processor." alt="" coords="837,882,1038,922"/>
+<area shape="rect" id="node32" href="$namespacempas__dmpar.html#a401cce9d3fd9dd5e7fee94d1ad44d7b6" title="MPAS dmpar broadcast integers routine." alt="" coords="1091,882,1291,922"/>
+<area shape="rect" id="node33" href="$namespacempas__dmpar.html#a34e095f004f766a110bb8638164c9805" title="MPAS dmpar scatter integers routine." alt="" coords="1341,1043,1541,1083"/>
+<area shape="rect" id="node34" href="$namespacempas__block__decomp.html#a7773e1d31876df928509bfa35f61c48c" title="Determine number of blocks per processor." alt="" coords="838,1047,1037,1087"/>
+<area shape="rect" id="node35" href="$namespacempas__block__decomp.html#aa35cfe9add2dd4e52787095c7e50ce0e" title="Determine the local ID of a block." alt="" coords="1098,1000,1283,1040"/>
+<area shape="rect" id="node36" href="$namespacempas__block__decomp.html#a9c500ef07fbbf72b6117e9c9f94961f5" title="Determine the owning processor ID for a specific block." alt="" coords="1103,1086,1278,1126"/>
+</map>

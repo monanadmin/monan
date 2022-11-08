@@ -1,0 +1,6 @@
+<map id="ocn_analysis_mode::ocn_analysis_mode_setup_clock" name="ocn_analysis_mode::ocn_analysis_mode_setup_clock">
+<area shape="rect" id="node1" title="Initialize timer variables." alt="" coords="647,5,881,45"/>
+<area shape="rect" id="node2" href="$namespaceocn__core__interface.html#acd26c5be60884920c831dc25d237600c" title="Pacakge setup routine." alt="" coords="453,5,599,45"/>
+<area shape="rect" id="node3" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="260,5,405,45"/>
+<area shape="rect" id="node4" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="mpas_stream_manager::mpas_stream_mgr_get_stream_interval" name="mpas_stream_manager::mpas_stream_mgr_get_stream_interval">
+<area shape="rect" id="node1" title="Returns the minimum input/output interval for a stream." alt="" coords="991,34,1171,89"/>
+<area shape="rect" id="node2" href="$namespaceinit__atm__cases.html#ac583db85e2a56097621b29c4b0ba2111" title=" " alt="" coords="762,5,911,45"/>
+<area shape="rect" id="node6" href="$namespacempas__stream__manager.html#a589a7653034e285db87cac71de010477" title="Validate all streams or one stream, if optional argument streamID is present." alt="" coords="731,70,943,125"/>
+<area shape="rect" id="node3" href="$namespaceinit__atm__core.html#a6bf6152fa2f635dc9e02dd38d3b08371" title=" " alt="" coords="513,5,653,45"/>
+<area shape="rect" id="node4" href="$namespaceinit__atm__core__interface.html#a6e3e2b14ef27bc9bb6b4f82cbd1b9f7f" title="Init atmosphere core setup routine." alt="" coords="260,5,436,45"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,35,212,75"/>
+<area shape="rect" id="node7" href="$namespacempas__subdriver.html#a603c2e00593a818dd03388d65a7d5932" title=" " alt="" coords="484,121,683,146"/>
+<area shape="rect" id="node8" href="$mpas_8F.html#a554ab5092fe5cd669557e865f6018565" title=" " alt="" coords="319,121,377,146"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="diagnostic_template::diagnostic_template_cleanup" name="diagnostic_template::diagnostic_template_cleanup">
+<area shape="rect" id="node1" title="Finalizes diagnostic." alt="" coords="903,5,1065,60"/>
+<area shape="rect" id="node2" href="$namespacempas__atm__diagnostics__manager.html#a3a051002f20ba27eb1b4a0cdad1fa001" title="Finalizes diagnostics manager and all diagnostics." alt="" coords="656,5,855,60"/>
+<area shape="rect" id="node3" href="$namespaceatm__core.html#a9a217bedfc2045be61882ededb24c41b" title=" " alt="" coords="456,13,608,53"/>
+<area shape="rect" id="node4" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,13,408,53"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,13,212,53"/>
+</map>

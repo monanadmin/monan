@@ -1,0 +1,7 @@
+<map id="ocn_init_spherical_utils::ocn_init_expand_sphere" name="ocn_init_spherical_utils::ocn_init_expand_sphere">
+<area shape="rect" id="node1" title="MPAS&#45;Ocean Spherical Expansion Routine." alt="" coords="872,5,1043,60"/>
+<area shape="rect" id="node2" href="$namespaceocn__init__mode.html#af65031fd2e7300ea0fd9a9f17611f0d9" title="Initialize MPAS&#45;Ocean core in init mode." alt="" coords="676,13,824,53"/>
+<area shape="rect" id="node3" href="$namespaceocn__core.html#a222c57b5e554986e5c7a5ffd9d1acfb7" title="MPAS&#45;Ocean Initialize Driver." alt="" coords="453,20,628,45"/>
+<area shape="rect" id="node4" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="260,13,405,53"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,13,212,53"/>
+</map>

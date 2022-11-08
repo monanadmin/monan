@@ -1,0 +1,6 @@
+<map id="ocn_vel_forcing::ocn_vel_forcing_init" name="ocn_vel_forcing::ocn_vel_forcing_init">
+<area shape="rect" id="node1" title="Initializes ocean forcings." alt="" coords="5,85,160,125"/>
+<area shape="rect" id="node2" href="$namespaceocn__vel__forcing__explicit__bottom__drag.html#ab7cc9c0573be209bf03eb17bda12dde5" title="Initializes ocean explicit bottom drag forcing." alt="" coords="208,5,431,60"/>
+<area shape="rect" id="node3" href="$namespaceocn__vel__forcing__rayleigh.html#a4efacf5fa42317230aff2355b86e77d2" title="Initializes ocean Rayleigh friction." alt="" coords="209,85,429,125"/>
+<area shape="rect" id="node4" href="$namespaceocn__vel__forcing__surface__stress.html#a9791c2c3486103b409938aa75bcc6f37" title="Initializes ocean surface stress forcing." alt="" coords="230,149,409,204"/>
+</map>

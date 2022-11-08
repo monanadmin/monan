@@ -1,0 +1,52 @@
+<map id="li_core::li_core_init" name="li_core::li_core_init">
+<area shape="rect" id="node1" title="Initializes land ice core." alt="" coords="5,1699,149,1725"/>
+<area shape="rect" id="node2" href="$namespaceli__core.html#a947db250ca82cfeb1e82e1a7a50b22c7" title="Initializes blocks for the land ice core." alt="" coords="219,335,367,375"/>
+<area shape="rect" id="node6" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="1243,1079,1399,1119"/>
+<area shape="rect" id="node14" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="712,663,899,703"/>
+<area shape="rect" id="node21" href="$namespaceli__analysis__driver.html#a09420ba77aa4d75d95988a06085169c2" title="Initialize MPAS&#45;Land Ice analysis driver." alt="" coords="225,1720,361,1760"/>
+<area shape="rect" id="node23" href="$namespacempas__timekeeping.html#abaac4733a856ced62f4f187b8065cd92" title=" " alt="" coords="445,2029,636,2069"/>
+<area shape="rect" id="node24" href="$namespacempas__timekeeping.html#aa12932350721b123e41498fa4cde3723" title=" " alt="" coords="710,1868,901,1908"/>
+<area shape="rect" id="node26" href="$namespacempas__timekeeping.html#a8d5d19985f6b27f205d5c3ef823eb629" title=" " alt="" coords="710,2424,901,2464"/>
+<area shape="rect" id="node27" href="$namespacempas__timekeeping.html#acf3cee7d823439c61906257e9ba2878a" title=" " alt="" coords="445,2208,636,2248"/>
+<area shape="rect" id="node32" href="$namespacempas__timekeeping.html#a76064be40df3c8e9887996c6763fb419" title=" " alt="" coords="710,2139,901,2179"/>
+<area shape="rect" id="node35" href="$namespaceli__setup.html#a20b85c949266ad97e75a4532707f8e75" title="Makes any setup changes needed based on chosen config options." alt="" coords="227,881,359,921"/>
+<area shape="rect" id="node37" href="$namespaceli__subglacial__hydro.html#a0c02645dfbd1b83b5c711d45b6045679" title="Initialize SGH." alt="" coords="220,1315,367,1355"/>
+<area shape="rect" id="node39" href="$namespaceli__thermal.html#a323f5f351faaa821c6511b4fff6dc45f" title="MPAS land ice initialize vertical temperature." alt="" coords="445,1030,636,1055"/>
+<area shape="rect" id="node42" href="$namespaceli__velocity__external.html#ae28378337017df581b603a847cb5d7ba" title="Calls C++ code to write albany mesh in ascii format." alt="" coords="461,1499,620,1554"/>
+<area shape="rect" id="node45" href="$namespaceli__velocity.html#a9617fa7289e9b2f0374f62876f1c0d90" title="Initializes velocity solver." alt="" coords="710,1094,901,1119"/>
+<area shape="rect" id="node49" href="$namespacempas__stream__manager.html#a25b8eae2a0cd84e0f1ba696576c816db" title="Read streams that are managed by an MPAS stream manager." alt="" coords="199,2263,387,2303"/>
+<area shape="rect" id="node50" href="$namespacempas__stream__manager.html#a330e8e3107a935cb025d1f4bd4462aa3" title="Reset I/O alarms in a stream manager." alt="" coords="197,2366,389,2421"/>
+<area shape="rect" id="node3" href="$namespaceli__mask.html#a19f99aa9071bb5311c0c59edb700fe8e" title="Calculates masks for land ice for info needed from initial condition only." alt="" coords="463,133,618,173"/>
+<area shape="rect" id="node4" href="$namespaceli__setup.html#ade387d1d9a185e6ed8258d950caf8846" title="Determines signs for various mesh items." alt="" coords="454,197,627,237"/>
+<area shape="rect" id="node5" href="$namespaceli__setup.html#ae77e5c28519ea747bff401c0b59a7353" title="Initializes vertical coord system." alt="" coords="1001,777,1133,817"/>
+<area shape="rect" id="node11" href="$namespaceli__setup.html#a435ed4e9ac4b35bcb24e6807684556ed" title="Calculates weights to interpolate from vertices to cell centers." alt="" coords="453,262,628,317"/>
+<area shape="rect" id="node12" href="$namespaceli__velocity.html#a5151f1232f14642bd4858009940e01ed" title="Initializes velocity solver." alt="" coords="985,409,1148,449"/>
+<area shape="rect" id="node13" href="$namespacempas__vector__reconstruction.html#a80aa076a06eaae6dfa5f1c335d92fdea" title="MPAS Vector reconstruction initialization routine." alt="" coords="437,5,644,45"/>
+<area shape="rect" id="node17" href="$namespacempas__pool__routines.html#afdbfba514ef70f200f9c438758274f00" title="MPAS Pool copy routine." alt="" coords="459,518,623,573"/>
+<area shape="rect" id="node20" href="$namespacempas__rbf__interpolation.html#ab241c14409f9513f8b289c1fc4651a9e" title="MPAS RBF interpolation initialization routine." alt="" coords="441,69,640,109"/>
+<area shape="rect" id="node7" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1476,1315,1671,1341"/>
+<area shape="rect" id="node9" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1959,1393,2163,1433"/>
+<area shape="rect" id="node10" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1488,1136,1659,1176"/>
+<area shape="rect" id="node8" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1719,1311,1911,1351"/>
+<area shape="rect" id="node15" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="990,599,1143,639"/>
+<area shape="rect" id="node16" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="990,663,1143,703"/>
+<area shape="rect" id="node18" href="$namespacempas__pool__routines.html#a3523a20ac4e1140ccf78363179759f12" title="MPAS Pool Begin Iteration Routine." alt="" coords="702,1245,909,1285"/>
+<area shape="rect" id="node19" href="$namespacempas__pool__routines.html#ab6924e8731a9fbfb620e9a332f55c624" title="MPAS Pool Iterate To Next Member subroutine." alt="" coords="723,518,888,573"/>
+<area shape="rect" id="node22" href="$namespacempas__timekeeping.html#ac37646f197c9b8974dc5e317d6073917" title=" " alt="" coords="445,1629,636,1669"/>
+<area shape="rect" id="node25" href="$namespacempas__timekeeping.html#a277dbd9eccabe934a4e19400ab8dcb36" title=" " alt="" coords="445,2373,636,2413"/>
+<area shape="rect" id="node29" href="$namespacempas__timekeeping.html#a69acc0b38ab3bd27dee976bed346b06d" title=" " alt="" coords="445,2093,636,2133"/>
+<area shape="rect" id="node30" href="$namespacempas__stream__manager.html#a6307ff02d90b841fdb99918f51b29b32" title="Reset iterator within stream manager." alt="" coords="443,1745,638,1799"/>
+<area shape="rect" id="node31" href="$namespacempas__stream__manager.html#a79be9732e717924954fa35ef154aab09" title="Retrieve information about next stream." alt="" coords="451,1926,631,1981"/>
+<area shape="rect" id="node33" href="$namespacempas__timer.html#ad9fdd184cf4b69c61c3b9ec6c365e731" title="MPAS Timer start routine." alt="" coords="712,1408,899,1448"/>
+<area shape="rect" id="node34" href="$namespacempas__timer.html#a4b62e1a0f4a967bd10da58a8f43dc615" title="MPAS Timer stop routine." alt="" coords="695,1347,916,1373"/>
+<area shape="rect" id="node28" href="$namespacempas__timekeeping.html#a9af954039075caf27df380401b9878ce" title=" " alt="" coords="692,2227,919,2253"/>
+<area shape="rect" id="node36" href="$namespacempas__pool__routines.html#a6d6504cffe000aecf3a2a79f22e202b2" title="MPAS Pool Summary write routine." alt="" coords="437,723,644,763"/>
+<area shape="rect" id="node38" href="$namespaceli__mask.html#ac78389139702b2b489494b9c3df558e8" title="Calculates masks for land ice." alt="" coords="441,1347,640,1373"/>
+<area shape="rect" id="node40" href="$namespaceli__thermal.html#ab7ad573e7e63a6409f6135be104913e1" title="MPAS initialize a linear temperature profile in a column." alt="" coords="728,1015,883,1070"/>
+<area shape="rect" id="node41" href="$namespacempas__dmpar.html#aa20c429b02c1078e0dd93fc75bdf7c44" title="MPAS dmpar full halo exchange routine." alt="" coords="705,951,905,991"/>
+<area shape="rect" id="node43" href="$namespacempas__dmpar.html#a94b8f4069c2b0246c6e4d37c45bd4f10" title="Builds send and receive comm lists templates for populating with buffer data." alt="" coords="967,1551,1167,1591"/>
+<area shape="rect" id="node44" href="$namespacempas__dmpar.html#a97adc3a2b9d0a204ce5954d2ee009734" title="MPAS dmpar destroy communication list routine." alt="" coords="1215,1601,1428,1641"/>
+<area shape="rect" id="node46" href="$namespaceli__sia.html#a4c430f0a62ad6026f17497414ead4610" title="Initializes SIA velocity solver." alt="" coords="1003,943,1130,969"/>
+<area shape="rect" id="node47" href="$namespaceli__velocity__external.html#ae15337e1009d30a1a08db63d9043865c" title="Initializes velocity solver." alt="" coords="973,1108,1160,1148"/>
+<area shape="rect" id="node48" href="$namespaceli__velocity__simple.html#a07784cceb2ed78cbd1e28c1c58475ff5" title="Initializes simple velocity." alt="" coords="979,993,1155,1033"/>
+</map>

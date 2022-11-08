@@ -1,0 +1,18 @@
+<map id="mpas_log::mpas_log_init" name="mpas_log::mpas_log_init">
+<area shape="rect" id="node1" title="Initializes log manager." alt="" coords="708,205,892,230"/>
+<area shape="rect" id="node2" href="$namespaceatm__core__interface.html#af1d21fbc1aa35aec95affe8bbf5f00cb" title="Log setup routine." alt="" coords="498,5,646,45"/>
+<area shape="rect" id="node5" href="$namespaceinit__atm__core__interface.html#a574888643486ba4af5c5c6b77add8569" title="Log setup routine." alt="" coords="484,69,660,109"/>
+<area shape="rect" id="node7" href="$namespaceli__core__interface.html#a1564bcdae325144610e9b85cd0327e3d" title="Log setup routine." alt="" coords="503,133,641,173"/>
+<area shape="rect" id="node9" href="$namespaceocn__core__interface.html#a0d5417549aa3ffdfdfbc427209316606" title="Log setup routine." alt="" coords="499,197,645,237"/>
+<area shape="rect" id="node11" href="$namespaceseaice__core__interface.html#a07d35c24ed4c315d9d6e7959fa6e9f91" title="Log setup routine." alt="" coords="490,261,654,301"/>
+<area shape="rect" id="node13" href="$namespacesw__core__interface.html#a2ced7a5a128f046148ecd52f105046cd" title="Log setup routine." alt="" coords="498,325,646,365"/>
+<area shape="rect" id="node15" href="$namespacetest__core__interface.html#a468ce8ed26183e744d895dac2228d171" title="Log setup routine." alt="" coords="499,389,645,429"/>
+<area shape="rect" id="node3" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="274,5,422,45"/>
+<area shape="rect" id="node4" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,197,212,237"/>
+<area shape="rect" id="node6" href="$namespaceinit__atm__core__interface.html#a6e3e2b14ef27bc9bb6b4f82cbd1b9f7f" title="Init atmosphere core setup routine." alt="" coords="260,69,436,109"/>
+<area shape="rect" id="node8" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="279,133,417,173"/>
+<area shape="rect" id="node10" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="275,197,421,237"/>
+<area shape="rect" id="node12" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="266,261,430,301"/>
+<area shape="rect" id="node14" href="$namespacesw__core__interface.html#ae580e0525022db6a50736ac32c4d5ea3" title="Shallow water core setup routine." alt="" coords="274,325,422,365"/>
+<area shape="rect" id="node16" href="$namespacetest__core__interface.html#a12096f17bb769e30742bcf075f3663cb" title="Test core setup routine." alt="" coords="275,389,421,429"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="mpas_atm_diagnostics_utils::mpas_field_will_be_written" name="mpas_atm_diagnostics_utils::mpas_field_will_be_written">
+<area shape="rect" id="node1" title="Decide if a field will be written in next call to mpas_stream_mgr_write." alt="" coords="1241,120,1413,175"/>
+<area shape="rect" id="node2" href="$namespaceconvective__diagnostics.html#a15b9527ebf904d7a966335bb4542b66c" title="Computes convective diagnostic." alt="" coords="991,5,1173,60"/>
+<area shape="rect" id="node7" href="$namespaceconvective__diagnostics.html#a7a72c27c572fa4ac4c2e12b9aba0bc91" title="Reset maximum values for convective diagnostics." alt="" coords="971,227,1193,267"/>
+<area shape="rect" id="node9" href="$namespaceisobaric__diagnostics.html#a1c71e07a04eb38d243b36a075bccce21" title="Compute isobaric diagnostic before model output is written." alt="" coords="1001,84,1163,139"/>
+<area shape="rect" id="node10" href="$namespacepv__diagnostics.html#a7f65ac9faa97dea188350e1258672d45" title="Compute diagnostic before model output is written." alt="" coords="999,163,1165,203"/>
+<area shape="rect" id="node3" href="$namespacempas__atm__diagnostics__manager.html#aabf5b4764b90899b7be01deab9a2a68b" title="Compute diagnostics before they are written to output streams." alt="" coords="704,100,903,155"/>
+<area shape="rect" id="node4" href="$namespaceatm__core.html#a7a2a9ad754bbe9947ddc39c1bd47a429" title=" " alt="" coords="456,167,636,192"/>
+<area shape="rect" id="node5" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,159,408,199"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,159,212,199"/>
+<area shape="rect" id="node8" href="$namespacempas__atm__diagnostics__manager.html#a0c8cdbe21c3851902873d16f0924e37a" title="Resets a diagnostic after it has been computed and written." alt="" coords="684,195,923,235"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="mpas_dmpar::mpas_dmpar_destroy_communication_list" name="mpas_dmpar::mpas_dmpar_destroy_communication_list">
+<area shape="rect" id="node1" title="MPAS dmpar destroy communication list routine." alt="" coords="2141,126,2355,166"/>
+<area shape="rect" id="node2" href="$namespaceli__velocity__external.html#ae28378337017df581b603a847cb5d7ba" title="Calls C++ code to write albany mesh in ascii format." alt="" coords="1625,5,1784,60"/>
+<area shape="rect" id="node6" href="$namespacempas__dmpar.html#a94b8f4069c2b0246c6e4d37c45bd4f10" title="Builds send and receive comm lists templates for populating with buffer data." alt="" coords="1882,90,2082,130"/>
+<area shape="rect" id="node7" href="$namespacempas__dmpar.html#aa6f356e4b51d04c8b999a47a4daa8b2f" title="MPAS dmpar exchange group reusable buffer construction routine." alt="" coords="1879,155,2085,209"/>
+<area shape="rect" id="node19" href="$namespacempas__dmpar.html#ae0d7481d920940762e69b7d915ad48b0" title="MPAS dmpar exchange group destroy reusable buffers routine." alt="" coords="1871,249,2093,304"/>
+<area shape="rect" id="node3" href="$namespaceli__core.html#a7ae277b566443d2c7e2ecf070616c801" title="Initializes land ice core." alt="" coords="1357,27,1501,52"/>
+<area shape="rect" id="node4" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="899,43,1037,83"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,139,212,179"/>
+<area shape="rect" id="node8" href="$namespaceocn__forward__mode.html#a9b043f2348d45741ff56fe9c01a8d26d" title="Initialize MPAS&#45;Ocean core." alt="" coords="1616,214,1793,254"/>
+<area shape="rect" id="node11" href="$namespaceseaice__advection__incremental__remap__tracers.html#a9d684f986cbb960b2a58fe44af1ac755" title="halo update for tracers" alt="" coords="1587,84,1823,139"/>
+<area shape="rect" id="node18" href="$namespaceseaice__velocity__solver.html#a94a8f75f44ae167cb63db7f9ec3c03e4" title=" " alt="" coords="1093,149,1263,204"/>
+<area shape="rect" id="node9" href="$namespaceocn__core.html#a222c57b5e554986e5c7a5ffd9d1acfb7" title="MPAS&#45;Ocean Initialize Driver." alt="" coords="1341,224,1516,249"/>
+<area shape="rect" id="node10" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="1105,229,1251,269"/>
+<area shape="rect" id="node12" href="$namespaceseaice__advection__incremental__remap.html#a6b65b374f750d3702375f90ab17d8bfe" title="MPAS&#45;Seaice incremental remapping initialization." alt="" coords="1319,80,1539,135"/>
+<area shape="rect" id="node13" href="$namespaceseaice__advection.html#a6129a0a75d958d78f46c421f84bb9bc7" title=" " alt="" coords="1085,85,1271,125"/>
+<area shape="rect" id="node14" href="$namespaceseaice__initialize.html#ad610a793a28e6a6f96660081d39da6b2" title=" " alt="" coords="901,139,1035,179"/>
+<area shape="rect" id="node15" href="$namespaceseaice__core.html#aa83451923b0ec949e155f4453ee98c87" title=" " alt="" coords="684,139,851,179"/>
+<area shape="rect" id="node16" href="$namespaceseaice__core__interface.html#a818e2db77b4d0ab926e1210a954e2ee9" title="Pacakge setup routine." alt="" coords="472,139,636,179"/>
+<area shape="rect" id="node17" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="260,139,424,179"/>
+<area shape="rect" id="node20" href="$namespaceocn__forward__mode.html#a3d844494119d300f797b13a519884088" title="Finalize MPAS&#45;Ocean Forward Mode." alt="" coords="1615,278,1794,318"/>
+<area shape="rect" id="node21" href="$namespaceocn__core.html#a5865b6e236ce7a2803449fe9b87aba9f" title="MPAS&#45;Ocean Finalize Driver." alt="" coords="1355,275,1502,315"/>
+</map>

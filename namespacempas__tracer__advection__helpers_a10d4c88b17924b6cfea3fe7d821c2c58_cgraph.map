@@ -1,0 +1,3 @@
+<map id="mpas_tracer_advection_helpers::mpas_tracer_advection_vflux4" name="mpas_tracer_advection_helpers::mpas_tracer_advection_vflux4">
+<area shape="rect" id="node1" title="MPAS 4th order vertical tracer advection stencil." alt="" coords="5,29,180,84"/>
+</map>

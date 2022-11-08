@@ -1,0 +1,5 @@
+<map id="mpas_block_decomp::mpas_get_blocks_per_proc" name="mpas_block_decomp::mpas_get_blocks_per_proc">
+<area shape="rect" id="node1" title="Determine number of blocks per processor." alt="" coords="5,37,204,77"/>
+<area shape="rect" id="node2" href="$namespacempas__block__decomp.html#aa35cfe9add2dd4e52787095c7e50ce0e" title="Determine the local ID of a block." alt="" coords="252,5,437,45"/>
+<area shape="rect" id="node3" href="$namespacempas__block__decomp.html#a9c500ef07fbbf72b6117e9c9f94961f5" title="Determine the owning processor ID for a specific block." alt="" coords="257,69,432,109"/>
+</map>

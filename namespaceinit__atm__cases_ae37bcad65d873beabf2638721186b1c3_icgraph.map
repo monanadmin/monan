@@ -1,0 +1,7 @@
+<map id="init_atm_cases::physics_idealized_init" name="init_atm_cases::physics_idealized_init">
+<area shape="rect" id="node1" title=" " alt="" coords="869,5,1047,45"/>
+<area shape="rect" id="node2" href="$namespaceinit__atm__cases.html#ac583db85e2a56097621b29c4b0ba2111" title=" " alt="" coords="672,5,821,45"/>
+<area shape="rect" id="node3" href="$namespaceinit__atm__core.html#a6bf6152fa2f635dc9e02dd38d3b08371" title=" " alt="" coords="484,5,624,45"/>
+<area shape="rect" id="node4" href="$namespaceinit__atm__core__interface.html#a6e3e2b14ef27bc9bb6b4f82cbd1b9f7f" title="Init atmosphere core setup routine." alt="" coords="260,5,436,45"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

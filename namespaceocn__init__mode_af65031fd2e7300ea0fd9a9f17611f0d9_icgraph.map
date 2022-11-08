@@ -1,0 +1,6 @@
+<map id="ocn_init_mode::ocn_init_mode_init" name="ocn_init_mode::ocn_init_mode_init">
+<area shape="rect" id="node1" title="Initialize MPAS&#45;Ocean core in init mode." alt="" coords="676,5,824,45"/>
+<area shape="rect" id="node2" href="$namespaceocn__core.html#a222c57b5e554986e5c7a5ffd9d1acfb7" title="MPAS&#45;Ocean Initialize Driver." alt="" coords="453,13,628,38"/>
+<area shape="rect" id="node3" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="260,5,405,45"/>
+<area shape="rect" id="node4" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ocn_tracer_short_wave_absorption_jerlov::ocn_tracer_short_wave_absorption_jerlov_tend" name="ocn_tracer_short_wave_absorption_jerlov::ocn_tracer_short_wave_absorption_jerlov_tend">
+<area shape="rect" id="node1" title="Computes tendency term for surface fluxes." alt="" coords="5,5,231,75"/>
+<area shape="rect" id="node2" href="$namespaceocn__tracer__short__wave__absorption__jerlov.html#a4ed321d078b0b6d72154a6ae7bcef11a" title="Initializes short wave absorption fractions." alt="" coords="279,13,452,67"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mpas_geometry_utils::mpas_point_in_polygon" name="mpas_geometry_utils::mpas_point_in_polygon">
+<area shape="rect" id="node1" title="Hit test to determine if a point is inside of a polygon." alt="" coords="5,29,189,69"/>
+<area shape="rect" id="node2" href="$namespacempas__vector__operations.html#a75e2d3598dc45c9c1ff1c2f5e28376ee" title="MPAS 3D cross product routine." alt="" coords="237,29,440,69"/>
+</map>

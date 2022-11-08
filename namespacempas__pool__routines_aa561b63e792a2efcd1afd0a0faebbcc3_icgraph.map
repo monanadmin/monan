@@ -1,0 +1,4 @@
+<map id="mpas_pool_routines::mpas_pool_remove_package" name="mpas_pool_routines::mpas_pool_remove_package">
+<area shape="rect" id="node1" title="MPAS Pool Package Removal Routine." alt="" coords="293,5,513,45"/>
+<area shape="rect" id="node2" href="$namespacempas__stream__manager.html#aac7f9f6b75349b11bbf007d378e64932" title="Detaches a package logical from the specified stream." alt="" coords="5,5,245,45"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="init_atm_cases::read_text_array" name="init_atm_cases::read_text_array">
+<area shape="rect" id="node1" title="Reads a real&#45;valued array from a text file and broadcasts to all tasks." alt="" coords="5,177,163,217"/>
+<area shape="rect" id="node2" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="213,92,369,132"/>
+<area shape="rect" id="node5" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="923,152,1083,192"/>
+<area shape="rect" id="node8" href="$namespacempas__io__units.html#a1620ba129edb759f6b1f34c82387872b" title="MPAS Release unit routine." alt="" coords="211,235,371,275"/>
+<area shape="rect" id="node3" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="419,125,613,150"/>
+<area shape="rect" id="node6" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="901,76,1105,116"/>
+<area shape="rect" id="node7" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="431,5,601,45"/>
+<area shape="rect" id="node4" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="661,120,853,160"/>
+</map>

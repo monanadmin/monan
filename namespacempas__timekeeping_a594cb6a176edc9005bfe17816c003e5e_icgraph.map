@@ -1,0 +1,8 @@
+<map id="mpas_timekeeping::mpas_set_clock_time" name="mpas_timekeeping::mpas_set_clock_time">
+<area shape="rect" id="node1" title=" " alt="" coords="1137,5,1328,45"/>
+<area shape="rect" id="node2" href="$namespaceocn__init__global__ocean.html#a303c2a81ebcbb482ec2ca0d5fddca68e" title="Setup for global ocean test case." alt="" coords="872,5,1089,45"/>
+<area shape="rect" id="node3" href="$namespaceocn__init__mode.html#ae7852991a2cf9207e93958ff1f237c67" title="MPAS&#45;Ocean init mode run step." alt="" coords="676,5,824,45"/>
+<area shape="rect" id="node4" href="$namespaceocn__core.html#a232280a77ef9ba42b6208040852f360e" title="MPAS&#45;Ocean Run Driver." alt="" coords="453,13,628,38"/>
+<area shape="rect" id="node5" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="260,5,405,45"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

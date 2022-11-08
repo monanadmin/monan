@@ -1,0 +1,13 @@
+<map id="mpas_atmphys_date_time::monthly_min_max" name="mpas_atmphys_date_time::monthly_min_max">
+<area shape="rect" id="node1" title=" " alt="" coords="1455,41,1649,81"/>
+<area shape="rect" id="node2" href="$namespacempas__atmphys__initialize__real.html#af01592176bcbc719400b2d680d95f4b9" title=" " alt="" coords="1200,5,1407,45"/>
+<area shape="rect" id="node7" href="$namespacempas__atmphys__update__surface.html#ab7cad255e70fe1e7cc07ae56c638bb86" title=" " alt="" coords="1210,70,1397,125"/>
+<area shape="rect" id="node3" href="$namespaceinit__atm__cases.html#ac583db85e2a56097621b29c4b0ba2111" title=" " alt="" coords="984,7,1133,47"/>
+<area shape="rect" id="node4" href="$namespaceinit__atm__core.html#a6bf6152fa2f635dc9e02dd38d3b08371" title=" " alt="" coords="745,7,885,47"/>
+<area shape="rect" id="node5" href="$namespaceinit__atm__core__interface.html#a6e3e2b14ef27bc9bb6b4f82cbd1b9f7f" title="Init atmosphere core setup routine." alt="" coords="260,7,436,47"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,39,212,79"/>
+<area shape="rect" id="node8" href="$namespacempas__atmphys__manager.html#a3a1d21ffcddfd9d705b8ed2d09f315f0" title=" " alt="" coords="965,73,1152,113"/>
+<area shape="rect" id="node9" href="$namespaceatm__core.html#a502acd946e3db6a5e8ce0a1f84ddc8aa" title=" " alt="" coords="712,79,917,105"/>
+<area shape="rect" id="node10" href="$namespaceatm__core.html#a7a2a9ad754bbe9947ddc39c1bd47a429" title=" " alt="" coords="484,78,664,103"/>
+<area shape="rect" id="node11" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="274,71,422,111"/>
+</map>

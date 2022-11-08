@@ -1,0 +1,22 @@
+<map id="ocn_tracer_short_wave_absorption::ocn_tracer_short_wave_absorption_tend" name="ocn_tracer_short_wave_absorption::ocn_tracer_short_wave_absorption_tend">
+<area shape="rect" id="node1" title="Computes tendency term for surface fluxes." alt="" coords="5,318,221,372"/>
+<area shape="rect" id="node2" href="$namespacempas__timer.html#ad9fdd184cf4b69c61c3b9ec6c365e731" title="MPAS Timer start routine." alt="" coords="289,98,475,138"/>
+<area shape="rect" id="node7" href="$namespacempas__timer.html#a4b62e1a0f4a967bd10da58a8f43dc615" title="MPAS Timer stop routine." alt="" coords="271,278,493,303"/>
+<area shape="rect" id="node16" href="$namespaceocn__tracer__short__wave__absorption__jerlov.html#a2fd0419a49b462d433b5d4869b40f660" title="Computes tendency term for surface fluxes." alt="" coords="269,418,495,488"/>
+<area shape="rect" id="node18" href="$namespaceocn__tracer__short__wave__absorption__variable.html#a3376dd5ed6b8b0f343c6d94d229cb002" title="Computes tendency term for surface fluxes." alt="" coords="285,565,479,634"/>
+<area shape="rect" id="node3" href="$namespacempas__dmpar.html#a33c44f0a83a9f64efc96946057a81fdf" title="MPAS dmpar get time routine." alt="" coords="548,98,748,138"/>
+<area shape="rect" id="node4" href="$namespacempas__threading.html#a09a2112c6bc6a42801778e5737100766" title="MPAS Threading barrier routine." alt="" coords="563,162,733,202"/>
+<area shape="rect" id="node5" href="$namespacempas__threading.html#a10c0d87d53999ca96f4875d85fb40d4e" title="MPAS Threading maximum number of threads function." alt="" coords="543,34,753,74"/>
+<area shape="rect" id="node6" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1297,328,1501,368"/>
+<area shape="rect" id="node8" href="$namespacempas__dmpar.html#aba8aaa5dde69dac102c2022807034d69" title="MPAS dmpar maximum real routine." alt="" coords="1049,328,1249,368"/>
+<area shape="rect" id="node9" href="$namespacempas__dmpar.html#a345684f0281cd9e0c71497078d0b5229" title="MPAS dmpar minimum real routine." alt="" coords="801,213,1001,253"/>
+<area shape="rect" id="node10" href="$namespacempas__dmpar.html#af79c18d51f0cfcdece45cbfad143488a" title="MPAS dmpar sum real routine." alt="" coords="1049,392,1249,432"/>
+<area shape="rect" id="node11" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="570,429,726,469"/>
+<area shape="rect" id="node12" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="804,547,999,572"/>
+<area shape="rect" id="node15" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="816,429,987,469"/>
+<area shape="rect" id="node13" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1053,544,1245,584"/>
+<area shape="rect" id="node14" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1319,544,1479,584"/>
+<area shape="rect" id="node17" href="$namespaceocn__tracer__short__wave__absorption__jerlov.html#a4ed321d078b0b6d72154a6ae7bcef11a" title="Initializes short wave absorption fractions." alt="" coords="561,494,735,548"/>
+<area shape="rect" id="node19" href="$namespaceocn__tracer__short__wave__absorption__variable.html#acaede40e1385085c59ec093907a6d28b" title="Computes coefficients for spatially varying penetrating shortwave via Ohlmann and Siegel 2000." alt="" coords="562,572,734,627"/>
+<area shape="rect" id="node20" href="$namespaceocn__tracer__short__wave__absorption__variable.html#ae853c09ac8032b398109a44cd8ac997f" title="Computes short wave absorption fractions." alt="" coords="562,652,734,721"/>
+</map>

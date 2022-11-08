@@ -1,0 +1,8 @@
+<map id="mpas_geometry_utils::mpas_triangle_signed_area" name="mpas_geometry_utils::mpas_triangle_signed_area">
+<area shape="rect" id="node1" title="Calculates area of a triangle, whether on a sphere or a plane." alt="" coords="5,137,215,177"/>
+<area shape="rect" id="node2" href="$namespacempas__geometry__utils.html#adf8bbd5135ceadb22d7a769084a70439" title="Calculates signed area of a triangle in a plane." alt="" coords="263,78,436,133"/>
+<area shape="rect" id="node5" href="$namespacempas__geometry__utils.html#aa4e8c76f75f4b92c51c344be5ff234a1" title="Calculates area of a triangle on a sphere." alt="" coords="263,181,436,235"/>
+<area shape="rect" id="node3" href="$namespacempas__vector__operations.html#a75e2d3598dc45c9c1ff1c2f5e28376ee" title="MPAS 3D cross product routine." alt="" coords="484,5,687,45"/>
+<area shape="rect" id="node4" href="$namespacempas__vector__operations.html#ad2436a9d85af400bf9a9622ba208b6cc" title="MPAS 3D vector magnitude routine." alt="" coords="494,93,677,133"/>
+<area shape="rect" id="node6" href="$namespacempas__geometry__utils.html#a1fe128cfa38b4eb94fc5b725f26d0b53" title=" " alt="" coords="504,188,667,228"/>
+</map>

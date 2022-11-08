@@ -1,0 +1,5 @@
+<map id="mpas_geometry_utils::mpas_triangle_signed_area_plane" name="mpas_geometry_utils::mpas_triangle_signed_area_plane">
+<area shape="rect" id="node1" title="Calculates signed area of a triangle in a plane." alt="" coords="5,42,179,97"/>
+<area shape="rect" id="node2" href="$namespacempas__vector__operations.html#a75e2d3598dc45c9c1ff1c2f5e28376ee" title="MPAS 3D cross product routine." alt="" coords="227,5,429,45"/>
+<area shape="rect" id="node3" href="$namespacempas__vector__operations.html#ad2436a9d85af400bf9a9622ba208b6cc" title="MPAS 3D vector magnitude routine." alt="" coords="237,93,419,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="convective_diagnostics::convective_diagnostics_update" name="convective_diagnostics::convective_diagnostics_update">
+<area shape="rect" id="node1" title="Updates the maximum pointwise values for convective diagnostics." alt="" coords="931,5,1113,60"/>
+<area shape="rect" id="node2" href="$namespacempas__atm__diagnostics__manager.html#ac6bf927481583ba4bb57d94f1ec026a7" title="Handle diagnostics accumulation at the end of each timestep." alt="" coords="684,5,883,60"/>
+<area shape="rect" id="node3" href="$namespaceatm__core.html#a7a2a9ad754bbe9947ddc39c1bd47a429" title=" " alt="" coords="456,20,636,45"/>
+<area shape="rect" id="node4" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,13,408,53"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,13,212,53"/>
+</map>

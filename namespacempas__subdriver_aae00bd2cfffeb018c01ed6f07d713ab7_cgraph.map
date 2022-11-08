@@ -1,0 +1,28 @@
+<map id="mpas_subdriver::mpas_finalize" name="mpas_subdriver::mpas_finalize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,106,176,146"/>
+<area shape="rect" id="node2" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1905,96,2097,136"/>
+<area shape="rect" id="node5" href="$namespacempas__framework.html#ae62fbba3ba41d2483591e835b322a18d" title="MPAS framework finalization routine." alt="" coords="224,360,404,400"/>
+<area shape="rect" id="node10" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="1459,268,1615,308"/>
+<area shape="rect" id="node18" href="$namespacempas__log.html#a1942a7287d19eccab7d8c967510ec992" title="Finalizes the log manager." alt="" coords="236,48,392,88"/>
+<area shape="rect" id="node19" href="$namespacempas__stream__manager.html#a78cb568ebbd39645253463d3bb27a324" title="Free all memory associated with an MPAS stream manager." alt="" coords="452,211,659,251"/>
+<area shape="rect" id="node3" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="2167,96,2327,136"/>
+<area shape="rect" id="node4" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="2145,370,2349,410"/>
+<area shape="rect" id="node6" href="$namespacempas__domain__routines.html#a28f1624c0f12f6f417c8eb2d8a737b0e" title="MPAS Domain deallocation routine." alt="" coords="457,518,654,558"/>
+<area shape="rect" id="node14" href="$namespacempas__dmpar.html#a703233b72ba93494b67dce2047268d21" title="MPAS dmpar finalization routine." alt="" coords="455,454,655,494"/>
+<area shape="rect" id="node15" href="$namespacempas__block__decomp.html#af7998af361a8fa8f073cbb3cf396ac12" title="Destroy list of blocks per processor." alt="" coords="453,275,658,315"/>
+<area shape="rect" id="node16" href="$namespacempas__io.html#a122c82aed5e41ddb48b4604ac50870a9" title=" " alt="" coords="458,340,653,365"/>
+<area shape="rect" id="node17" href="$namespacempas__timekeeping.html#ab4d0146331de804a7e0798f330adc28a" title=" " alt="" coords="460,390,651,430"/>
+<area shape="rect" id="node7" href="$namespacempas__domain__routines.html#afd5e29628a86e21f12cb1ab04cbe21c8" title="MPAS Block deallocation routine." alt="" coords="719,519,902,559"/>
+<area shape="rect" id="node8" href="$namespacempas__pool__routines.html#aa9cc0d33d5856ee6d01b6e5954a34f40" title="MPAS Pool deallocation routine." alt="" coords="963,478,1155,518"/>
+<area shape="rect" id="node13" href="$namespacempas__dmpar.html#aa89001492a2efeb6ac2165b5744553e2" title="MPAS dmpar exchange group destruction routine." alt="" coords="711,583,911,623"/>
+<area shape="rect" id="node9" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="1230,476,1383,516"/>
+<area shape="rect" id="node11" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1663,276,1857,301"/>
+<area shape="rect" id="node12" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1675,211,1845,251"/>
+<area shape="rect" id="node20" href="$namespacempas__stream__list.html#a02a8985443829fcbb74a93a22cdb2564" title="Free all memory associated with an MPAS stream list." alt="" coords="967,211,1150,251"/>
+<area shape="rect" id="node21" href="$namespacempas__stream__manager.html#a3be82909968a95168e74cbb6d257ae5f" title="Free all memory associated with a stream in an MPAS stream manager." alt="" coords="707,286,915,341"/>
+<area shape="rect" id="node22" href="$namespacempas__io__streams.html#ac5f7fecb65150ef58e4ac74782dcc1a8" title=" " alt="" coords="968,326,1149,366"/>
+<area shape="rect" id="node26" href="$namespacempas__stream__list.html#a92f654aedaab5e89b6a4ef29a038081b" title="Remove a stream from a stream list." alt="" coords="967,390,1150,430"/>
+<area shape="rect" id="node23" href="$namespacempas__attlist.html#af75766f7b16ee68cbfc77db85acd6604" title="MPAS attribute list deallocation routine." alt="" coords="1233,412,1380,452"/>
+<area shape="rect" id="node24" href="$namespacempas__io.html#a7c30165e0b6e678d5928b81cd1114a7b" title=" " alt="" coords="1216,313,1397,338"/>
+<area shape="rect" id="node25" href="$namespacempas__io.html#a968d7ba401dc7ddf2d01cde5036356b4" title=" " alt="" coords="1203,362,1411,388"/>
+</map>

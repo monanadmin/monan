@@ -1,0 +1,13 @@
+<map id="mpas_domain_routines::mpas_deallocate_domain" name="mpas_domain_routines::mpas_deallocate_domain">
+<area shape="rect" id="node1" title="MPAS Domain deallocation routine." alt="" coords="5,40,203,80"/>
+<area shape="rect" id="node2" href="$namespacempas__domain__routines.html#afd5e29628a86e21f12cb1ab04cbe21c8" title="MPAS Block deallocation routine." alt="" coords="259,40,442,80"/>
+<area shape="rect" id="node3" href="$namespacempas__pool__routines.html#aa9cc0d33d5856ee6d01b6e5954a34f40" title="MPAS Pool deallocation routine." alt="" coords="499,40,691,80"/>
+<area shape="rect" id="node11" href="$namespacempas__dmpar.html#aa89001492a2efeb6ac2165b5744553e2" title="MPAS dmpar exchange group destruction routine." alt="" coords="251,104,451,144"/>
+<area shape="rect" id="node4" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1627,97,1831,137"/>
+<area shape="rect" id="node5" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="739,43,892,83"/>
+<area shape="rect" id="node6" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="940,155,1096,195"/>
+<area shape="rect" id="node7" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1144,273,1339,298"/>
+<area shape="rect" id="node10" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1156,155,1327,195"/>
+<area shape="rect" id="node8" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1387,269,1579,309"/>
+<area shape="rect" id="node9" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1649,269,1809,309"/>
+</map>

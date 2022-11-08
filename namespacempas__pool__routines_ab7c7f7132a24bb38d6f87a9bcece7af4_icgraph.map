@@ -1,0 +1,4 @@
+<map id="mpas_pool_routines::mpas_pool_config_type" name="mpas_pool_routines::mpas_pool_config_type">
+<area shape="rect" id="node1" title="Returns the type of a config in an MPAS pool." alt="" coords="293,29,477,69"/>
+<area shape="rect" id="node2" href="$namespacempas__stream__manager.html#aac7f9f6b75349b11bbf007d378e64932" title="Detaches a package logical from the specified stream." alt="" coords="5,29,245,69"/>
+</map>

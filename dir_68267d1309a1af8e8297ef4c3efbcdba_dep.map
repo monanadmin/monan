@@ -1,0 +1,17 @@
+<map id="src" name="src">
+<area shape="rect" id="node2" href="dir_c53e21b94733dd8451b4d2db251c70bc.html" title="core_atmosphere" alt="" coords="1181,27,1315,52"/>
+<area shape="rect" id="node3" href="dir_d25df2eb0816dccf0ed26008c9d9d627.html" title="core_init_atmosphere" alt="" coords="993,27,1156,52"/>
+<area shape="rect" id="node4" href="dir_0a39cb0960dd4dc9ee777bb0c3e0df4c.html" title="core_landice" alt="" coords="865,27,969,52"/>
+<area shape="rect" id="node5" href="dir_7b971e7061ec538020aa61fdd81553cc.html" title="core_ocean" alt="" coords="745,27,841,52"/>
+<area shape="rect" id="node6" href="dir_9e121553edff521c2c40d4a2b4a8f465.html" title="core_seaice" alt="" coords="623,27,721,52"/>
+<area shape="rect" id="node7" href="dir_65e090236883c32d79e02be7659a9a93.html" title="core_sw" alt="" coords="524,27,599,52"/>
+<area shape="rect" id="node8" href="dir_764cb97578ba60d5da5569ac0f1daa1c.html" title="core_test" alt="" coords="417,27,500,52"/>
+<area shape="rect" id="node9" href="dir_4db3a2f7aa3a8b9901e70dfeb2571af9.html" title="driver" alt="" coords="333,27,393,52"/>
+<area shape="rect" id="node10" href="dir_805a0af995e93a362739e98abd740eb2.html" title="external" alt="" coords="125,100,201,125"/>
+<area shape="rect" id="node11" href="dir_5752cadd8276ecfd63d9b924f2a4d4b5.html" title="framework" alt="" coords="215,27,308,52"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000029_000027.html" title="1" alt="" coords="194,89,203,103"/>
+<area shape="rect" id="node12" href="dir_82efe83b87803b3f04ecf90d1f66df00.html" title="operators" alt="" coords="106,27,190,52"/>
+<area shape="rect" id="node13" href="dir_1563a38af0d3a5e4a6330d6d45e9792a.html" title="tools" alt="" coords="27,27,82,52"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000069_000027.html" title="8" alt="" coords="130,75,139,90"/>
+<area shape="rect" id="clust1" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html" alt="" coords="16,16,1392,136"/>
+</map>

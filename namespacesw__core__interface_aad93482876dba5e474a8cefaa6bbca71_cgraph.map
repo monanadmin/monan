@@ -1,0 +1,6 @@
+<map id="sw_core_interface::sw_setup_decompositions" name="sw_core_interface::sw_setup_decompositions">
+<area shape="rect" id="node1" title="Decomposition setup routine." alt="" coords="5,69,199,109"/>
+<area shape="rect" id="node2" href="$mpas__decomp_8F.html#a1d9f0c8de952906da5003157cc15dfbe" title="MPAS decomp list create routine." alt="" coords="251,5,417,45"/>
+<area shape="rect" id="node3" href="$mpas__decomp_8F.html#aa5f1a1019a48cb4b428483e1811d7cdc" title="MPAS decomp list register routine." alt="" coords="247,69,421,109"/>
+<area shape="rect" id="node4" href="$mpas__decomp_8F.html#a0d829762ba79be73d8dc1e27512b9d1f" title="MPAS uniform decomposition function." alt="" coords="247,134,421,159"/>
+</map>

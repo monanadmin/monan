@@ -1,0 +1,24 @@
+<map id="mpas_pool_routines::mpas_pool_add_subpool" name="mpas_pool_routines::mpas_pool_add_subpool">
+<area shape="rect" id="node1" title="MPAS Pool Subpool insertion routine." alt="" coords="1471,165,1661,205"/>
+<area shape="rect" id="node2" href="$mpas__ocn__pointwise__stats_8F.html#afa610fb2e3114c330039d6a6369c3054" title="MPAS ocean analysis mode member: pointwise_stats." alt="" coords="1228,5,1400,45"/>
+<area shape="rect" id="node3" href="$mpas__seaice__pointwise__stats_8F.html#ab9bbac24db4d3e6ba9010c21a2cafd8f" title="MPAS&#45;seaice analysis mode member: pointwise_stats." alt="" coords="1219,69,1409,109"/>
+<area shape="rect" id="node4" href="$namespaceseaice__regional__statistics.html#a36e16e2f6d11453a7982c61977707b0e" title="Determine of the region mask is all zeros." alt="" coords="1219,133,1409,173"/>
+<area shape="rect" id="node10" href="$namespacempas__forcing.html#a6aba188b1940c2b14434a21ed0cc754d" title="return the current forcing time" alt="" coords="1219,197,1409,237"/>
+<area shape="rect" id="node13" href="$namespaceocn__time__integration__rk4.html#a634f013283b87348d69217a48d41ecf9" title="MPAS ocean RK4 Time integration scheme." alt="" coords="1205,261,1423,301"/>
+<area shape="rect" id="node18" href="$namespacesw__time__integration.html#a600a92defd15af119435b7c6f732ed05" title=" " alt="" coords="1237,325,1391,365"/>
+<area shape="rect" id="node5" href="$namespaceseaice__regional__statistics.html#a98bc7b1254a72f5b035c75c285e9fb90" title="Initialize MPAS&#45;Seaice analysis member." alt="" coords="931,133,1157,173"/>
+<area shape="rect" id="node6" href="$namespaceseaice__analysis__driver.html#a662b6a8d2c1a354304582ba3a9441db2" title="Finalize MPAS&#45;Ocean analysis driver." alt="" coords="695,133,883,173"/>
+<area shape="rect" id="node7" href="$namespaceseaice__core.html#a23c5af2d2d75558b40ff00898b7f683a" title=" " alt="" coords="485,133,634,173"/>
+<area shape="rect" id="node8" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="260,197,424,237"/>
+<area shape="rect" id="node9" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,261,212,301"/>
+<area shape="rect" id="node11" href="$namespaceseaice__forcing.html#a34a94b81a2bd80e562bb11886333beb5" title="Retrieve forcing data during time stepping." alt="" coords="961,197,1127,237"/>
+<area shape="rect" id="node12" href="$namespaceseaice__core.html#ab47cec2148db1e3e102c7bee5eccbce4" title=" " alt="" coords="485,197,634,237"/>
+<area shape="rect" id="node14" href="$namespaceocn__time__integration.html#a7dc019bbe8de0452ea7b59c962873b27" title="MPAS ocean time integration driver." alt="" coords="964,261,1124,301"/>
+<area shape="rect" id="node15" href="$namespaceocn__forward__mode.html#af6c9ef48c94cc91319bccfa95ce3170b" title="Main driver for MPAS&#45;Ocean time&#45;stepping." alt="" coords="700,261,877,301"/>
+<area shape="rect" id="node16" href="$namespaceocn__core.html#a232280a77ef9ba42b6208040852f360e" title="MPAS&#45;Ocean Run Driver." alt="" coords="472,269,647,294"/>
+<area shape="rect" id="node17" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="269,261,415,301"/>
+<area shape="rect" id="node19" href="$namespacesw__time__integration.html#aff87840f157bced0aa858c637bba857e" title=" " alt="" coords="967,325,1121,365"/>
+<area shape="rect" id="node20" href="$namespacesw__core.html#a1e30f3b737759cd48692aa6381eff4a5" title=" " alt="" coords="697,333,881,358"/>
+<area shape="rect" id="node21" href="$namespacesw__core.html#a4bc33d556db2f0f892101eda2c3834a5" title=" " alt="" coords="477,333,641,358"/>
+<area shape="rect" id="node22" href="$namespacesw__core__interface.html#ae580e0525022db6a50736ac32c4d5ea3" title="Shallow water core setup routine." alt="" coords="268,325,416,365"/>
+</map>

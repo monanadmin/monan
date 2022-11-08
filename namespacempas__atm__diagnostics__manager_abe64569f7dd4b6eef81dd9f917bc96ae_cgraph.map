@@ -1,0 +1,42 @@
+<map id="mpas_atm_diagnostics_manager::mpas_atm_diag_setup" name="mpas_atm_diagnostics_manager::mpas_atm_diag_setup">
+<area shape="rect" id="node1" title="Initialize the diagnostics manager and all diagnostics." alt="" coords="5,832,248,872"/>
+<area shape="rect" id="node2" href="$namespaceconvective__diagnostics.html#a1b092e867827cfd3c1b2e006c6cbb80c" title="Set&#45;up the convective diagnostics module." alt="" coords="296,672,521,712"/>
+<area shape="rect" id="node28" href="$namespacediagnostic__template.html#aab87db9e0adf0ae3ff5324da61fbea4e" title="Initialize the diagnostic." alt="" coords="305,736,512,776"/>
+<area shape="rect" id="node29" href="$namespaceisobaric__diagnostics.html#af23ef68b64e0ca306ce09a095e9580a5" title="Set up the isobaric diagnostics module." alt="" coords="306,800,511,840"/>
+<area shape="rect" id="node30" href="$namespacempas__atm__diagnostics__utils.html#aafb32bafde082a2d325d27c397715cfe" title="Prepares diagnostics utilities for use by diagnostics modules." alt="" coords="323,1025,495,1079"/>
+<area shape="rect" id="node31" href="$namespacepv__diagnostics.html#a084a708c7f95d96bad0f009eb3d74ca6" title="Initialize the diagnostic." alt="" coords="335,864,482,904"/>
+<area shape="rect" id="node32" href="$namespacesoundings.html#a394b69030e4a172747342d7676c9558a" title="Reads sounding locations and sets sounding alarm." alt="" coords="327,960,490,1000"/>
+<area shape="rect" id="node3" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="571,736,758,776"/>
+<area shape="rect" id="node14" href="$namespacempas__atm__diagnostics__utils.html#ae37ccacfd635ab735e553468aa42ea73" title="Returns the number of streams containing the specified field." alt="" coords="1056,560,1319,600"/>
+<area shape="rect" id="node4" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="1111,252,1264,292"/>
+<area shape="rect" id="node7" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="831,733,985,773"/>
+<area shape="rect" id="node5" href="$namespacempas__pool__routines.html#ae16592c11b643bee126eef0d41049cd0" title=" " alt="" coords="1392,5,1545,45"/>
+<area shape="rect" id="node6" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="1897,47,2053,87"/>
+<area shape="rect" id="node8" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="1109,891,1265,931"/>
+<area shape="rect" id="node12" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1873,753,2077,793"/>
+<area shape="rect" id="node9" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1371,1006,1566,1031"/>
+<area shape="rect" id="node13" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1383,941,1554,981"/>
+<area shape="rect" id="node10" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1626,1107,1818,1147"/>
+<area shape="rect" id="node11" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1895,1192,2055,1232"/>
+<area shape="rect" id="node15" href="$namespacempas__stream__manager.html#a6307ff02d90b841fdb99918f51b29b32" title="Reset iterator within stream manager." alt="" coords="1371,646,1566,701"/>
+<area shape="rect" id="node19" href="$namespacempas__stream__manager.html#a6b78c439f4012ba5f43c61a5dd29e804" title="Retrieve the name of the next field in a stream." alt="" coords="1379,353,1559,407"/>
+<area shape="rect" id="node23" href="$namespacempas__stream__manager.html#a79be9732e717924954fa35ef154aab09" title="Retrieve information about next stream." alt="" coords="1379,553,1559,607"/>
+<area shape="rect" id="node26" href="$namespacempas__stream__manager.html#ad460c2ba5d3356463ac66a93c06a6761" title="Test whether any I/O alarms in a stream manager are ringing." alt="" coords="1367,143,1571,198"/>
+<area shape="rect" id="node16" href="$namespacempas__pool__routines.html#a3523a20ac4e1140ccf78363179759f12" title="MPAS Pool Begin Iteration Routine." alt="" coords="1619,725,1825,765"/>
+<area shape="rect" id="node17" href="$namespacempas__stream__list.html#ade1de0f55cc94aa313fb4cd0a4755749" title="Get streams from a stream list." alt="" coords="1631,176,1813,216"/>
+<area shape="rect" id="node18" href="$namespacempas__c__interfacing.html#a9ceab63b852cb9c4d8b4a29d7d7f4079" title="Converts a C null&#45;terminated string to a Fortran string." alt="" coords="1897,176,2053,216"/>
+<area shape="rect" id="node20" href="$namespacempas__pool__routines.html#a1a288dc7b5b795757b78bde482c219fb" title="MPAS Pool Error level get function." alt="" coords="1619,264,1825,304"/>
+<area shape="rect" id="node21" href="$namespacempas__pool__routines.html#ab6924e8731a9fbfb620e9a332f55c624" title="MPAS Pool Iterate To Next Member subroutine." alt="" coords="1639,353,1805,407"/>
+<area shape="rect" id="node22" href="$namespacempas__pool__routines.html#a55b9bcb00fef12529561c9e80914628f" title="MPAS Pool Error level set routine." alt="" coords="1619,432,1825,472"/>
+<area shape="rect" id="node24" href="$namespacempas__timekeeping.html#a76064be40df3c8e9887996c6763fb419" title=" " alt="" coords="1627,560,1817,600"/>
+<area shape="rect" id="node25" href="$namespacempas__timekeeping.html#aa12932350721b123e41498fa4cde3723" title=" " alt="" coords="1627,496,1817,536"/>
+<area shape="rect" id="node27" href="$namespacempas__timekeeping.html#ab899b7d38b0f90466f4a7523274728be" title=" " alt="" coords="1627,61,1817,101"/>
+<area shape="rect" id="node33" href="$namespacempas__timekeeping.html#ac37646f197c9b8974dc5e317d6073917" title=" " alt="" coords="569,904,760,944"/>
+<area shape="rect" id="node34" href="$namespacempas__dmpar.html#afe5577ef60934a9abc05f2d9fe7c07d0" title="MPAS dmpar broadcast character routine." alt="" coords="808,1049,1008,1089"/>
+<area shape="rect" id="node35" href="$namespacempas__dmpar.html#a4d53a9e19addc34c5fbd006b3535c670" title="MPAS dmpar broadcast integer routine." alt="" coords="1087,1207,1287,1247"/>
+<area shape="rect" id="node36" href="$namespacempas__dmpar.html#a38cd7834da4e8cf8d42b41ce0ade6e67" title="MPAS dmpar broadcast logical routine." alt="" coords="808,797,1008,837"/>
+<area shape="rect" id="node37" href="$namespacempas__timekeeping.html#a8d5d19985f6b27f205d5c3ef823eb629" title=" " alt="" coords="569,992,760,1032"/>
+<area shape="rect" id="node38" href="$namespacempas__io__units.html#a1620ba129edb759f6b1f34c82387872b" title="MPAS Release unit routine." alt="" coords="585,1107,745,1147"/>
+<area shape="rect" id="node39" href="$namespacempas__timekeeping.html#a69acc0b38ab3bd27dee976bed346b06d" title=" " alt="" coords="569,1171,760,1211"/>
+<area shape="rect" id="node40" href="$namespacempas__timekeeping.html#a9e22707655fafd3209ba81e2ae069609" title=" " alt="" coords="813,1171,1003,1211"/>
+</map>

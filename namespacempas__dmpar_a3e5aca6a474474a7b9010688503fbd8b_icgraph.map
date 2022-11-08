@@ -1,0 +1,12 @@
+<map id="mpas_dmpar::mpas_dmpar_bcast_real" name="mpas_dmpar::mpas_dmpar_bcast_real">
+<area shape="rect" id="node1" title="MPAS dmpar broadcast real routine." alt="" coords="1108,37,1308,77"/>
+<area shape="rect" id="node2" href="$namespaceinit__atm__cases.html#aa8f6dc8171173fbeb54abf5f39e46416" title=" " alt="" coords="887,5,1057,45"/>
+<area shape="rect" id="node7" href="$namespaceli__statistics.html#a8a7cf1dc9f232a341b0e28dd53161927" title="Computes global and local statistics." alt="" coords="884,69,1060,109"/>
+<area shape="rect" id="node3" href="$namespaceinit__atm__cases.html#ac583db85e2a56097621b29c4b0ba2111" title=" " alt="" coords="681,5,831,45"/>
+<area shape="rect" id="node4" href="$namespaceinit__atm__core.html#a6bf6152fa2f635dc9e02dd38d3b08371" title=" " alt="" coords="486,5,626,45"/>
+<area shape="rect" id="node5" href="$namespaceinit__atm__core__interface.html#a6e3e2b14ef27bc9bb6b4f82cbd1b9f7f" title="Init atmosphere core setup routine." alt="" coords="260,5,436,45"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,37,212,77"/>
+<area shape="rect" id="node8" href="$namespaceli__core.html#aeeec4424e39396b4f39a0d8b97053255" title="Performs the initial diagnostic solve for the LI core." alt="" coords="676,69,836,109"/>
+<area shape="rect" id="node9" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="484,77,628,102"/>
+<area shape="rect" id="node10" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="279,69,417,109"/>
+</map>

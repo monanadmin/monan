@@ -1,0 +1,8 @@
+<map id="mpas_dmpar::mpas_dmpar_minloc_real" name="mpas_dmpar::mpas_dmpar_minloc_real">
+<area shape="rect" id="node1" title="MPAS dmpar minloc real routine." alt="" coords="1071,35,1271,75"/>
+<area shape="rect" id="node2" href="$namespaceli__statistics.html#a8a7cf1dc9f232a341b0e28dd53161927" title="Computes global and local statistics." alt="" coords="847,35,1023,75"/>
+<area shape="rect" id="node3" href="$namespaceli__core.html#aeeec4424e39396b4f39a0d8b97053255" title="Performs the initial diagnostic solve for the LI core." alt="" coords="639,5,799,45"/>
+<area shape="rect" id="node4" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="447,42,591,67"/>
+<area shape="rect" id="node5" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="260,35,399,75"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,35,212,75"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="mpas_decomp_register_method" name="mpas_decomp_register_method">
+<area shape="rect" id="node1" title="MPAS decomp list register routine." alt="" coords="769,197,944,237"/>
+<area shape="rect" id="node2" href="$namespaceatm__core__interface.html#ab129d9e9c4ae8fdeae39d1630fc4286f" title="Decomposition setup function." alt="" coords="498,5,707,45"/>
+<area shape="rect" id="node5" href="$namespaceinit__atm__core__interface.html#a19cd59185942dd39a02a9ba5c40ce34d" title="Decomposition setup function." alt="" coords="484,69,721,109"/>
+<area shape="rect" id="node7" href="$namespaceli__core__interface.html#ac64d10a74932fb85d44deb36ecd91d85" title="Decomposition setup function." alt="" coords="511,133,694,173"/>
+<area shape="rect" id="node9" href="$namespaceocn__core__interface.html#af2bd90270cdcee7c8e22b70e9a0e2e9c" title="Decomposition setup routine." alt="" coords="499,197,706,237"/>
+<area shape="rect" id="node11" href="$namespaceseaice__core__interface.html#acee684e5b3b3771ae4112e26510ee46f" title="Decomposition setup routine." alt="" coords="490,261,715,301"/>
+<area shape="rect" id="node13" href="$namespacesw__core__interface.html#aad93482876dba5e474a8cefaa6bbca71" title="Decomposition setup routine." alt="" coords="506,325,699,365"/>
+<area shape="rect" id="node15" href="$namespacetest__core__interface.html#ae3ba09f359d3ee8a9b82f56f3367fd07" title="Decomposition setup routine." alt="" coords="499,389,707,429"/>
+<area shape="rect" id="node3" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="274,5,422,45"/>
+<area shape="rect" id="node4" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,197,212,237"/>
+<area shape="rect" id="node6" href="$namespaceinit__atm__core__interface.html#a6e3e2b14ef27bc9bb6b4f82cbd1b9f7f" title="Init atmosphere core setup routine." alt="" coords="260,69,436,109"/>
+<area shape="rect" id="node8" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="279,133,417,173"/>
+<area shape="rect" id="node10" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="275,197,421,237"/>
+<area shape="rect" id="node12" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="266,261,430,301"/>
+<area shape="rect" id="node14" href="$namespacesw__core__interface.html#ae580e0525022db6a50736ac32c4d5ea3" title="Shallow water core setup routine." alt="" coords="274,325,422,365"/>
+<area shape="rect" id="node16" href="$namespacetest__core__interface.html#a12096f17bb769e30742bcf075f3663cb" title="Test core setup routine." alt="" coords="275,389,421,429"/>
+</map>

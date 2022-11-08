@@ -1,0 +1,5 @@
+<map id="sw_global_diagnostics::compute_global_vert_sum_horiz_min" name="sw_global_diagnostics::compute_global_vert_sum_horiz_min">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,173,60"/>
+<area shape="rect" id="node2" href="$namespacempas__dmpar.html#a345684f0281cd9e0c71497078d0b5229" title="MPAS dmpar minimum real routine." alt="" coords="221,13,421,53"/>
+<area shape="rect" id="node3" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="469,13,673,53"/>
+</map>

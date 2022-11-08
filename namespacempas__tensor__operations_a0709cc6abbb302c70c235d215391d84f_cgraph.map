@@ -1,0 +1,5 @@
+<map id="mpas_tensor_operations::mpas_tensor_edge_2d_to_r3" name="mpas_tensor_operations::mpas_tensor_edge_2d_to_r3">
+<area shape="rect" id="node1" title="Convert a 2D tensor to a tensor in R3, at an edge." alt="" coords="5,37,221,77"/>
+<area shape="rect" id="node2" href="$namespacempas__vector__operations.html#a75e2d3598dc45c9c1ff1c2f5e28376ee" title="MPAS 3D cross product routine." alt="" coords="291,5,494,45"/>
+<area shape="rect" id="node3" href="$namespacempas__matrix__operations.html#ad0178fe85a1a2d665c2488b2f390c3e0" title="Convert a 3x3 format matrix to a symetric 6&#45;index matrix." alt="" coords="269,69,516,109"/>
+</map>

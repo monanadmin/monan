@@ -1,0 +1,7 @@
+<map id="convective_diagnostics::convective_diagnostics_reset" name="convective_diagnostics::convective_diagnostics_reset">
+<area shape="rect" id="node1" title="Reset maximum values for convective diagnostics." alt="" coords="971,5,1193,45"/>
+<area shape="rect" id="node2" href="$namespacempas__atm__diagnostics__manager.html#a0c8cdbe21c3851902873d16f0924e37a" title="Resets a diagnostic after it has been computed and written." alt="" coords="684,5,923,45"/>
+<area shape="rect" id="node3" href="$namespaceatm__core.html#a7a2a9ad754bbe9947ddc39c1bd47a429" title=" " alt="" coords="456,13,636,38"/>
+<area shape="rect" id="node4" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,5,408,45"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mpas_atm_diagnostics_manager::mpas_atm_diag_setup" name="mpas_atm_diagnostics_manager::mpas_atm_diag_setup">
+<area shape="rect" id="node1" title="Initialize the diagnostics manager and all diagnostics." alt="" coords="684,5,927,45"/>
+<area shape="rect" id="node2" href="$namespaceatm__core.html#a0659d498c0831e5af045c2b189fcd21d" title=" " alt="" coords="456,13,636,38"/>
+<area shape="rect" id="node3" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,5,408,45"/>
+<area shape="rect" id="node4" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

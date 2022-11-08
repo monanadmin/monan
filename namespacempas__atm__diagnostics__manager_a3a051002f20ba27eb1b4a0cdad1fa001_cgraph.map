@@ -1,0 +1,7 @@
+<map id="mpas_atm_diagnostics_manager::mpas_atm_diag_cleanup" name="mpas_atm_diagnostics_manager::mpas_atm_diag_cleanup">
+<area shape="rect" id="node1" title="Finalizes diagnostics manager and all diagnostics." alt="" coords="5,84,204,139"/>
+<area shape="rect" id="node2" href="$namespacediagnostic__template.html#a9a3ec4d5cd5543b7c2668b27880959f3" title="Finalizes diagnostic." alt="" coords="257,5,419,60"/>
+<area shape="rect" id="node3" href="$namespacempas__atm__diagnostics__utils.html#afbbbd36e18fc90c6c878c1b513511c10" title="Performs cleanup after diagnostics utilities will no longer be used." alt="" coords="252,84,424,139"/>
+<area shape="rect" id="node4" href="$namespacesoundings.html#a3ec744ce95464b65c8fa7e1a2ae384ce" title="Deallocates memory used to handle soundings." alt="" coords="257,163,419,203"/>
+<area shape="rect" id="node5" href="$params_8m.html#a042889eb4a4c0a313ba885e8f173380d" title=" " alt="" coords="472,171,511,196"/>
+</map>

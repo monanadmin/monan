@@ -1,0 +1,5 @@
+<map id="mpas_timekeeping::mpas_minimum_alarm_interval" name="mpas_timekeeping::mpas_minimum_alarm_interval">
+<area shape="rect" id="node1" title="This function returns the shortest alarm interval in an alarm list." alt="" coords="5,5,200,45"/>
+<area shape="rect" id="node2" href="$namespacempas__timekeeping.html#a69acc0b38ab3bd27dee976bed346b06d" title=" " alt="" coords="248,5,439,45"/>
+<area shape="rect" id="node3" href="$namespacempas__timekeeping.html#a9e22707655fafd3209ba81e2ae069609" title=" " alt="" coords="487,5,677,45"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="test_core_sorting::test_core_test_sorting" name="test_core_sorting::test_core_test_sorting">
+<area shape="rect" id="node1" title="Tests performance of sorting routines in framework." alt="" coords="5,310,172,350"/>
+<area shape="rect" id="node2" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="517,113,673,153"/>
+<area shape="rect" id="node8" href="$namespacempas__timer.html#ad9fdd184cf4b69c61c3b9ec6c365e731" title="MPAS Timer start routine." alt="" coords="237,457,424,497"/>
+<area shape="rect" id="node12" href="$namespacempas__timer.html#a4b62e1a0f4a967bd10da58a8f43dc615" title="MPAS Timer stop routine." alt="" coords="220,317,441,343"/>
+<area shape="rect" id="node3" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="751,5,945,31"/>
+<area shape="rect" id="node6" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1244,227,1448,267"/>
+<area shape="rect" id="node7" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="763,55,933,95"/>
+<area shape="rect" id="node4" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="1000,27,1192,67"/>
+<area shape="rect" id="node5" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1266,27,1426,67"/>
+<area shape="rect" id="node9" href="$namespacempas__dmpar.html#a33c44f0a83a9f64efc96946057a81fdf" title="MPAS dmpar get time routine." alt="" coords="495,393,695,433"/>
+<area shape="rect" id="node10" href="$namespacempas__threading.html#a09a2112c6bc6a42801778e5737100766" title="MPAS Threading barrier routine." alt="" coords="509,457,680,497"/>
+<area shape="rect" id="node11" href="$namespacempas__threading.html#a10c0d87d53999ca96f4875d85fb40d4e" title="MPAS Threading maximum number of threads function." alt="" coords="489,521,700,561"/>
+<area shape="rect" id="node13" href="$namespacempas__dmpar.html#aba8aaa5dde69dac102c2022807034d69" title="MPAS dmpar maximum real routine." alt="" coords="996,170,1196,210"/>
+<area shape="rect" id="node14" href="$namespacempas__dmpar.html#a345684f0281cd9e0c71497078d0b5229" title="MPAS dmpar minimum real routine." alt="" coords="748,227,948,267"/>
+<area shape="rect" id="node15" href="$namespacempas__dmpar.html#af79c18d51f0cfcdece45cbfad143488a" title="MPAS dmpar sum real routine." alt="" coords="996,285,1196,325"/>
+</map>

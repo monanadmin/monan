@@ -1,0 +1,3 @@
+<map id="mpas_timekeeping::mpas_alarm_get_next_ring_time" name="mpas_timekeeping::mpas_alarm_get_next_ring_time">
+<area shape="rect" id="node1" title="This function returns the next ring time of an alarm." alt="" coords="5,29,205,69"/>
+</map>

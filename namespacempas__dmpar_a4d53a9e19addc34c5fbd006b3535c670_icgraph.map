@@ -1,0 +1,15 @@
+<map id="mpas_dmpar::mpas_dmpar_bcast_int" name="mpas_dmpar::mpas_dmpar_bcast_int">
+<area shape="rect" id="node1" title="MPAS dmpar broadcast integer routine." alt="" coords="1215,133,1415,173"/>
+<area shape="rect" id="node2" href="$mpas__atmphys__camrad__init_8F.html#ae7ce3d0512652983400ddbaff53dcc26" title=" " alt="" coords="975,5,1167,45"/>
+<area shape="rect" id="node3" href="$mpas__atmphys__rrtmg__lwinit_8F.html#a069914443712227b9698354b0039ee9c" title=" " alt="" coords="981,69,1160,109"/>
+<area shape="rect" id="node4" href="$mpas__atmphys__rrtmg__swinit_8F.html#a5875a19013a0eb8322eba74f173a40a1" title=" " alt="" coords="981,133,1160,173"/>
+<area shape="rect" id="node5" href="$namespaceli__statistics.html#a8a7cf1dc9f232a341b0e28dd53161927" title="Computes global and local statistics." alt="" coords="983,197,1159,237"/>
+<area shape="rect" id="node10" href="$namespacesoundings.html#a394b69030e4a172747342d7676c9558a" title="Reads sounding locations and sets sounding alarm." alt="" coords="989,261,1152,301"/>
+<area shape="rect" id="node6" href="$namespaceli__core.html#aeeec4424e39396b4f39a0d8b97053255" title="Performs the initial diagnostic solve for the LI core." alt="" coords="725,144,885,184"/>
+<area shape="rect" id="node7" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="474,205,618,230"/>
+<area shape="rect" id="node8" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="265,197,403,237"/>
+<area shape="rect" id="node9" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,229,212,269"/>
+<area shape="rect" id="node11" href="$namespacempas__atm__diagnostics__manager.html#abe64569f7dd4b6eef81dd9f917bc96ae" title="Initialize the diagnostics manager and all diagnostics." alt="" coords="684,261,927,301"/>
+<area shape="rect" id="node12" href="$namespaceatm__core.html#a0659d498c0831e5af045c2b189fcd21d" title=" " alt="" coords="456,269,636,294"/>
+<area shape="rect" id="node13" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,261,408,301"/>
+</map>

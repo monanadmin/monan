@@ -1,0 +1,5 @@
+<map id="sw_core_interface::sw_get_mesh_stream" name="sw_core_interface::sw_get_mesh_stream">
+<area shape="rect" id="node1" title="Returns the name of the stream containing mesh information." alt="" coords="456,5,620,45"/>
+<area shape="rect" id="node2" href="$namespacesw__core__interface.html#ae580e0525022db6a50736ac32c4d5ea3" title="Shallow water core setup routine." alt="" coords="260,5,408,45"/>
+<area shape="rect" id="node3" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

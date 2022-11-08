@@ -1,0 +1,52 @@
+<map id="atm_core::atm_core_run" name="atm_core::atm_core_run">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1103,185,1129"/>
+<area shape="rect" id="node2" href="$namespaceatm__core.html#ae409c5c10dde3b84df74a5556406f045" title=" " alt="" coords="262,5,443,45"/>
+<area shape="rect" id="node3" href="$namespaceatm__core.html#a502acd946e3db6a5e8ce0a1f84ddc8aa" title=" " alt="" coords="250,486,455,511"/>
+<area shape="rect" id="node5" href="$namespacempas__timekeeping.html#a76064be40df3c8e9887996c6763fb419" title=" " alt="" coords="1316,1344,1507,1384"/>
+<area shape="rect" id="node6" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="808,387,995,427"/>
+<area shape="rect" id="node9" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="1333,149,1489,189"/>
+<area shape="rect" id="node13" href="$namespacempas__timekeeping.html#a8d5d19985f6b27f205d5c3ef823eb629" title=" " alt="" coords="806,837,997,877"/>
+<area shape="rect" id="node16" href="$namespacempas__timer.html#ad9fdd184cf4b69c61c3b9ec6c365e731" title="MPAS Timer start routine." alt="" coords="808,269,995,309"/>
+<area shape="rect" id="node17" href="$namespacempas__dmpar.html#a33c44f0a83a9f64efc96946057a81fdf" title="MPAS dmpar get time routine." alt="" coords="1060,264,1260,304"/>
+<area shape="rect" id="node18" href="$namespacempas__timer.html#a4b62e1a0f4a967bd10da58a8f43dc615" title="MPAS Timer stop routine." alt="" coords="791,142,1012,167"/>
+<area shape="rect" id="node20" href="$namespaceatm__core.html#a787918148f0862a701656c16d12b9723" title=" " alt="" coords="274,968,431,1008"/>
+<area shape="rect" id="node21" href="$namespacempas__timekeeping.html#aca23a10366ae62f7cc17006052a9920a" title=" " alt="" coords="257,1032,448,1072"/>
+<area shape="rect" id="node22" href="$namespacempas__atm__diagnostics__manager.html#aabf5b4764b90899b7be01deab9a2a68b" title="Compute diagnostics before they are written to output streams." alt="" coords="253,850,452,905"/>
+<area shape="rect" id="node28" href="$namespacempas__atm__diagnostics__manager.html#a0c8cdbe21c3851902873d16f0924e37a" title="Resets a diagnostic after it has been computed and written." alt="" coords="233,1096,472,1136"/>
+<area shape="rect" id="node31" href="$namespacempas__atm__diagnostics__manager.html#ac6bf927481583ba4bb57d94f1ec026a7" title="Handle diagnostics accumulation at the end of each timestep." alt="" coords="253,1161,452,1215"/>
+<area shape="rect" id="node34" href="$namespacempas__atm__boundaries.html#a5161dda28826f5dee7cea926c53e3253" title="Reads new boundary data and updates the LBC tendencies." alt="" coords="243,1472,462,1512"/>
+<area shape="rect" id="node35" href="$namespacempas__pool__routines.html#a3c23dc6c7ca0ef0f3f0b6ce2006508ed" title="MPAS Pool Time level shift routine." alt="" coords="544,1342,719,1397"/>
+<area shape="rect" id="node37" href="$namespacempas__stream__manager.html#a25b8eae2a0cd84e0f1ba696576c816db" title="Read streams that are managed by an MPAS stream manager." alt="" coords="537,1725,725,1765"/>
+<area shape="rect" id="node44" href="$namespacempas__timekeeping.html#a4bc20d2a3231fb11fafca5d37f69514d" title=" " alt="" coords="257,1699,448,1739"/>
+<area shape="rect" id="node45" href="$namespacempas__stream__manager.html#a6307ff02d90b841fdb99918f51b29b32" title="Reset iterator within stream manager." alt="" coords="534,2178,729,2233"/>
+<area shape="rect" id="node47" href="$namespacempas__stream__manager.html#a79be9732e717924954fa35ef154aab09" title="Retrieve information about next stream." alt="" coords="811,1337,991,1391"/>
+<area shape="rect" id="node48" href="$namespacempas__stream__manager.html#a330e8e3107a935cb025d1f4bd4462aa3" title="Reset I/O alarms in a stream manager." alt="" coords="535,1805,727,1859"/>
+<area shape="rect" id="node49" href="$namespacempas__stream__manager.html#ad460c2ba5d3356463ac66a93c06a6761" title="Test whether any I/O alarms in a stream manager are ringing." alt="" coords="529,2281,733,2335"/>
+<area shape="rect" id="node50" href="$namespacempas__stream__manager.html#a22035ee7b50d380d1eb9d3ca6c54d367" title="Write streams that are managed by an MPAS stream manager." alt="" coords="535,1884,727,1924"/>
+<area shape="rect" id="node4" href="$namespaceatm__time__integration.html#a5a13ea8e34f60f36cd4ca9c362e125d6" title=" " alt="" coords="550,387,713,427"/>
+<area shape="rect" id="node14" href="$namespacempas__timekeeping.html#aa12932350721b123e41498fa4cde3723" title=" " alt="" coords="1065,1285,1255,1325"/>
+<area shape="rect" id="node15" href="$namespacempas__atmphys__driver.html#aacf87c221b5e5cf12ba4d7ad05f229cc" title=" " alt="" coords="548,272,715,312"/>
+<area shape="rect" id="node19" href="$namespacempas__atmphys__manager.html#a3a1d21ffcddfd9d705b8ed2d09f315f0" title=" " alt="" coords="538,451,725,491"/>
+<area shape="rect" id="node7" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="1083,373,1237,413"/>
+<area shape="rect" id="node8" href="$namespacempas__pool__routines.html#aeb78ae0030b1a62b7e88bf1c7927b0d8" title=" " alt="" coords="1083,488,1237,528"/>
+<area shape="rect" id="node11" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1563,1869,1767,1909"/>
+<area shape="rect" id="node10" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="1567,186,1762,211"/>
+<area shape="rect" id="node12" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="1579,121,1750,161"/>
+<area shape="rect" id="node23" href="$namespaceconvective__diagnostics.html#a15b9527ebf904d7a966335bb4542b66c" title="Computes convective diagnostic." alt="" coords="540,731,723,786"/>
+<area shape="rect" id="node24" href="$namespacediagnostic__template.html#a51d4fac5c202bbeca57562b95866967c" title="Compute diagnostic before model output is written." alt="" coords="550,810,713,865"/>
+<area shape="rect" id="node25" href="$namespaceisobaric__diagnostics.html#a1c71e07a04eb38d243b36a075bccce21" title="Compute isobaric diagnostic before model output is written." alt="" coords="550,889,713,943"/>
+<area shape="rect" id="node26" href="$namespacepv__diagnostics.html#a7f65ac9faa97dea188350e1258672d45" title="Compute diagnostic before model output is written." alt="" coords="548,667,715,707"/>
+<area shape="rect" id="node27" href="$namespacesoundings.html#ae163535e8a42154afb7a572f3aaeee0f" title="If soundings alarm is ringing, writes soundings text files." alt="" coords="550,968,713,1008"/>
+<area shape="rect" id="node29" href="$namespaceconvective__diagnostics.html#a7a72c27c572fa4ac4c2e12b9aba0bc91" title="Reset maximum values for convective diagnostics." alt="" coords="520,1096,743,1136"/>
+<area shape="rect" id="node30" href="$namespacediagnostic__template.html#a494142173d702092c7c8acba31fb4d5e" title="Reset diagnostic after it has been written." alt="" coords="530,1032,733,1072"/>
+<area shape="rect" id="node32" href="$namespaceconvective__diagnostics.html#a1542833929596aef81e23b29c4f7b4ae" title="Updates the maximum pointwise values for convective diagnostics." alt="" coords="540,1239,723,1294"/>
+<area shape="rect" id="node33" href="$namespacediagnostic__template.html#aeb5ff65891e288a413ec5c47d2ab55da" title="Handle diagnostic calculation needed after each timestep." alt="" coords="550,1161,713,1215"/>
+<area shape="rect" id="node36" href="$namespacempas__timekeeping.html#acf3cee7d823439c61906257e9ba2878a" title=" " alt="" coords="1316,1712,1507,1752"/>
+<area shape="rect" id="node38" href="$namespacempas__stream__manager.html#aa02eee98390779abe9139f7c6d7e5317" title="Construct the filename that contains a specific time in a stream." alt="" coords="813,1415,989,1470"/>
+<area shape="rect" id="node39" href="$namespacempas__timekeeping.html#aa1809277d4fb2bd23e86186cd84621f7" title="This is a utility routine that expands a string with a timestamp." alt="" coords="1065,1527,1255,1567"/>
+<area shape="rect" id="node40" href="$namespacempas__io__streams.html#ac5f7fecb65150ef58e4ac74782dcc1a8" title=" " alt="" coords="811,1545,992,1585"/>
+<area shape="rect" id="node41" href="$namespacempas__io__streams.html#a1eb99afbaf08aa1118058adb512d7758" title=" " alt="" coords="811,1609,992,1649"/>
+<area shape="rect" id="node42" href="$namespacempas__dmpar.html#a38cd7834da4e8cf8d42b41ce0ade6e67" title="MPAS dmpar broadcast logical routine." alt="" coords="1311,1977,1511,2017"/>
+<area shape="rect" id="node43" href="$namespacempas__stream__list.html#ade1de0f55cc94aa313fb4cd0a4755749" title="Get streams from a stream list." alt="" coords="810,2028,993,2068"/>
+<area shape="rect" id="node46" href="$namespacempas__pool__routines.html#a3523a20ac4e1140ccf78363179759f12" title="MPAS Pool Begin Iteration Routine." alt="" coords="1308,2161,1515,2201"/>
+</map>

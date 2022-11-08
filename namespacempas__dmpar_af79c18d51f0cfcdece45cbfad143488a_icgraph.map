@@ -1,0 +1,52 @@
+<map id="mpas_dmpar::mpas_dmpar_sum_real" name="mpas_dmpar::mpas_dmpar_sum_real">
+<area shape="rect" id="node1" title="MPAS dmpar sum real routine." alt="" coords="1015,1362,1215,1402"/>
+<area shape="rect" id="node2" href="$namespaceseaice__conservation__check.html#a19e8ae8c7d4a7999509fea670a792394" title="Compute total energy of sea&#45;ice system." alt="" coords="771,33,941,88"/>
+<area shape="rect" id="node5" href="$namespaceseaice__conservation__check.html#a8f09e6a7b22d4b140193f3cd47fc2210" title="Compute total salt of sea&#45;ice system." alt="" coords="756,113,956,153"/>
+<area shape="rect" id="node7" href="$namespaceli__statistics.html#a8a7cf1dc9f232a341b0e28dd53161927" title="Computes global and local statistics." alt="" coords="485,177,661,217"/>
+<area shape="rect" id="node10" href="$namespacempas__timer.html#a4b62e1a0f4a967bd10da58a8f43dc615" title="MPAS Timer stop routine." alt="" coords="745,1340,967,1365"/>
+<area shape="rect" id="node47" href="$namespaceocn__eliassen__palm.html#adef07c9bcecf272c981bfdd1bd08a1c1" title="Compute Eliassen&#45;Palm flux tensor." alt="" coords="751,1390,961,1430"/>
+<area shape="rect" id="node48" href="$namespaceocn__regional__stats.html#aad30b199b2272a60be33487452a5e2c7" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="748,1454,964,1494"/>
+<area shape="rect" id="node49" href="$namespaceseaice__ice__shelves.html#a6635d62ad4ca2fc736e48778a1f64a97" title="Compute MPAS&#45;Seaice analysis member." alt="" coords="775,1519,937,1573"/>
+<area shape="rect" id="node50" href="$namespacesw__global__diagnostics.html#af8236f268bb5ed86cbd9b50d71dbf32f" title=" " alt="" coords="759,1598,953,1638"/>
+<area shape="rect" id="node3" href="$namespaceseaice__conservation__check.html#aac084d9f98e27a97e4df55517538b431" title="Compute MPAS&#45;Seaice analysis member." alt="" coords="220,63,401,117"/>
+<area shape="rect" id="node4" href="$namespaceseaice__conservation__check.html#a3318b1c1a1284fae3947762a1ac35f15" title="Precompute MPAS&#45;Seaice analysis member." alt="" coords="472,33,675,88"/>
+<area shape="rect" id="node6" href="$namespaceseaice__conservation__check.html#a82a3d7f49e278979759e905f0d434fc6" title="Compute MPAS&#45;Seaice analysis member." alt="" coords="478,113,669,153"/>
+<area shape="rect" id="node8" href="$namespaceli__core.html#aeeec4424e39396b4f39a0d8b97053255" title="Performs the initial diagnostic solve for the LI core." alt="" coords="231,637,391,677"/>
+<area shape="rect" id="node9" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="17,939,161,964"/>
+<area shape="rect" id="node11" href="$mpas__ocn__lagrangian__particle__tracking_8F.html#ae76737697b37ce3bc6c154452db14879" title="MPAS ocean analysis mode member: lagrangian_particle_tracking." alt="" coords="484,1441,663,1481"/>
+<area shape="rect" id="node12" href="$mpas__ocn__particle__list_8F.html#a7b36587de80dd1fec296f4f056b85935" title="Particle framework." alt="" coords="494,1505,653,1545"/>
+<area shape="rect" id="node13" href="$namespaceli__time__integration__fe.html#a55cc16587ac35ff1ac6e176b5d4bef23" title="Advect thickness and tracers." alt="" coords="230,1599,391,1639"/>
+<area shape="rect" id="node14" href="$namespaceli__time__integration__fe.html#ad06e7e427e0638a849d374ea0fd3453c" title="Forward Euler time integration scheme." alt="" coords="5,1656,172,1711"/>
+<area shape="rect" id="node15" href="$namespaceseaice__velocity__solver.html#a871088e50c7fc537aa49b274a0f9626b" title=" " alt="" coords="225,1911,396,1951"/>
+<area shape="rect" id="node16" href="$namespaceatm__core.html#a7a2a9ad754bbe9947ddc39c1bd47a429" title=" " alt="" coords="483,2001,663,2027"/>
+<area shape="rect" id="node17" href="$namespaceatm__time__integration.html#ad4fb726ca5491144205cde232b1e3294" title=" " alt="" coords="229,2077,392,2117"/>
+<area shape="rect" id="node18" href="$namespaceseaice__velocity__solver.html#a3e9f8c65b6fd21cc071552590f9c059e" title=" " alt="" coords="488,2182,659,2222"/>
+<area shape="rect" id="node19" href="$namespaceli__subglacial__hydro.html#aab6e67aa7116eff32238998718ca9ccd" title="Calculate SGH timesteps and check current timestep." alt="" coords="500,1771,647,1811"/>
+<area shape="rect" id="node20" href="$namespaceli__subglacial__hydro.html#af9689697375300899e139cfaf5ee86bd" title="Solve and update SGH for current time step." alt="" coords="237,1727,384,1767"/>
+<area shape="rect" id="node21" href="$namespaceseaice__velocity__solver.html#a41e06f2f9bbcc5f3d5207036290fcdb4" title=" " alt="" coords="488,1937,659,1977"/>
+<area shape="rect" id="node22" href="$namespacempas__atmphys__driver__cloudiness.html#ab8a951e3355ccba6134212e1f27ec00e" title=" " alt="" coords="490,2247,657,2301"/>
+<area shape="rect" id="node23" href="$namespacempas__atmphys__driver__convection.html#ad26d0f2aa995cd70c5de085560407522" title=" " alt="" coords="490,2325,657,2380"/>
+<area shape="rect" id="node24" href="$namespacempas__atmphys__driver__gwdo.html#a9c250b0a5e0508128cf4bfb4d601b7e7" title=" " alt="" coords="490,2405,657,2445"/>
+<area shape="rect" id="node25" href="$namespacempas__atmphys__driver__lsm.html#ab0e79dc26783586b9d8d2e3ef9a9f27d" title=" " alt="" coords="490,2469,657,2509"/>
+<area shape="rect" id="node26" href="$namespacempas__atmphys__driver__microphysics.html#aa6b481590ae033502d4c0a274263e0ac" title=" " alt="" coords="490,2103,657,2157"/>
+<area shape="rect" id="node27" href="$namespacempas__atmphys__driver__pbl.html#abe73ab2e32e4a81d72a03ba7490e738e" title=" " alt="" coords="490,2533,657,2573"/>
+<area shape="rect" id="node28" href="$namespacempas__atmphys__driver__radiation__lw.html#ad8ce4319f4ee5ca2cfd2a27d8673a1d5" title=" " alt="" coords="490,292,657,347"/>
+<area shape="rect" id="node29" href="$namespacempas__atmphys__driver__radiation__sw.html#ad35fe490c82643b939962251b0a47912" title=" " alt="" coords="490,371,657,425"/>
+<area shape="rect" id="node30" href="$namespacempas__atmphys__driver__sfclayer.html#a51ce70e1981597f896c1f40c1e407ff3" title=" " alt="" coords="480,450,667,490"/>
+<area shape="rect" id="node31" href="$namespaceseaice__column.html#aa7660d56432843b63333407c4b91550b" title=" " alt="" coords="499,514,647,554"/>
+<area shape="rect" id="node32" href="$namespaceseaice__velocity__solver.html#a3d76f0983aa2cdf2e5d4a0719c75418f" title=" " alt="" coords="488,709,659,749"/>
+<area shape="rect" id="node33" href="$namespaceseaice__advection__incremental__remap.html#a47fe43b3513f6a8877e8d457028d6339" title="MPAS&#45;Seaice incremental remapping driver." alt="" coords="449,773,697,813"/>
+<area shape="rect" id="node34" href="$namespaceli__analysis__driver.html#ade41c7333a5f1be8b1d1d5c86b598c2d" title="Driver for MPAS&#45;Land Ice analysis computations." alt="" coords="229,1282,392,1322"/>
+<area shape="rect" id="node35" href="$namespaceli__analysis__driver.html#ac7932a80a1e909c25aca8faf8216236d" title="Driver for MPAS&#45;Land Ice analysis computations." alt="" coords="492,629,655,684"/>
+<area shape="rect" id="node36" href="$namespaceli__analysis__driver.html#ad7be76a5602d216819eb135f25bfb778" title="Finalize MPAS&#45;Land Ice analysis driver." alt="" coords="496,837,651,877"/>
+<area shape="rect" id="node37" href="$namespaceli__analysis__driver.html#a09420ba77aa4d75d95988a06085169c2" title="Initialize MPAS&#45;Land Ice analysis driver." alt="" coords="505,901,641,941"/>
+<area shape="rect" id="node38" href="$namespaceli__analysis__driver.html#abd840b0034d58f34104521de74f579aa" title="Save restart for MPAS&#45;Land Ice analysis driver." alt="" coords="236,1346,385,1386"/>
+<area shape="rect" id="node39" href="$namespaceli__analysis__driver.html#a31a448e12e06aa1169f4fddcef1151f0" title="Driver for MPAS&#45;Land Ice analysis output." alt="" coords="241,445,380,485"/>
+<area shape="rect" id="node40" href="$namespaceli__mask.html#ac78389139702b2b489494b9c3df558e8" title="Calculates masks for land ice." alt="" coords="474,1569,673,1595"/>
+<area shape="rect" id="node41" href="$namespaceli__subglacial__hydro.html#a0c02645dfbd1b83b5c711d45b6045679" title="Initialize SGH." alt="" coords="237,1663,384,1703"/>
+<area shape="rect" id="node42" href="$namespaceli__thermal.html#a8c88fa10fed58e68743aabb2dd8d1a02" title="MPAS land ice solver for vertical temperature/enthalpy." alt="" coords="229,1535,392,1575"/>
+<area shape="rect" id="node43" href="$namespaceli__thermal.html#a323f5f351faaa821c6511b4fff6dc45f" title="MPAS land ice initialize vertical temperature." alt="" coords="478,965,669,991"/>
+<area shape="rect" id="node44" href="$namespaceli__velocity__external.html#a00d0de09292ba33b7053eb9cf8efac57" title="Initializes blocks for external velocity solver use." alt="" coords="494,1015,653,1069"/>
+<area shape="rect" id="node45" href="$namespaceli__velocity__external.html#ae47bd980a719be075a0ea94e6c5e182e" title="Interface to call external velocity solvers." alt="" coords="473,1094,673,1134"/>
+<area shape="rect" id="node46" href="$namespaceli__velocity__external.html#ae28378337017df581b603a847cb5d7ba" title="Calls C++ code to write albany mesh in ascii format." alt="" coords="494,1159,653,1213"/>
+</map>

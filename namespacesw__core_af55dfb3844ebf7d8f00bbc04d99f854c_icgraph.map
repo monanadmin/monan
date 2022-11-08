@@ -1,0 +1,7 @@
+<map id="sw_core::simulation_clock_init" name="sw_core::simulation_clock_init">
+<area shape="rect" id="node1" title=" " alt="" coords="659,37,811,77"/>
+<area shape="rect" id="node2" href="$namespacesw__core.html#ac080d700195fcd0848b9695c9aa7f364" title="Pacakge setup routine." alt="" coords="456,5,611,45"/>
+<area shape="rect" id="node3" href="$namespacesw__core__interface.html#adc9c25662d95d20ea6e603eeecd6ea05" title="Pacakge setup routine." alt="" coords="459,69,607,109"/>
+<area shape="rect" id="node4" href="$namespacesw__core__interface.html#ae580e0525022db6a50736ac32c4d5ea3" title="Shallow water core setup routine." alt="" coords="260,69,408,109"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,69,212,109"/>
+</map>

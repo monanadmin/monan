@@ -1,0 +1,13 @@
+<map id="mpas_dmpar::mpas_dmpar_destroy_exchange_list" name="mpas_dmpar::mpas_dmpar_destroy_exchange_list">
+<area shape="rect" id="node1" title="MPAS dmpar destroy exchange list routine." alt="" coords="1157,107,1357,147"/>
+<area shape="rect" id="node2" href="$namespacempas__dmpar.html#a61dfb626b5419ea5b6dcdc78821bc0aa" title="MPAS dmpar destroy muiltihalo exchange list routine." alt="" coords="865,29,1109,69"/>
+<area shape="rect" id="node7" href="$namespacempas__dmpar.html#a556823602a8c54a2440ddc78fa85f98f" title="MPAS dmpar exchange list builder." alt="" coords="887,139,1087,179"/>
+<area shape="rect" id="node3" href="$namespacempas__bootstrapping.html#a5dc259fa96df7194adc6d9aa5d37102d" title="Obtains mesh partition, builds halos, and allocates blocks." alt="" coords="367,132,580,187"/>
+<area shape="rect" id="node4" href="$namespacempas__subdriver.html#a603c2e00593a818dd03388d65a7d5932" title=" " alt="" coords="116,117,315,143"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="112,167,319,207"/>
+<area shape="rect" id="node5" href="$mpas_8F.html#a554ab5092fe5cd669557e865f6018565" title=" " alt="" coords="5,117,64,143"/>
+<area shape="rect" id="node8" href="$namespacempas__block__creator.html#aad1d6f9cd899f9fc0a57d82cd79f83ac" title="Initializes 0 and 1 halo edge based fields requried to work out halos." alt="" coords="628,38,817,107"/>
+<area shape="rect" id="node9" href="$namespacempas__block__creator.html#abff3fdf59cadf118ddf87e12df346faf" title="Initializes 0 halo cell based fields requried to work out halos." alt="" coords="634,132,811,187"/>
+<area shape="rect" id="node10" href="$namespacempas__block__creator.html#af00026a041105785c7fd97b0e3ca3279" title="Builds cell halos." alt="" coords="642,211,803,265"/>
+<area shape="rect" id="node11" href="$namespacempas__block__creator.html#a11cdd50ddff55d3c1b40d0ae56d46d13" title="Builds edge halos." alt="" coords="642,289,803,344"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mpas_framework::mpas_framework_init_phase1" name="mpas_framework::mpas_framework_init_phase1">
+<area shape="rect" id="node1" title="MPAS framework initialization phase 1 routine." alt="" coords="5,5,188,45"/>
+<area shape="rect" id="node2" href="$namespacempas__dmpar.html#aba3ea1df4fae27a533a298814cb1364b" title="MPAS dmpar initialization routine." alt="" coords="236,13,464,38"/>
+</map>

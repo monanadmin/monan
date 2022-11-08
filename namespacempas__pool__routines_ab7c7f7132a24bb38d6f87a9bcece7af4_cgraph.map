@@ -1,0 +1,6 @@
+<map id="mpas_pool_routines::mpas_pool_config_type" name="mpas_pool_routines::mpas_pool_config_type">
+<area shape="rect" id="node1" title="Returns the type of a config in an MPAS pool." alt="" coords="5,29,189,69"/>
+<area shape="rect" id="node2" href="$namespacempas__pool__routines.html#a4ab715a373dcc63b73c9c9c1b476a19d" title=" " alt="" coords="237,29,391,69"/>
+<area shape="rect" id="node3" href="$namespacempas__pool__routines.html#ae16592c11b643bee126eef0d41049cd0" title=" " alt="" coords="439,29,592,69"/>
+<area shape="rect" id="node4" href="$namespacempas__c__interfacing.html#a6a8e247ef829d92256634eb1feb80278" title="Converts a Fortran string to a C null&#45;terminated string." alt="" coords="640,29,796,69"/>
+</map>

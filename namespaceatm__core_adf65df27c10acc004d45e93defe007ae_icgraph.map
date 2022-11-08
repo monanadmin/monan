@@ -1,0 +1,6 @@
+<map id="atm_core::atm_simulation_clock_init" name="atm_core::atm_simulation_clock_init">
+<area shape="rect" id="node1" title=" " alt="" coords="652,5,845,45"/>
+<area shape="rect" id="node2" href="$namespaceatm__core__interface.html#a01716a4eb51a5f6bee2aa0495da094df" title="Simulation clock setup routine." alt="" coords="456,5,604,45"/>
+<area shape="rect" id="node3" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,5,408,45"/>
+<area shape="rect" id="node4" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

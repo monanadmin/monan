@@ -1,0 +1,19 @@
+<map id="mpas_stream_manager::mpas_stream_mgr_remove_field" name="mpas_stream_manager::mpas_stream_mgr_remove_field">
+<area shape="rect" id="node1" title="Remove a field from the specified stream in an MPAS stream manager." alt="" coords="1407,177,1652,217"/>
+<area shape="rect" id="node2" href="$mpas__ocn__pointwise__stats_8F.html#afa610fb2e3114c330039d6a6369c3054" title="MPAS ocean analysis mode member: pointwise_stats." alt="" coords="1157,5,1329,45"/>
+<area shape="rect" id="node3" href="$mpas__seaice__pointwise__stats_8F.html#ab9bbac24db4d3e6ba9010c21a2cafd8f" title="MPAS&#45;seaice analysis mode member: pointwise_stats." alt="" coords="1148,69,1339,109"/>
+<area shape="rect" id="node4" href="$namespacempas__forcing.html#a6aba188b1940c2b14434a21ed0cc754d" title="return the current forcing time" alt="" coords="1148,213,1339,253"/>
+<area shape="rect" id="node9" href="$namespaceocn__regional__stats.html#a2e7501dbc2a71803b43420ecea3f88e6" title="Finalize MPAS&#45;Ocean analysis member." alt="" coords="1140,341,1347,381"/>
+<area shape="rect" id="node14" href="$namespaceocn__time__series__stats.html#a1b9df4c31283400648c14b62442ce14a" title="Finalize MPAS&#45;Ocean analysis member." alt="" coords="1128,277,1359,317"/>
+<area shape="rect" id="node15" href="$namespaceseaice__time__series__stats.html#ab9869f64050dcbd59551f9cd2ab52620" title="Finalize MPAS&#45;Ocean analysis member." alt="" coords="1160,134,1327,189"/>
+<area shape="rect" id="node5" href="$namespaceseaice__forcing.html#a34a94b81a2bd80e562bb11886333beb5" title="Retrieve forcing data during time stepping." alt="" coords="903,213,1069,253"/>
+<area shape="rect" id="node6" href="$namespaceseaice__core.html#ab47cec2148db1e3e102c7bee5eccbce4" title=" " alt="" coords="680,213,829,253"/>
+<area shape="rect" id="node7" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="453,213,617,253"/>
+<area shape="rect" id="node8" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,247,212,287"/>
+<area shape="rect" id="node10" href="$namespaceocn__analysis__driver.html#a9ce8345bef198355e4e3cee4e1e40dbc" title="Finalize MPAS&#45;Ocean analysis driver." alt="" coords="901,277,1071,317"/>
+<area shape="rect" id="node11" href="$namespaceocn__forward__mode.html#a3d844494119d300f797b13a519884088" title="Finalize MPAS&#45;Ocean Forward Mode." alt="" coords="665,277,844,317"/>
+<area shape="rect" id="node12" href="$namespaceocn__core.html#a5865b6e236ce7a2803449fe9b87aba9f" title="MPAS&#45;Ocean Finalize Driver." alt="" coords="462,277,609,317"/>
+<area shape="rect" id="node13" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="260,275,405,315"/>
+<area shape="rect" id="node16" href="$namespaceseaice__analysis__driver.html#a662b6a8d2c1a354304582ba3a9441db2" title="Finalize MPAS&#45;Ocean analysis driver." alt="" coords="892,145,1080,185"/>
+<area shape="rect" id="node17" href="$namespaceseaice__core.html#a23c5af2d2d75558b40ff00898b7f683a" title=" " alt="" coords="680,149,829,189"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="mpas_dmpar::mpas_dmpar_bcast_char" name="mpas_dmpar::mpas_dmpar_bcast_char">
+<area shape="rect" id="node1" title="MPAS dmpar broadcast character routine." alt="" coords="1185,5,1385,45"/>
+<area shape="rect" id="node2" href="$namespacesoundings.html#a394b69030e4a172747342d7676c9558a" title="Reads sounding locations and sets sounding alarm." alt="" coords="975,5,1137,45"/>
+<area shape="rect" id="node3" href="$namespacempas__atm__diagnostics__manager.html#abe64569f7dd4b6eef81dd9f917bc96ae" title="Initialize the diagnostics manager and all diagnostics." alt="" coords="684,5,927,45"/>
+<area shape="rect" id="node4" href="$namespaceatm__core.html#a0659d498c0831e5af045c2b189fcd21d" title=" " alt="" coords="456,13,636,38"/>
+<area shape="rect" id="node5" href="$namespaceatm__core__interface.html#a104bd5f2b24ee72dbd378d3f8d853e29" title="Atmosphere core setup routine." alt="" coords="260,5,408,45"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="soundings::soundings_compute" name="soundings::soundings_compute">
+<area shape="rect" id="node1" title="If soundings alarm is ringing, writes soundings text files." alt="" coords="5,75,168,115"/>
+<area shape="rect" id="node2" href="$namespacempas__timekeeping.html#a8d5d19985f6b27f205d5c3ef823eb629" title=" " alt="" coords="455,47,645,87"/>
+<area shape="rect" id="node3" href="$namespacempas__timekeeping.html#a76064be40df3c8e9887996c6763fb419" title=" " alt="" coords="216,31,407,71"/>
+<area shape="rect" id="node4" href="$namespacempas__timekeeping.html#ab899b7d38b0f90466f4a7523274728be" title=" " alt="" coords="216,119,407,159"/>
+<area shape="rect" id="node5" href="$namespacempas__timekeeping.html#a277dbd9eccabe934a4e19400ab8dcb36" title=" " alt="" coords="216,183,407,223"/>
+<area shape="rect" id="node6" href="$namespacempas__timekeeping.html#ac6fa9b11da76e093be878a79d933a24a" title="This routine computes the number intervals that fit into another interval." alt="" coords="455,183,645,223"/>
+<area shape="rect" id="node7" href="$namespacempas__timekeeping.html#a69acc0b38ab3bd27dee976bed346b06d" title=" " alt="" coords="693,183,884,223"/>
+<area shape="rect" id="node8" href="$namespacempas__timekeeping.html#a9e22707655fafd3209ba81e2ae069609" title=" " alt="" coords="932,183,1123,223"/>
+</map>

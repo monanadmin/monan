@@ -1,0 +1,11 @@
+<map id="mpas_forcing::create_new_forcing_stream" name="mpas_forcing::create_new_forcing_stream">
+<area shape="rect" id="node1" title="create a new forcing stream" alt="" coords="5,93,167,133"/>
+<area shape="rect" id="node2" href="$namespacempas__forcing.html#ae222765031d0181e51f2f5995f61d732" title="returns the forcing interval given a forcing time" alt="" coords="244,29,407,69"/>
+<area shape="rect" id="node3" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="247,93,403,133"/>
+<area shape="rect" id="node9" href="$namespacempas__stream__manager.html#a34ba4ae8438a5ad4220095e81fdf1d9b" title="Retrieves the clock used by the stream manager." alt="" coords="215,157,436,197"/>
+<area shape="rect" id="node4" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="484,47,679,73"/>
+<area shape="rect" id="node7" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="967,93,1171,133"/>
+<area shape="rect" id="node8" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="496,151,667,191"/>
+<area shape="rect" id="node5" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="727,36,919,76"/>
+<area shape="rect" id="node6" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="989,29,1149,69"/>
+</map>

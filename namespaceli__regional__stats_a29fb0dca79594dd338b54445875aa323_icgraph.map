@@ -1,0 +1,7 @@
+<map id="li_regional_stats::li_compute_regional_stats" name="li_regional_stats::li_compute_regional_stats">
+<area shape="rect" id="node1" title="Compute MPAS&#45;Land Ice analysis member." alt="" coords="868,5,1061,45"/>
+<area shape="rect" id="node2" href="$namespaceli__analysis__driver.html#ad7be76a5602d216819eb135f25bfb778" title="Finalize MPAS&#45;Land Ice analysis driver." alt="" coords="665,5,820,45"/>
+<area shape="rect" id="node3" href="$namespaceli__core.html#ae5e0f774eef393d0119a4fe4d131618f" title="Finalizes the land ice core." alt="" coords="447,13,617,38"/>
+<area shape="rect" id="node4" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="260,5,399,45"/>
+<area shape="rect" id="node5" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="li_setup::li_calculate_layerthickness" name="li_setup::li_calculate_layerthickness">
+<area shape="rect" id="node1" title="Calculates the thickness of each layer, given the total thickness." alt="" coords="1571,69,1725,109"/>
+<area shape="rect" id="node2" href="$namespaceli__time__integration__fe.html#abedc99fe597c2bc99c14e6a392aa6742" title="Calculates layerThicknessEdge." alt="" coords="1280,5,1523,45"/>
+<area shape="rect" id="node9" href="$namespaceli__advection.html#a1a21075d0932a00958e6200797ab1b67" title="Advection for ice thickness and tracers." alt="" coords="1307,69,1495,109"/>
+<area shape="rect" id="node10" href="$namespaceli__statistics.html#a8a7cf1dc9f232a341b0e28dd53161927" title="Computes global and local statistics." alt="" coords="847,127,1023,167"/>
+<area shape="rect" id="node3" href="$namespaceli__time__integration__fe.html#a55cc16587ac35ff1ac6e176b5d4bef23" title="Advect thickness and tracers." alt="" coords="1071,33,1232,73"/>
+<area shape="rect" id="node4" href="$namespaceli__time__integration__fe.html#ad06e7e427e0638a849d374ea0fd3453c" title="Forward Euler time integration scheme." alt="" coords="851,26,1018,81"/>
+<area shape="rect" id="node5" href="$namespaceli__time__integration.html#a7e1e2095c8bd4a84b257fc566ecf0012" title="Advance model state forward in time by the specified time step." alt="" coords="646,33,791,73"/>
+<area shape="rect" id="node6" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="447,98,591,123"/>
+<area shape="rect" id="node7" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="260,91,399,131"/>
+<area shape="rect" id="node8" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,91,212,131"/>
+<area shape="rect" id="node11" href="$namespaceli__core.html#aeeec4424e39396b4f39a0d8b97053255" title="Performs the initial diagnostic solve for the LI core." alt="" coords="639,148,799,188"/>
+</map>

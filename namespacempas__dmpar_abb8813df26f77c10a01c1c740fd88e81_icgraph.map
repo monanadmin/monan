@@ -1,0 +1,12 @@
+<map id="mpas_dmpar::mpas_dmpar_init_multihalo_exchange_list" name="mpas_dmpar::mpas_dmpar_init_multihalo_exchange_list">
+<area shape="rect" id="node1" title="MPAS dmpar initialize muiltihalo exchange list routine." alt="" coords="901,185,1117,225"/>
+<area shape="rect" id="node2" href="$namespacempas__block__creator.html#aad1d6f9cd899f9fc0a57d82cd79f83ac" title="Initializes 0 and 1 halo edge based fields requried to work out halos." alt="" coords="646,5,835,75"/>
+<area shape="rect" id="node7" href="$namespacempas__block__creator.html#ab09086690f305f2b0775a0a7355b4776" title="Initializes the list of blocks, and determines 0 halo cell indices." alt="" coords="628,99,853,154"/>
+<area shape="rect" id="node8" href="$namespacempas__bootstrapping.html#a2937b069ae6cb5d7cc82bfabb1ff450e" title=" " alt="" coords="661,178,820,233"/>
+<area shape="rect" id="node9" href="$namespacempas__bootstrapping.html#ac34e57698583d123c4802f499a47693f" title=" " alt="" coords="657,257,824,311"/>
+<area shape="rect" id="node10" href="$namespacempas__bootstrapping.html#a92a2ff9ffd41b5b443260c6d231dbc15" title=" " alt="" coords="652,335,829,390"/>
+<area shape="rect" id="node3" href="$namespacempas__bootstrapping.html#a5dc259fa96df7194adc6d9aa5d37102d" title="Obtains mesh partition, builds halos, and allocates blocks." alt="" coords="367,178,580,233"/>
+<area shape="rect" id="node4" href="$namespacempas__subdriver.html#a603c2e00593a818dd03388d65a7d5932" title=" " alt="" coords="116,163,315,189"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="112,213,319,253"/>
+<area shape="rect" id="node5" href="$mpas_8F.html#a554ab5092fe5cd669557e865f6018565" title=" " alt="" coords="5,163,64,189"/>
+</map>

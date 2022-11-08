@@ -1,0 +1,52 @@
+<map id="li_core_interface::li_setup_core" name="li_core_interface::li_setup_core">
+<area shape="rect" id="node1" title="Land ice core setup routine." alt="" coords="5,1860,144,1900"/>
+<area shape="rect" id="node2" href="$namespaceli__core.html#ae5e0f774eef393d0119a4fe4d131618f" title="Finalizes the land ice core." alt="" coords="198,224,369,250"/>
+<area shape="rect" id="node12" href="$namespaceli__core.html#a7ae277b566443d2c7e2ecf070616c801" title="Initializes land ice core." alt="" coords="211,1143,355,1168"/>
+<area shape="rect" id="node29" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="211,1810,355,1835"/>
+<area shape="rect" id="node42" href="$namespaceli__core__interface.html#a49bf6d421993bea6d772411637af9571" title="Returns the name of the stream containing mesh information." alt="" coords="206,1924,361,1964"/>
+<area shape="rect" id="node43" href="$namespaceli__core__interface.html#af7273f9beabbf26aedaa58c6d40ee356" title="Land ice block setup function." alt="" coords="214,1988,353,2028"/>
+<area shape="rect" id="node44" href="$namespaceli__core__interface.html#afcbd3a6767a7361ce618e6f2a91ad3a6" title="Pacakge setup function." alt="" coords="214,1860,353,1900"/>
+<area shape="rect" id="node46" href="$namespaceli__core__interface.html#ac64d10a74932fb85d44deb36ecd91d85" title="Decomposition setup function." alt="" coords="192,2312,375,2352"/>
+<area shape="rect" id="node49" href="$namespaceli__core__interface.html#a1564bcdae325144610e9b85cd0327e3d" title="Log setup routine." alt="" coords="214,2376,353,2416"/>
+<area shape="rect" id="node50" href="$namespaceli__core__interface.html#ad277cfae1ee1075fa63fbfcfa4200fd6" title="Pacakge setup function." alt="" coords="212,70,355,110"/>
+<area shape="rect" id="node3" href="$namespaceli__analysis__driver.html#ad7be76a5602d216819eb135f25bfb778" title="Finalize MPAS&#45;Land Ice analysis driver." alt="" coords="441,906,595,946"/>
+<area shape="rect" id="node6" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="948,657,1104,697"/>
+<area shape="rect" id="node7" href="$namespaceli__subglacial__hydro.html#ad083d1783a4bff38f2353c3558959cd4" title="Finalize SGH." alt="" coords="445,217,591,257"/>
+<area shape="rect" id="node9" href="$namespaceli__velocity.html#a9e030faebca3af622824efd5a4a315ab" title="Finalizes velocity solver." alt="" coords="437,332,599,372"/>
+<area shape="rect" id="node10" href="$mpas__decomp_8F.html#a8b00bc18faef4b5075b890a1ee07de62" title="MPAS decomp list destruction routine." alt="" coords="431,38,605,78"/>
+<area shape="rect" id="node11" href="$namespacempas__timekeeping.html#a7e8263deca1ac59b635605e0a5a95f29" title=" " alt="" coords="423,102,613,142"/>
+<area shape="rect" id="node4" href="$namespacempas__timer.html#ad9fdd184cf4b69c61c3b9ec6c365e731" title="MPAS Timer start routine." alt="" coords="679,917,865,957"/>
+<area shape="rect" id="node5" href="$namespacempas__timer.html#a4b62e1a0f4a967bd10da58a8f43dc615" title="MPAS Timer stop routine." alt="" coords="661,867,883,892"/>
+<area shape="rect" id="node8" href="$namespacempas__pool__routines.html#a5c311371a112b762216197e6b4b941b8" title="MPAS Pool Subpool access subroutine." alt="" coords="679,600,865,640"/>
+<area shape="rect" id="node13" href="$namespaceli__core.html#a947db250ca82cfeb1e82e1a7a50b22c7" title="Initializes blocks for the land ice core." alt="" coords="444,497,592,537"/>
+<area shape="rect" id="node14" href="$namespaceli__analysis__driver.html#a09420ba77aa4d75d95988a06085169c2" title="Initialize MPAS&#45;Land Ice analysis driver." alt="" coords="450,1136,586,1176"/>
+<area shape="rect" id="node15" href="$namespacempas__timekeeping.html#abaac4733a856ced62f4f187b8065cd92" title=" " alt="" coords="677,1106,867,1146"/>
+<area shape="rect" id="node16" href="$namespacempas__timekeeping.html#aa12932350721b123e41498fa4cde3723" title=" " alt="" coords="677,1170,867,1210"/>
+<area shape="rect" id="node18" href="$namespacempas__timekeeping.html#a8d5d19985f6b27f205d5c3ef823eb629" title=" " alt="" coords="1169,1602,1360,1642"/>
+<area shape="rect" id="node19" href="$namespacempas__timekeeping.html#acf3cee7d823439c61906257e9ba2878a" title=" " alt="" coords="931,1660,1121,1700"/>
+<area shape="rect" id="node20" href="$namespaceli__setup.html#a20b85c949266ad97e75a4532707f8e75" title="Makes any setup changes needed based on chosen config options." alt="" coords="706,457,838,497"/>
+<area shape="rect" id="node21" href="$namespaceli__subglacial__hydro.html#a0c02645dfbd1b83b5c711d45b6045679" title="Initialize SGH." alt="" coords="445,662,591,702"/>
+<area shape="rect" id="node22" href="$namespaceli__thermal.html#a323f5f351faaa821c6511b4fff6dc45f" title="MPAS land ice initialize vertical temperature." alt="" coords="423,806,613,831"/>
+<area shape="rect" id="node23" href="$namespaceli__velocity__external.html#ae28378337017df581b603a847cb5d7ba" title="Calls C++ code to write albany mesh in ascii format." alt="" coords="439,727,597,782"/>
+<area shape="rect" id="node24" href="$namespaceli__velocity.html#a9617fa7289e9b2f0374f62876f1c0d90" title="Initializes velocity solver." alt="" coords="677,286,867,311"/>
+<area shape="rect" id="node25" href="$namespacempas__timekeeping.html#a76064be40df3c8e9887996c6763fb419" title=" " alt="" coords="677,1717,867,1757"/>
+<area shape="rect" id="node26" href="$namespacempas__stream__manager.html#a25b8eae2a0cd84e0f1ba696576c816db" title="Read streams that are managed by an MPAS stream manager." alt="" coords="424,1936,612,1976"/>
+<area shape="rect" id="node28" href="$namespacempas__stream__manager.html#a330e8e3107a935cb025d1f4bd4462aa3" title="Reset I/O alarms in a stream manager." alt="" coords="676,2152,868,2207"/>
+<area shape="rect" id="node17" href="$namespacempas__timekeeping.html#a277dbd9eccabe934a4e19400ab8dcb36" title=" " alt="" coords="931,2012,1121,2052"/>
+<area shape="rect" id="node27" href="$namespacempas__timekeeping.html#ab899b7d38b0f90466f4a7523274728be" title=" " alt="" coords="931,2218,1121,2258"/>
+<area shape="rect" id="node30" href="$namespaceli__analysis__driver.html#ade41c7333a5f1be8b1d1d5c86b598c2d" title="Driver for MPAS&#45;Land Ice analysis computations." alt="" coords="437,2101,599,2141"/>
+<area shape="rect" id="node31" href="$namespacempas__stream__manager.html#ad460c2ba5d3356463ac66a93c06a6761" title="Test whether any I/O alarms in a stream manager are ringing." alt="" coords="670,2358,874,2412"/>
+<area shape="rect" id="node32" href="$namespaceli__analysis__driver.html#abd840b0034d58f34104521de74f579aa" title="Save restart for MPAS&#45;Land Ice analysis driver." alt="" coords="443,1021,593,1061"/>
+<area shape="rect" id="node33" href="$namespaceli__analysis__driver.html#a31a448e12e06aa1169f4fddcef1151f0" title="Driver for MPAS&#45;Land Ice analysis output." alt="" coords="449,1530,587,1570"/>
+<area shape="rect" id="node34" href="$namespacempas__stream__manager.html#a22035ee7b50d380d1eb9d3ca6c54d367" title="Write streams that are managed by an MPAS stream manager." alt="" coords="676,1602,868,1642"/>
+<area shape="rect" id="node35" href="$namespaceli__statistics.html#a8a7cf1dc9f232a341b0e28dd53161927" title="Computes global and local statistics." alt="" coords="684,1386,860,1426"/>
+<area shape="rect" id="node36" href="$namespaceli__core.html#aeeec4424e39396b4f39a0d8b97053255" title="Performs the initial diagnostic solve for the LI core." alt="" coords="438,1416,598,1456"/>
+<area shape="rect" id="node37" href="$namespacempas__pool__routines.html#a3c23dc6c7ca0ef0f3f0b6ce2006508ed" title="MPAS Pool Time level shift routine." alt="" coords="685,1806,859,1860"/>
+<area shape="rect" id="node38" href="$namespaceli__time__integration.html#a7e1e2095c8bd4a84b257fc566ecf0012" title="Advance model state forward in time by the specified time step." alt="" coords="445,1301,591,1341"/>
+<area shape="rect" id="node39" href="$namespacempas__timekeeping.html#a4bc20d2a3231fb11fafca5d37f69514d" title=" " alt="" coords="423,1720,613,1760"/>
+<area shape="rect" id="node40" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="438,2165,598,2205"/>
+<area shape="rect" id="node41" href="$namespacempas__io__units.html#a1620ba129edb759f6b1f34c82387872b" title="MPAS Release unit routine." alt="" coords="438,2229,598,2269"/>
+<area shape="rect" id="node45" href="$namespaceli__core.html#aba314810889204caaf768a301e252305" title="Initializes the simulation clock." alt="" coords="693,2037,851,2077"/>
+<area shape="rect" id="node47" href="$mpas__decomp_8F.html#a1d9f0c8de952906da5003157cc15dfbe" title="MPAS decomp list create routine." alt="" coords="435,2610,601,2650"/>
+<area shape="rect" id="node48" href="$mpas__decomp_8F.html#aa5f1a1019a48cb4b428483e1811d7cdc" title="MPAS decomp list register routine." alt="" coords="431,2546,605,2586"/>
+</map>

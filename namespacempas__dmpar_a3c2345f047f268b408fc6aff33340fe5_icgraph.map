@@ -1,0 +1,26 @@
+<map id="mpas_dmpar::mpas_dmpar_sum_int" name="mpas_dmpar::mpas_dmpar_sum_int">
+<area shape="rect" id="node1" title="MPAS dmpar sum integers routine." alt="" coords="1432,197,1632,237"/>
+<area shape="rect" id="node2" href="$namespaceli__statistics.html#a8a7cf1dc9f232a341b0e28dd53161927" title="Computes global and local statistics." alt="" coords="1183,5,1359,45"/>
+<area shape="rect" id="node7" href="$namespacempas__tensor__operations.html#a62c887c84b358b539d8873c949486d73" title="Tests strain rate and tensor divergence operators." alt="" coords="1179,69,1362,109"/>
+<area shape="rect" id="node12" href="$namespaceocn__eliassen__palm.html#adef07c9bcecf272c981bfdd1bd08a1c1" title="Compute Eliassen&#45;Palm flux tensor." alt="" coords="1165,133,1376,173"/>
+<area shape="rect" id="node16" href="$namespaceocn__regional__stats.html#aad30b199b2272a60be33487452a5e2c7" title="Compute MPAS&#45;Ocean analysis member." alt="" coords="1163,197,1379,237"/>
+<area shape="rect" id="node17" href="$namespaceocn__okubo__weiss.html#ae8c8dc68373fb65937fa92f54604abfe" title="Initialize MPAS&#45;Ocean analysis member." alt="" coords="1187,261,1354,301"/>
+<area shape="rect" id="node18" href="$namespaceocn__init__global__ocean.html#a303c2a81ebcbb482ec2ca0d5fddca68e" title="Setup for global ocean test case." alt="" coords="1162,325,1379,365"/>
+<area shape="rect" id="node21" href="$namespaceseaice__regional__statistics.html#a98bc7b1254a72f5b035c75c285e9fb90" title="Initialize MPAS&#45;Seaice analysis member." alt="" coords="1157,389,1384,429"/>
+<area shape="rect" id="node3" href="$namespaceli__core.html#aeeec4424e39396b4f39a0d8b97053255" title="Performs the initial diagnostic solve for the LI core." alt="" coords="935,5,1095,45"/>
+<area shape="rect" id="node4" href="$namespaceli__core.html#a7208b343e6db4c24fa41299bf6215df9" title="Runs the land ice core." alt="" coords="712,70,856,95"/>
+<area shape="rect" id="node5" href="$namespaceli__core__interface.html#a2e48e39214f0be7f8ca35c73e7f6de9c" title="Land ice core setup routine." alt="" coords="273,112,411,152"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,197,212,237"/>
+<area shape="rect" id="node8" href="$namespaceocn__test.html#a1103957b9a72a8549180bb49abf3f171" title="Call all internal start&#45;up tests." alt="" coords="945,123,1085,163"/>
+<area shape="rect" id="node9" href="$namespaceocn__forward__mode.html#a9b043f2348d45741ff56fe9c01a8d26d" title="Initialize MPAS&#45;Ocean core." alt="" coords="695,128,873,168"/>
+<area shape="rect" id="node10" href="$namespaceocn__core.html#a222c57b5e554986e5c7a5ffd9d1acfb7" title="MPAS&#45;Ocean Initialize Driver." alt="" coords="472,138,647,163"/>
+<area shape="rect" id="node11" href="$namespaceocn__core__interface.html#a6a54bf42bf83f0029e83cdc5c8c31799" title="Ocean core setup routine." alt="" coords="269,197,415,237"/>
+<area shape="rect" id="node13" href="$namespaceocn__analysis__driver.html#a9ce8345bef198355e4e3cee4e1e40dbc" title="Finalize MPAS&#45;Ocean analysis driver." alt="" coords="931,197,1100,237"/>
+<area shape="rect" id="node14" href="$namespaceocn__forward__mode.html#a3d844494119d300f797b13a519884088" title="Finalize MPAS&#45;Ocean Forward Mode." alt="" coords="695,197,873,237"/>
+<area shape="rect" id="node15" href="$namespaceocn__core.html#a5865b6e236ce7a2803449fe9b87aba9f" title="MPAS&#45;Ocean Finalize Driver." alt="" coords="486,197,633,237"/>
+<area shape="rect" id="node19" href="$namespaceocn__init__mode.html#ae7852991a2cf9207e93958ff1f237c67" title="MPAS&#45;Ocean init mode run step." alt="" coords="941,277,1089,317"/>
+<area shape="rect" id="node20" href="$namespaceocn__core.html#a232280a77ef9ba42b6208040852f360e" title="MPAS&#45;Ocean Run Driver." alt="" coords="472,265,647,290"/>
+<area shape="rect" id="node22" href="$namespaceseaice__analysis__driver.html#a662b6a8d2c1a354304582ba3a9441db2" title="Finalize MPAS&#45;Ocean analysis driver." alt="" coords="921,373,1109,413"/>
+<area shape="rect" id="node23" href="$namespaceseaice__core.html#a23c5af2d2d75558b40ff00898b7f683a" title=" " alt="" coords="709,328,859,368"/>
+<area shape="rect" id="node24" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="260,283,424,323"/>
+</map>

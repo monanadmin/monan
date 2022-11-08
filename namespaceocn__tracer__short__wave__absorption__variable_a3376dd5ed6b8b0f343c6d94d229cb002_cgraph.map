@@ -1,0 +1,5 @@
+<map id="ocn_tracer_short_wave_absorption_variable::ocn_tracer_short_wave_absorption_variable_tend" name="ocn_tracer_short_wave_absorption_variable::ocn_tracer_short_wave_absorption_variable_tend">
+<area shape="rect" id="node1" title="Computes tendency term for surface fluxes." alt="" coords="5,42,200,111"/>
+<area shape="rect" id="node2" href="$namespaceocn__tracer__short__wave__absorption__variable.html#acaede40e1385085c59ec093907a6d28b" title="Computes coefficients for spatially varying penetrating shortwave via Ohlmann and Siegel 2000." alt="" coords="248,5,420,60"/>
+<area shape="rect" id="node3" href="$namespaceocn__tracer__short__wave__absorption__variable.html#ae853c09ac8032b398109a44cd8ac997f" title="Computes short wave absorption fractions." alt="" coords="248,85,420,154"/>
+</map>

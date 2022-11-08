@@ -1,0 +1,8 @@
+<map id="seaice_regional_statistics::init_vertex_masks" name="seaice_regional_statistics::init_vertex_masks">
+<area shape="rect" id="node1" title="Determine of the region mask is all zeros." alt="" coords="1180,5,1371,45"/>
+<area shape="rect" id="node2" href="$namespaceseaice__regional__statistics.html#a98bc7b1254a72f5b035c75c285e9fb90" title="Initialize MPAS&#45;Seaice analysis member." alt="" coords="905,5,1132,45"/>
+<area shape="rect" id="node3" href="$namespaceseaice__analysis__driver.html#a662b6a8d2c1a354304582ba3a9441db2" title="Finalize MPAS&#45;Ocean analysis driver." alt="" coords="669,5,857,45"/>
+<area shape="rect" id="node4" href="$namespaceseaice__core.html#a23c5af2d2d75558b40ff00898b7f683a" title=" " alt="" coords="472,5,621,45"/>
+<area shape="rect" id="node5" href="$namespaceseaice__core__interface.html#a7a4761e7caeae40260cf35fc1c0920eb" title="Seaice core setup routine." alt="" coords="260,5,424,45"/>
+<area shape="rect" id="node6" href="$interfacexml__stream__get__attributes.html#a62d18dff6a7fce39175c55fec91108ce" title=" " alt="" coords="5,5,212,45"/>
+</map>

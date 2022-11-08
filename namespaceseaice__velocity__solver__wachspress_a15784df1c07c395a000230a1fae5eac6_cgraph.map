@@ -1,0 +1,13 @@
+<map id="seaice_velocity_solver_wachspress::get_triangle_mapping" name="seaice_velocity_solver_wachspress::get_triangle_mapping">
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,196,219"/>
+<area shape="rect" id="node2" href="$namespaceseaice__velocity__solver__wachspress.html#a5d210e4db75378cefac1027570599a6d" title=" " alt="" coords="244,165,456,219"/>
+<area shape="rect" id="node3" href="$namespacempas__log.html#a74383116fd6bd17e9b94b49f81860e93" title="Writes a message to the log file." alt="" coords="521,69,677,109"/>
+<area shape="rect" id="node9" href="$namespaceseaice__velocity__solver__variational__shared.html#a99b1b61c26b6f070732c9a21329014c7" title=" " alt="" coords="741,209,941,263"/>
+<area shape="rect" id="node10" href="$namespaceseaice__velocity__solver__wachspress.html#a1d875dbe7304e29ddfb5573c44f64ed7" title=" " alt="" coords="504,209,693,263"/>
+<area shape="rect" id="node11" href="$namespaceseaice__velocity__solver__wachspress.html#a31d7d1d5a3d8114e38a044dc527fa3b1" title=" " alt="" coords="504,287,693,342"/>
+<area shape="rect" id="node4" href="$namespacempas__log.html#ad1f50143cbdc8be613e5105369cd0537" title="Connects to a log file for the log module to use." alt="" coords="744,22,939,47"/>
+<area shape="rect" id="node7" href="$namespacempas__threading.html#a81ccf1fb8a232af4532facd308d5445c" title="MPAS Threading get thread number function." alt="" coords="1229,69,1433,109"/>
+<area shape="rect" id="node8" href="$namespacempas__threading.html#a0a14c12e17e33d87ab46d10701fe3a76" title="MPAS Threading in parallel function." alt="" coords="756,127,927,167"/>
+<area shape="rect" id="node5" href="$namespacempas__abort.html#a951a52a61219f104a3c718dafed9aab5" title="Forces the exit of all processes in MPI_COMM_WORLD." alt="" coords="989,12,1181,52"/>
+<area shape="rect" id="node6" href="$namespacempas__io__units.html#a8a13af4a8cdee0460f86e1fe7bb1b0c3" title="MPAS New unit routine." alt="" coords="1251,5,1411,45"/>
+</map>
