@@ -98,8 +98,8 @@ contains
       character(len=512) :: linha
       character(len=256) :: modul
    
-      !Lê o arquivo que contém a lista de módulos
-      open(unit=22,file=fileName//"_module.txt",status='old',action='read')
+      !Lê o arquivo que contém a lista de includes 
+      open(unit=22,file=fileName//"_include.txt",status='old',action='read')
       do 
          read(unit=22,fmt="(A)",END=100) linha
          !Divide a linha:
@@ -324,13 +324,13 @@ program teste
    totalUses = 0
    totalPcds = 0
 
-   call leFiles("/home/lufla/desenv/INPE/estudo_atm_mpas/data/core_atmosphere")
-   call leFiles("/home/lufla/desenv/INPE/estudo_atm_mpas/data/framework")
-   call leFiles("/home/lufla/desenv/INPE/estudo_atm_mpas/data/driver")
-   call leFiles("/home/lufla/desenv/INPE/estudo_atm_mpas/data/external")
-   call leFiles("/home/lufla/desenv/INPE/estudo_atm_mpas/data/operators")
-   call leFiles("/home/lufla/desenv/INPE/estudo_atm_mpas/data/tools")
-   call leFontes("/home/lufla/desenv/INPE/estudo_atm_mpas/data/listaProcedures.txt")
+   call leFiles("/home/rpsouto/projetos/monan/github/monan/data/core_atmosphere")
+   call leFiles("/home/rpsouto/projetos/monan/github/monan/data/framework")
+   call leFiles("/home/rpsouto/projetos/monan/github/monan/data/driver")
+   call leFiles("/home/rpsouto/projetos/monan/github/monan/data/external")
+   call leFiles("/home/rpsouto/projetos/monan/github/monan/data/operators")
+   call leFiles("/home/rpsouto/projetos/monan/github/monan/data/tools")
+   call leFontes("/home/rpsouto/projetos/monan/github/monan/data/listaProcedures.txt")
    call checaStrutura(bloco)
 
 end program teste
